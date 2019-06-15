@@ -1,7 +1,6 @@
-# Microsoft Defender Advanced Threat Protection
+# Microsoft Defender Advanced Threat Protection - Resource Hub
 
-
-```batch
+```
                                                               .*//////////////.                    
                                                            .%@@@&&@@@@@@@@@@@@*   ,(%%#*           
                                             ,%&&%*        /@@@@(#&&(((#&@@&/#@@@@@@@&.         
@@ -29,6 +28,8 @@
      *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&@@@@@@&&&@@@/            
       .#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%,      
 ```
+
+Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If you're familiar with Git feel free to contribute through a pull request or simply submit a suggestion via an Issue. 
 
 
 ## Microsoft Tech Community Blog posts
