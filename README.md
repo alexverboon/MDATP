@@ -68,54 +68,46 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402)
 * [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208)
 * [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828)
+* [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265)
   
 
 ## Hunting Tips of the Month
 
 * [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
-
 * [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898)
-
 * [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454)
-
-* 
 
 
 ## Other Blog Posts
-
 * [How to Create a Custom Slack Alert for Windows Defender Advanced Threat Protection (ATP) using Microsoft Flow in 5 minutes](https://azurementor.wordpress.com/2019/03/22/how-to-create-a-custom-slack-alert-for-windows-defender-advanced-threat-protection-atp-using-microsoft-flow-in-5-minutes/)
-
 * [Automate response with Defender ATP and Microsoft Flow](http://blog.sec-labs.com/2019/04/automate-response-with-defender-atp-and-microsoft-flow/)
-
+* [Hunting for USB Rubber Ducky/ Bad USB with ATP](http://blog.sec-labs.com/2019/05/hunting-for-usb-rubber-ducky-bad-usb-with-atp/)
 * [Managing Alerts from MDATP in ServiceNow – Part I: Bearer Token Request And ServiceNow Connect](https://www.sepago.de/blog/managing-alerts-from-mdatp-in-servicenow-blog-series-part-one/)
-
+* [Hunting Windows Defender Exploit Guard with ATP](http://blog.sec-labs.com/2019/04/hunting-windows-defender-exploit-guard-with-atp/)
+* [Announcing new exciting capabilities of Windows Defender ATP (April 2018)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-new-exciting-capabilities-of-Windows-Defender-ATP/ba-p/185877)
+* [Automated Response for Windows Defender ATP](https://www.microsoft.com/en-us/microsoft-365/blog/2017/09/19/automated-response-for-windows-defender-atp/)
 * 
-
-## Webinars
-
+ 
+## Webinars and Videos
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
-
-* 
-
+* [Windows Defender ATP’s Advanced Hunting: Using Flexible Queries to Hunt Across Your Endpoints](https://www.sans.org/webcasts/windows-defender-atps-advanced-hunting-flexible-queries-hunt-endpoints-108005)
+* [Conditional Access with WDATP - The Endpoint Zone 1805](https://www.youtube.com/watch?v=f-ILlEuBFZg)
 
 ## PowerShell
+Check out the scripts in the PowerShell folder.
 
-Work in progress...
 
 ## Advanced Hunting 
-
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 
+## MDATP on Twitter
+* [NotNinjaCat] (@RavivTamir) (https://twitter.com/RavivTamir)
 
 
-
-Work in progress...
-
-## Other Things 
+## Other Things
 
 Work in progress..
 
 - Device Tagging
 - Offboard Machine programatically
-- 
