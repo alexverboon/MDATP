@@ -117,7 +117,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ## Webinars and Videos
 
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
-* [Windows Defender ATP’s Advanced Hunting: Using Flexible Queries to Hunt Across Your Endpoints](https://www.sans.org/webcasts/windows-defender-atps-advanced-hunting-flexible-queries-hunt-endpoints-108005)
+* [SANS - Windows Defender ATP’s Advanced Hunting: Using Flexible Queries to Hunt Across Your Endpoints](https://www.sans.org/webcasts/windows-defender-atps-advanced-hunting-flexible-queries-hunt-endpoints-108005)
 * [Conditional Access with WDATP - The Endpoint Zone 1805](https://www.youtube.com/watch?v=f-ILlEuBFZg)
 * [How to Configure Splunk to pull Windows Defender ATP alerts](https://www.verboon.info/2019/03/how-configure-splunk-to-pull-windows-defender-atp-alerts/)
 * [How to customize Windows Defender ATP Alert Email Notifications](https://www.verboon.info/2019/03/how-to-customize-windows-defender-atp-alert-email-notifications/)
@@ -150,6 +150,16 @@ Check out the scripts in the PowerShell folder.
 ## Microsoft Documentation
 
 * [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
+* [Defender ATP docs sources on GitHub](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/microsoft-defender-atp)
+* [Windows Defender docs sources on Github](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/windows-defender-antivirus)
+
+
+## PowerBI
+* [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)
+* [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
+* [Defender ATP and PowerBI](http://blog.sec-labs.com/2019/04/defender-atp-and-powerbi/)
+
+
 
 ## Other Things
 
