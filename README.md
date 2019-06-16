@@ -72,16 +72,24 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
 * [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) June 5,2018
 * [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
+* [New demo: Advanced Threat Protection across Windows 10 and Office](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039) March 31,2018
 * [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
 
 ***2017***
-* [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) June 27,2017
+
+* [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/) December 4,2017
+* [Microsoft partners extend Windows Defender ATP across platforms](https://www.microsoft.com/en-us/microsoft-365/blog/2017/11/08/microsoft-partners-extend-windows-defender-atp-across-platforms/) November 8,2017
 * [Windows Defender ATP helps analysts investigate and respond to threats](https://www.microsoft.com/en-us/itshowcase/windows-defender-atp-helps-analysts-investigate-and-respond-to-threats) September 21,2017
 * [Windows Defender ATP Windows 10 Fall Creators Update now open for public preview](https://blogs.windows.com/windowsexperience/2017/09/07/windows-defender-atp-windows-10-fall-creators-update-now-open-public-preview/#rco1WMWZ8mUM1GiW.97) Septgember 7, 2017
+* [Windows Defender ATP machine learning: Detecting new and unusual breach activity](https://www.microsoft.com/security/blog/2017/08/03/windows-defender-atp-machine-learning-detecting-new-and-unusual-breach-activity/) August 3, 2017
+* [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) June 27,2017
+* [Microsoft signs agreement to acquire Hexadite](https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/) June 8, 2017
+* [Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack](https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/) May 4,2017
 
 ***2016***
 
-* [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97)
+* [Windows Defender Advanced Threat Protection Preview Expands](https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/16/windows-defender-advanced-threat-protection-preview-expands/) May 16,2016
+* [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97) March 1, 2016
 
 ***2015***
 * [Windows 10 to offer application developers new malware defenses](https://www.microsoft.com/security/blog/2015/06/09/windows-10-to-offer-application-developers-new-malware-defenses/)
