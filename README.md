@@ -34,54 +34,51 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
-* [Microsoft Defender ATP for Mac now in open public preview](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603)
-* [Microsoft Defender ATP and Malware Information Sharing Platform integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M92)
-* [Pushing custom Indicator of Compromise (IoCs) to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Pushing-custom-Indicator-of-Compromise-IoCs-to-Microsoft/m-p/532203#M81)
-* [Automate machine isolation with MDATP and Microsoft Flow - YouTube MVP Demo ](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-machine-isolation-with-MDATP-and-Microsoft-Flow-YouTube/m-p/662426#M112)
-* [MDATP Python automation - Automate machine isolation with Python script](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077)
-* [Palo Alto Networks and WDATP ad-hoc integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15)
-* [Microsoft Defender ATP [Attack Simulation & Investigation] Demos](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-Attack-Simulation-amp-Investigation-Demos/m-p/661368#M108)
-* [Microsoft Defender ATP unified indicators of compromise (IoCs) experience](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415)
-* [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114)
-* [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977)
-* [Incident response at your fingertips with Microsoft Defender ATP live response](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Incident-response-at-your-fingertips-with-Microsoft-Defender-ATP/ba-p/614894)
-* [Tamper protection in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Tamper-protection-in-Microsoft-Defender-ATP/ba-p/389571)
-* [Updates to attack surface reduction rules for Office apps](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Updates-to-attack-surface-reduction-rules-for-Office-apps/ba-p/568951)
-* [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835)
-* [Announcing Microsoft Defender ATP for Mac](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-Microsoft-Defender-ATP-for-Mac/ba-p/378010)
-* [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8)
-* [Microsoft Defender ATP third-party solution integrations](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-third-party-solution-integrations/ba-p/532042)
-* [Microsoft Threat Experts reaches general availability](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Threat-Experts-reaches-general-availability/ba-p/502493)
-* [Protecting disconnected devices with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-disconnected-devices-with-Microsoft-Defender-ATP/ba-p/500341)
-* [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845)
-* [SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925)
-* [MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831)
-* [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813)
-* [New! Windows Defender ATP Incidents narrate the end-to-end attack story](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666)
-* [What’s new in Windows Defender ATP, November 2018](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-Windows-Defender-ATP-November-2018/ba-p/289112)
-* [WDATP September 2018 preview features are out!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666)
-* [Automating investigation and response for memory-based attacks](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354)
-* [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088)
-* [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191)
-* [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/183190)
-* [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597)
-* [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402)
-* [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208)
-* [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828)
+***2019***
 
+* [MDATP Python automation - Automate machine isolation with Python script](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077) June 3,2019
+* [Microsoft Defender ATP unified indicators of compromise (IoCs) experience](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415) May 29,2019
+* [Microsoft Defender ATP for Mac now in open public preview](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603) May 22,2019
+* [Incident response at your fingertips with Microsoft Defender ATP live response](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Incident-response-at-your-fingertips-with-Microsoft-Defender-ATP/ba-p/614894) May 20,2019
+* [Microsoft Defender ATP and Malware Information Sharing Platform integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M92) May 16,2019
+* [Updates to attack surface reduction rules for Office apps](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Updates-to-attack-surface-reduction-rules-for-Office-apps/ba-p/568951) May 15,2019
+* [Pushing custom Indicator of Compromise (IoCs) to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Pushing-custom-Indicator-of-Compromise-IoCs-to-Microsoft/m-p/532203#M81) May 5,2019
+* [Microsoft Defender ATP third-party solution integrations](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-third-party-solution-integrations/ba-p/532042) May 5,2019
+* [Microsoft Threat Experts reaches general availability](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Threat-Experts-reaches-general-availability/ba-p/502493) April 30,2019
+* [Protecting disconnected devices with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-disconnected-devices-with-Microsoft-Defender-ATP/ba-p/500341) April 29,2019
+* [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977) April 16,2019
+* [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-amp-Cloud-App-Security-Integration/m-p/450731#M42) April 15,2019
+* [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845) March 31,2019
+* [Tamper protection in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Tamper-protection-in-Microsoft-Defender-ATP/ba-p/389571) March 27,2019
+* [Announcing Microsoft Defender ATP for Mac](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-Microsoft-Defender-ATP-for-Mac/ba-p/378010) March 21,2019
+* [Palo Alto Networks and WDATP ad-hoc integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15) March 17,2019
+* [MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831) March 15,2019
+* [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8) March 7,2019
+* [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) February 17,2019
+* [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) February 15,2019
+* * [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
+* [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088) January 4,2019
 
-*** 2018 ***
+***2018***
 
+* [What’s new in Windows Defender ATP, November 2018](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-Windows-Defender-ATP-November-2018/ba-p/289112) November 19,2018
+* [New! Windows Defender ATP Incidents narrate the end-to-end attack story](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666) November 5,2018
+* [Automating investigation and response for memory-based attacks](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354) October 22,2018
+* [SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925) October 16,2019
 * [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265) September 27,2018
- 
-[Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
+* [WDATP September 2018 preview features are out!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254 September 5,2018)
+* [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208) August 16,2018
+* [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) August 5,2018
+* [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
+* [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) June 5,2018
+* [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
+* [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
 
-*** 2017 ***
+***2017***
 
-*** 2016 ***
+***2016***
 * [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97)
   
-
 ## Hunting Tips of the Month
 
 * [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
@@ -107,6 +104,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [How to Configure Splunk to pull Windows Defender ATP alerts](https://www.verboon.info/2019/03/how-configure-splunk-to-pull-windows-defender-atp-alerts/)
 * [How to customize Windows Defender ATP Alert Email Notifications](https://www.verboon.info/2019/03/how-to-customize-windows-defender-atp-alert-email-notifications/)
 * [Check Windows Defender ATP Client Status with PowerShell](https://www.verboon.info/2019/02/check-windows-defender-atp-client-status-with-powershell/)
+* [Microsoft Defender ATP [Attack Simulation & Investigation] Demos](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-Attack-Simulation-amp-Investigation-Demos/m-p/661368#M108)
+* [Automate machine isolation with MDATP and Microsoft Flow - YouTube MVP Demo ](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-machine-isolation-with-MDATP-and-Microsoft-Flow-YouTube/m-p/662426#M112)
 
 ## PowerShell
 Check out the scripts in the PowerShell folder.
