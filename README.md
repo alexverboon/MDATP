@@ -56,7 +56,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8) March 7,2019
 * [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) February 17,2019
 * [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) February 15,2019
-* * [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
+* [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
 * [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088) January 4,2019
 
 ***2018***
