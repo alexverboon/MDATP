@@ -1,6 +1,6 @@
 # Microsoft Defender Advanced Threat Protection - Resource Hub
 
-```
+```dos
                                                               .*//////////////.
                                                            .%@@@&&@@@@@@@@@@@@*   ,(%%#*
                                             ,%&&%*        /@@@@(#&&(((#&@@&/#@@@@@@@&.
@@ -29,8 +29,7 @@
       .#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%,
 ```
 
-Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If you're familiar with Git feel free to contribute through a pull request or simply submit a suggestion via an Issue. 
-
+Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If you're familiar with Git feel free to contribute through a pull request or simply submit a suggestion via an Issue. If you like to keep up to date add this repository to your GitHub watchlist.
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
@@ -57,6 +56,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) February 17,2019
 * [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) February 15,2019
 * [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
+* [Microsoft Defender ATP integrates with Microsoft Information Protection to discover, protect, and monitor sensitive data on Windows devices](https://www.microsoft.com/security/blog/2019/01/17/windows-defender-atp-integrates-with-microsoft-information-protection-to-discover-protect-and-monitor-sensitive-data-on-windows-devices/) January 17,2019
 * [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088) January 4,2019
 
 ***2018***
@@ -75,10 +75,18 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
 
 ***2017***
+* [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) June 27,2017
+* [Windows Defender ATP helps analysts investigate and respond to threats](https://www.microsoft.com/en-us/itshowcase/windows-defender-atp-helps-analysts-investigate-and-respond-to-threats) September 21,2017
+* [Windows Defender ATP Windows 10 Fall Creators Update now open for public preview](https://blogs.windows.com/windowsexperience/2017/09/07/windows-defender-atp-windows-10-fall-creators-update-now-open-public-preview/#rco1WMWZ8mUM1GiW.97) Septgember 7, 2017
 
 ***2016***
+
 * [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97)
-  
+
+***2015***
+* [Windows 10 to offer application developers new malware defenses](https://www.microsoft.com/security/blog/2015/06/09/windows-10-to-offer-application-developers-new-malware-defenses/)
+
+
 ## Hunting Tips of the Month
 
 * [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
@@ -87,6 +95,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 
 ## Other Blog Posts
+
 * [How to Create a Custom Slack Alert for Windows Defender Advanced Threat Protection (ATP) using Microsoft Flow in 5 minutes](https://azurementor.wordpress.com/2019/03/22/how-to-create-a-custom-slack-alert-for-windows-defender-advanced-threat-protection-atp-using-microsoft-flow-in-5-minutes/)
 * [Automate response with Defender ATP and Microsoft Flow](http://blog.sec-labs.com/2019/04/automate-response-with-defender-atp-and-microsoft-flow/)
 * [Hunting for USB Rubber Ducky/ Bad USB with ATP](http://blog.sec-labs.com/2019/05/hunting-for-usb-rubber-ducky-bad-usb-with-atp/)
@@ -98,6 +107,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/)
  
 ## Webinars and Videos
+
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
 * [Windows Defender ATP’s Advanced Hunting: Using Flexible Queries to Hunt Across Your Endpoints](https://www.sans.org/webcasts/windows-defender-atps-advanced-hunting-flexible-queries-hunt-endpoints-108005)
 * [Conditional Access with WDATP - The Endpoint Zone 1805](https://www.youtube.com/watch?v=f-ILlEuBFZg)
@@ -106,20 +116,32 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Check Windows Defender ATP Client Status with PowerShell](https://www.verboon.info/2019/02/check-windows-defender-atp-client-status-with-powershell/)
 * [Microsoft Defender ATP [Attack Simulation & Investigation] Demos](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-Attack-Simulation-amp-Investigation-Demos/m-p/661368#M108)
 * [Automate machine isolation with MDATP and Microsoft Flow - YouTube MVP Demo ](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-machine-isolation-with-MDATP-and-Microsoft-Flow-YouTube/m-p/662426#M112)
+* [Windows Defender ATP now extends beyond Windows clients](https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3064) October 11,2017
+* [Windows Defender ATP Investigation and Response](https://www.youtube.com/watch?v=rqxRXcn_d-g)
+* [Microsoft 365 Conditional access based on device-risk with Windows Defender ATP](https://www.youtube.com/watch?v=BbQ3G2owiMo)
+* [Windows Defender ATP Secure Score](https://www.youtube.com/watch?v=ie89m8DiGiw)
+* [RSA Conference 2018 Windows Defender ATP – Unified platform for endpoint security](https://www.youtube.com/watch?v=NN2SFTRPuew&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=16)
+* [RSA Conference 2018 Taking Ransomware to task with Windows Defender ATP](https://www.youtube.com/watch?v=QvzDMIqaRkU&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=8)
 
 ## PowerShell
+
 Check out the scripts in the PowerShell folder.
 
+## Advanced Hunting
 
-## Advanced Hunting 
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 
 ## MDATP on Twitter
+
 * [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)
 * [Microsoft Defender ATP @WindowsATP ](https://twitter.com/WindowsATP)
 * [Microsoft Threat Protection @MicrosoftMTP](https://twitter.com/MicrosoftMTP)
+
+## Microsoft Documentation
+
+* [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 
 ## Other Things
 
