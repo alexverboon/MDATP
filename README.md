@@ -66,7 +66,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Automating investigation and response for memory-based attacks](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354) October 22,2018
 * [SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925) October 16,2019
 * [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265) September 27,2018
-* [WDATP September 2018 preview features are out!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254 September 5,2018)
+* [WDATP September 2018 preview features are out](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254) September 5,2018)
 * [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208) August 16,2018
 * [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) August 5,2018
 * [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
