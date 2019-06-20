@@ -53,6 +53,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Palo Alto Networks and WDATP ad-hoc integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15) March 17,2019
 * [MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831) March 15,2019
 * [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8) March 7,2019
+* [Windows 10: Windows Defender Exploit Guard-Attack Surface Reduction rules](https://blogs.technet.microsoft.com/yongrhee/2019/02/24/windows-10-windows-defender-exploit-guard-attack-surface-reduction-rules/) February 24,2019
 * [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) February 17,2019
 * [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) February 15,2019
 * [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
@@ -68,11 +69,14 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265) September 27,2018
 * [WDATP September 2018 preview features are out](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254) September 5,2018)
 * [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208) August 16,2018
+* [nterpreting Exploit Guard ASR audit alerts](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Interpreting-Exploit-Guard-ASR-audit-alerts/ba-p/228366) August 14,2018
+* [Improve your defensive posture with Exploit Guard ASR](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Improve-your-defensive-posture-with-Exploit-Guard-ASR/ba-p/224947) August 6,2018
 * [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) August 5,2018
 * [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
 * [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) June 5,2018
 * [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
 * [New demo: Advanced Threat Protection across Windows 10 and Office](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039) March 31,2018
+* [Exploit Guard - Network Protection](https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624) February 20, 2018
 * [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
 
 ***2017***
