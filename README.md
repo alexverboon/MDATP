@@ -34,7 +34,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
 ***2019***
-
+* [Inside out: Get to know the advanced technologies at the core of Microsoft Defender ATP next generation protection](https://www.microsoft.com/security/blog/2019/06/24/inside-out-get-to-know-the-advanced-technologies-at-the-core-of-microsoft-defender-atp-next-generation-protection/) June 24,2019
 * [MDATP Python automation - Automate machine isolation with Python script](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077) June 3,2019
 * [Microsoft Defender ATP unified indicators of compromise (IoCs) experience](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415) May 29,2019
 * [Microsoft Defender ATP for Mac now in open public preview](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603) May 22,2019
