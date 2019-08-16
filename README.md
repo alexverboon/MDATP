@@ -35,6 +35,11 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2019***
 
+* [Microsoft Defender ATP 'Ask Me Anything' August 2019 - Summary](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Ask-Me-Anything-August-2019-Summary/ba-p/807446) August 15,2019
+* [Migrate your custom Threat Intelligence (TI) to indicators!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Migrate-your-custom-Threat-Intelligence-TI-to-indicators/ba-p/790048) August 6,2019
+* [Microsoft Defender Advanced Threat Protection is now available as an offer to US GCC High customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-Advanced-Threat-Protection-is-now-available/ba-p/784880) August 2, 2019
+* [The Golden Hour remake - Defining metrics for a successful security operations](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/The-Golden-Hour-remake-Defining-metrics-for-a-successful/ba-p/782014) July 31,2019
+* [Download files for in-depth investigation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Download-files-for-in-depth-investigation/ba-p/782078) July 31,2019
 * [Microsoft’s Threat & Vulnerability Management now helps thousands of customers to discover, prioritize, and remediate vulnerabilities in real time](https://www.microsoft.com/security/blog/2019/07/02/microsofts-threat-vulnerability-management-now-helps-thousands-of-customers-to-discover-prioritize-and-remediate-vulnerabilities-in-real-time/) July 2, 2019
 * [Microsoft Defender ATP alert categories are now aligned with MITRE ATT&CK!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-alert-categories-are-now-aligned-with/ba-p/732748) July 1, 2019
 * [Microsoft Defender ATP automation & cloud app discovery now available in previous Windows 10 builds!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-automation-amp-cloud-app-discovery-now/ba-p/722590) June 26,2019
@@ -103,6 +108,12 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 * [Windows 10 to offer application developers new malware defenses](https://www.microsoft.com/security/blog/2015/06/09/windows-10-to-offer-application-developers-new-malware-defenses/)
 
+***2005***
+
+Yes no typo , it was around 2005 when 'Windows Defender' appeared
+
+* [What’s in a name?? A lot!! Announcing Windows Defender!](https://blogs.technet.microsoft.com/antimalware/2005/11/04/whats-in-a-name-a-lot-announcing-windows-defender/) November 4, 2005
+
 ## Hunting Tips of the Month
 
 * [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
@@ -111,6 +122,9 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ## Other Blog Posts
 
+* [Microsoft Defender ATP Streaming API](https://emptydc.com/2019/07/23/microsoft-defender-atp-streaming-api/)
+* [Send Intune security task notifications to Microsoft Teams, email, etc. using Microsoft Flow](https://uem4all.com/2019/08/06/mdatpintunetasks/)
+* * [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
 * [How to Create a Custom Slack Alert for Windows Defender Advanced Threat Protection (ATP) using Microsoft Flow in 5 minutes](https://azurementor.wordpress.com/2019/03/22/how-to-create-a-custom-slack-alert-for-windows-defender-advanced-threat-protection-atp-using-microsoft-flow-in-5-minutes/)
 * [Automate response with Defender ATP and Microsoft Flow](http://blog.sec-labs.com/2019/04/automate-response-with-defender-atp-and-microsoft-flow/)
 * [Hunting for USB Rubber Ducky/ Bad USB with ATP](http://blog.sec-labs.com/2019/05/hunting-for-usb-rubber-ducky-bad-usb-with-atp/)
