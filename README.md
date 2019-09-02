@@ -35,6 +35,9 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2019***
 
+* [Hunting for reconnaissance activities using LDAP search filters](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Hunting-for-reconnaissance-activities-using-LDAP-search-filters/ba-p/824726) August 28,2019
+* [Advanced hunting updates: USB events, machine-level actions, and schema changes](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152) August 27,2019
+* [Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426) August 23,2019
 * [Microsoft Defender ATP 'Ask Me Anything' August 2019 - Summary](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Ask-Me-Anything-August-2019-Summary/ba-p/807446) August 15,2019
 * [Migrate your custom Threat Intelligence (TI) to indicators!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Migrate-your-custom-Threat-Intelligence-TI-to-indicators/ba-p/790048) August 6,2019
 * [Microsoft Defender Advanced Threat Protection is now available as an offer to US GCC High customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-Advanced-Threat-Protection-is-now-available/ba-p/784880) August 2, 2019
