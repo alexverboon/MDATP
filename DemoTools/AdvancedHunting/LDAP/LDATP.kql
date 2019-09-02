@@ -1,0 +1,15 @@
+
+// Tools used to run ldap queries
+MiscEvents  
+| where ActionType == "LdapSearch" 
+| summarize count()  by InitiatingProcessFileName
+
+// expand detail information
+MiscEvents | where ActionType == "LdapSearch" 
+| project EventTime , ComputerName, InitiatingProcessFileName, AdditionalFields , InitiatingProcessAccountName 
+| extend ldap = parse_json(AdditionalFields)
+| extend AttributeList = ldap.AttributeList
+| extend ScopeOfSearch = ldap.ScopeOfSearch
+| extend SearchFilter = ldap.SearchFilter
+| extend DistinguishName = ldap.DistinguishedName
+| project-away AdditionalFields, ldap

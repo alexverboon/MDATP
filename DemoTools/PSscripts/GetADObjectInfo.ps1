@@ -10,3 +10,12 @@ $allusers
 $allcomputers
 $allous
 $allgroups
+
+
+
+
+$root=([ADSI]"").distinguishedName
+$Group = [ADSI]("LDAP://CN=Domain Admins, CN=Users,"+ $root)
+$Group.member
+$group.description
+$group.Children
