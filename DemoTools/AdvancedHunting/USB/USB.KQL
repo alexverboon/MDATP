@@ -1,0 +1,38 @@
+// Find possible exfiltration attempts via USB
+// The following query finds attempts to copy at least 10 distinct documents // within 15 minutes to a newly attached USB storage device. The query finds USB // drive mounting events and extracts the assigned drive letter for each drive. // It then finds file creation events on each drive letter, which maps to a // freshly mounted USB device.
+
+// source: https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152
+
+MiscEvents
+| where EventTime > ago(1d) 
+| where ActionType == "UsbDriveMount"
+| project USBMountTime = EventTime, MachineId, AdditionalFields
+| extend DriveLetter = tostring(todynamic(AdditionalFields).DriveLetter)
+| join (
+FileCreationEvents
+| where EventTime > ago(1d) 
+| where ActionType == "FileCreated"
+| where FileName endswith ".docx" or FileName endswith ".pptx"
+| parse FolderPath with DriveLetter '\\' * 
+| extend DriveLetter = tostring(DriveLetter) 
+)
+on MachineId, DriveLetter
+| where (EventTime - USBMountTime) between (0min .. 15min)
+| summarize DistinctFilesCopied = dcount(SHA1), Events=makeset(pack("AccountName", InitiatingProcessAccountName, "EventTime", EventTime, "ReportId", ReportId, "FileName", FileName, "AdditionalDriveProperties", AdditionalFields)) by MachineId, bin(EventTime, 15m) 
+| where DistinctFilesCopied > 10
+| mv-expand Events
+| extend EventTime = Events.EventTime, FileName = Events.FileName, AccountName = Events.AccountName, ReportId = Events.ReportId, AdditionalDriveProperties = Events.AdditionalDriveProperties
+
+
+// find used USB devices by manufacturer
+MiscEvents
+| where ActionType == "UsbDriveMount"
+| project USBMountTime = EventTime, MachineId, AdditionalFields
+| extend DriveLetter = tostring(todynamic(AdditionalFields).DriveLetter)
+| extend ProductName = tostring(todynamic(AdditionalFields).ProductName) 
+| extend Manufacturer = tostring(todynamic(AdditionalFields).Manufacturer) 
+| summarize count() by Manufacturer
+
+
+
+
