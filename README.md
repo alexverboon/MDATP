@@ -137,6 +137,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting](https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8)
 * [MDATP: talking to the User](https://emptydc.com/2019/10/16/mdatp-talking-to-the-user/)
 * [Examining access token privileges with MDATP and Kusto](https://www.siriussecurity.nl/blog/2019/10/1/examining-access-token-privileges-with-mdatp-and-kusto)
 * [My Pluralsight Course – Incident Response and Remediation With Azure Security Center](https://blog.ahasayen.com/incident-response-and-remediation-with-azure-security-center/)
