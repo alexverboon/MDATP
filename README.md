@@ -129,6 +129,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)
 * [Microsoft Defender ATP Streaming API](https://emptydc.com/2019/07/23/microsoft-defender-atp-streaming-api/)
 * [Send Intune security task notifications to Microsoft Teams, email, etc. using Microsoft Flow](https://uem4all.com/2019/08/06/mdatpintunetasks/)
 * * [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
@@ -175,6 +176,18 @@ Check out the scripts in the PowerShell folder.
 * [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)
 * [Microsoft Defender ATP @WindowsATP](https://twitter.com/WindowsATP)
 * [Microsoft Threat Protection @MicrosoftMTP](https://twitter.com/MicrosoftMTP)
+* [Dan Michelson](https://twitter.com/danm332)
+* [Hadar Feldman](https://twitter.com/HadarFeldman)
+* [Tomer Teller](https://twitter.com/djteller)
+* [Heike Ritter](https://twitter.com/HeikeRitter)
+* [Christian H. Müller](https://twitter.com/chrishmueller)
+* [Alex Benoit](https://twitter.com/ITPirate)
+* [Jan Geisbauer](https://twitter.com/janvonkirchheim)
+* [Matias Borg](https://twitter.com/MattiasBorg82)
+* [Oliver Kieselbach](https://twitter.com/okieselb)
+* [Amar Hasayen](https://twitter.com/ammarhasayen)
+* [Maarten Goet](https://twitter.com/maarten_goet)
+* [Eric Soldierer](https://twitter.com/EricSoldierer)
 
 ## Microsoft Documentation
 
@@ -188,9 +201,3 @@ Check out the scripts in the PowerShell folder.
 * [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
 * [Defender ATP and PowerBI](http://blog.sec-labs.com/2019/04/defender-atp-and-powerbi/)
 
-## Other Things
-
-Work in progress..
-
-- Device Tagging
-- Offboard Machine programatically
