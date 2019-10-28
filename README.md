@@ -186,6 +186,8 @@ Check out the scripts in the PowerShell folder.
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
+* [Maarten Goet - Wortell](https://github.com/wortell/KQL)
+
 
 ## MDATP on Twitter
 
