@@ -1,4 +1,4 @@
-# Microsoft Defender ATP - Attack Surface Reduction
+# Microsoft Defender ATP - Attack Surface Reduction / Network Protection / Controlled Folder Access
 
 ## Block Executable Content Creation
 
@@ -142,4 +142,13 @@ MiscEvents
 | where  ActionType  =~ "ExploitGuardNetworkProtectionBlocked"
 | summarize count(RemoteUrl) by InitiatingProcessFileName, RemoteUrl, Audit_Only=tostring(parse_json(AdditionalFields).IsAudit)
 | sort by count_RemoteUrl desc
+```
+
+## Controlled Folder Access
+
+```powershell
+
+Set-MpPreference -EnableControlledFolderAccess Enabled 
+Add-MpPreference -ControlledFolderAccessAllowedApplications "c:\demoapps\test.exe" 
+Add-MpPreference -ControlledFolderAccessProtectedFolders "c:\demo"
 ```
