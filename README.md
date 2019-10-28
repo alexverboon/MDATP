@@ -34,7 +34,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
 ***2019***
-* [Microsoft Defender ATP sessions at #MSIgnite 2019 ](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836) October 16,2019
+
+* [Microsoft Defender ATP sessions at #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836) October 16,2019
 * [Tamper protection now generally available for Microsoft Defender ATP customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) October 14, 2019
 * [Manage Windows Defender Firewall with Microsoft Defender ATP and Intune](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Manage-Windows-Defender-Firewall-with-Microsoft-Defender-ATP-and/ba-p/894414) October 4,2019
 * [Forrester names Microsoft a Leader in 2019 Endpoint Security Suites Wave](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Forrester-names-Microsoft-a-Leader-in-2019-Endpoint-Security/ba-p/874462) October 1, 2019
@@ -137,15 +138,14 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
-<<<<<<< HEAD
 * [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)
-=======
+  
 * [Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting](https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8)
 * [MDATP: talking to the User](https://emptydc.com/2019/10/16/mdatp-talking-to-the-user/)
 * [Examining access token privileges with MDATP and Kusto](https://www.siriussecurity.nl/blog/2019/10/1/examining-access-token-privileges-with-mdatp-and-kusto)
 * [My Pluralsight Course – Incident Response and Remediation With Azure Security Center](https://blog.ahasayen.com/incident-response-and-remediation-with-azure-security-center/)
 * [Hunting for MiniNt security audit block in registry](http://blog.sec-labs.com/2019/10/hunting-for-minint-security-audit-block-in-registry/)
->>>>>>> a880d36f9000b67f475037e0f85d7fd7a54d2c37
+
 * [Microsoft Defender ATP Streaming API](https://emptydc.com/2019/07/23/microsoft-defender-atp-streaming-api/)
 * [Send Intune security task notifications to Microsoft Teams, email, etc. using Microsoft Flow](https://uem4all.com/2019/08/06/mdatpintunetasks/)
 * * [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
@@ -160,6 +160,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/)
 
 ## Webinars and Videos
+
 * [Azure Sentinel and Defender ATP Webinar](https://msandbu.org/azure-sentinel-and-defender-atp-webinar/)
 * [Microsoft Defender ATP Threat & Vulnerability Management](https://www.youtube.com/watch?v=-A9khpFydvA&feature=youtu.be&_lrsc=a16c12a3-43ca-4761-8fe8-5e422f64cb3d)
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
