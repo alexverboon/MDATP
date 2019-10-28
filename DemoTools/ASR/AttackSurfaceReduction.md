@@ -124,3 +124,10 @@ $networkprotectionstatus = Get-MpPreference
 $networkprotectionstatus.EnableNetworkProtection
 ```
 
+## Advanced Hunting Queries
+
+```kql
+MiscEvents  
+| where ActionType startswith "Asr"
+```
+
