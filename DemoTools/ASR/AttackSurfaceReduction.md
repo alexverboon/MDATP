@@ -126,8 +126,20 @@ $networkprotectionstatus.EnableNetworkProtection
 
 ## Advanced Hunting Queries
 
+### KQL - Attack Surface Reduction
+
 ```kql
 MiscEvents  
 | where ActionType startswith "Asr"
 ```
 
+[More details](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries/blob/master/Protection%20events/ExploitGuardAsrDescriptions.txt)
+
+### KQL - Network Protection
+
+```kql
+MiscEvents
+| where  ActionType  =~ "ExploitGuardNetworkProtectionBlocked"
+| summarize count(RemoteUrl) by InitiatingProcessFileName, RemoteUrl, Audit_Only=tostring(parse_json(AdditionalFields).IsAudit)
+| sort by count_RemoteUrl desc
+```
