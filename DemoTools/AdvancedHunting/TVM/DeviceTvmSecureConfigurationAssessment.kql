@@ -1,0 +1,8 @@
+// joining DeviceTvmSecureConfigurationAssessment and DeviceTvmSecureConfigurationAssessmentKB
+// list details per computer configassessment. 
+
+DeviceTvmSecureConfigurationAssessment  
+| project ComputerName , ConfigurationCategory , ConfigurationId , ConfigurationImpact , ConfigurationSubcategory , IsCompliant 
+| join (DeviceTvmSecureConfigurationAssessmentKB  
+| project  ConfigurationId , ConfigurationBenchmarks , ConfigurationDescription , RiskDescription )
+on ConfigurationId 
