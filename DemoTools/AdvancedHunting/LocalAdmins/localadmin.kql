@@ -1,4 +1,7 @@
 // find users that logged on with Local Admin rights. 
+
+// find users that logged on with Local Admin rights. 
 LogonEvents 
 | where IsLocalAdmin == 1
-| project EventTime , ComputerName , ActionType , AccountName , LogonType
+| extend locallogon = extractjson("$.IsLocalLogon",AdditionalFields, typeof(string)) 
+| project EventTime , ComputerName, AccountDomain, AccountName , LogonType, ActionType, locallogon 

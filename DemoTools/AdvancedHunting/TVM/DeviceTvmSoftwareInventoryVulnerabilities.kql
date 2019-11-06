@@ -1,0 +1,10 @@
+// join the DeviceTvmSoftwareInventoryVulnerabilities and (DeviceTvmSoftwareVulnerabilitiesKB schema and 
+// list details per computer and software
+
+DeviceTvmSoftwareInventoryVulnerabilities  
+| project  ComputerName, SoftwareName, CveId, SoftwareVersion, VulnerabilitySeverityLevel 
+| join (DeviceTvmSoftwareVulnerabilitiesKB
+| project AffectedSoftware, VulnerabilityDescription , CveId , CvssScore , IsExploitAvailable 
+)
+on CveId 
+| project ComputerName , CveId, SoftwareName,SoftwareVersion, VulnerabilityDescription, VulnerabilitySeverityLevel, IsExploitAvailable , CvssScore   
