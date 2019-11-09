@@ -35,6 +35,10 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2019***
 
+* [Microsoft Defender ATP for Mac - EDR in Public Preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-for-Mac-EDR-in-Public-Preview/ba-p/985879) November 6, 2019
+* [How insights from system attestation and advanced hunting can improve enterprise security](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252) November 6, 2019
+* [Reducing risk with new Threat & Vulnerability Management capabilities](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Reducing-risk-with-new-Threat-amp-Vulnerability-Management/ba-p/978145) November 4, 2019
+* [Experts on demand: now generally available](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Experts-on-demand-now-generally-available/ba-p/960557) October 28,2019
 * [Microsoft Defender ATP sessions at #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836) October 16,2019
 * [Tamper protection now generally available for Microsoft Defender ATP customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) October 14, 2019
 * [Manage Windows Defender Firewall with Microsoft Defender ATP and Intune](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Manage-Windows-Defender-Firewall-with-Microsoft-Defender-ATP-and/ba-p/894414) October 4,2019
@@ -138,8 +142,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
-* [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)
-  
+* [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)  
 * [Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting](https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8)
 * [MDATP: talking to the User](https://emptydc.com/2019/10/16/mdatp-talking-to-the-user/)
 * [Examining access token privileges with MDATP and Kusto](https://www.siriussecurity.nl/blog/2019/10/1/examining-access-token-privileges-with-mdatp-and-kusto)
@@ -160,7 +163,6 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/)
 
 ## Webinars and Videos
-
 * [Azure Sentinel and Defender ATP Webinar](https://msandbu.org/azure-sentinel-and-defender-atp-webinar/)
 * [Microsoft Defender ATP Threat & Vulnerability Management](https://www.youtube.com/watch?v=-A9khpFydvA&feature=youtu.be&_lrsc=a16c12a3-43ca-4761-8fe8-5e422f64cb3d)
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
@@ -177,6 +179,11 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Windows Defender ATP Secure Score](https://www.youtube.com/watch?v=ie89m8DiGiw)
 * [RSA Conference 2018 Windows Defender ATP – Unified platform for endpoint security](https://www.youtube.com/watch?v=NN2SFTRPuew&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=16)
 * [RSA Conference 2018 Taking Ransomware to task with Windows Defender ATP](https://www.youtube.com/watch?v=QvzDMIqaRkU&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=8)
+
+### Ignite 2019 sessions
+
+* [Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79816?source=sessions) Hadar Feldman, Microsoft
+
 
 ## PowerShell
 
@@ -219,4 +226,3 @@ Check out the scripts in the PowerShell folder.
 * [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)
 * [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
 * [Defender ATP and PowerBI](http://blog.sec-labs.com/2019/04/defender-atp-and-powerbi/)
-
