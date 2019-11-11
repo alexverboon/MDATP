@@ -184,7 +184,6 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 * [Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79816?source=sessions) Hadar Feldman, Microsoft
 
-
 ## PowerShell
 
 Check out the scripts in the PowerShell folder.

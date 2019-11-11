@@ -56,12 +56,13 @@ function Get-WDATPAlerts
         #>
 
         # Update the below variables to match the target WDATP tenant
-        $OAuthUri = 'https://login.windows.net/<add tenant ID here>/oauth2/token'
-        $ClientID = '<add client ID here>'
-        $ClientSecret = '<add client secret here>'
+        $OAuthUri = "https://login.windows.net/<TENANTIT>/oauth2/token"
+        $ClientID = ""
+        $ClientSecret = ""
     
-        #[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-    
+        [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+         #resource = "https://api.securitycenter.windows.com"
+
         $Body = @{
         resource = "https://graph.windows.net"
         client_id = $ClientID

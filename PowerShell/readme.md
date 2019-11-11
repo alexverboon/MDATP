@@ -21,4 +21,6 @@ Get-WDATPAlerts retrieves Windows Defender Advanced Threat Protection alerts exp
  Validate-DefenderExclusion checks whether the specified path or file is excluded.
 
 
+##https://wdtestgroundstorage.blob.core.windows.net/public/validate/validatecloud.exe
+
 
