@@ -35,6 +35,9 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2019***
 
+* [Short & sweet educational videos for Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Short-amp-sweet-educational-videos-for-Microsoft-Defender-ATP/ba-p/1021978) November 20, 2019
+* [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Create-custom-reports-using-Microsoft-Defender-ATP-APIs-and/ba-p/1007684) November 14, 2019
+* [Recordings now online: Microsoft Defender ATP sessions from #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Recordings-now-online-Microsoft-Defender-ATP-sessions-from/ba-p/1003687) November 12, 2019
 * [Microsoft Defender ATP for Mac - EDR in Public Preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-for-Mac-EDR-in-Public-Preview/ba-p/985879) November 6, 2019
 * [How insights from system attestation and advanced hunting can improve enterprise security](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252) November 6, 2019
 * [Reducing risk with new Threat & Vulnerability Management capabilities](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Reducing-risk-with-new-Threat-amp-Vulnerability-Management/ba-p/978145) November 4, 2019
@@ -142,6 +145,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
 * [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)  
 * [Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting](https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8)
 * [MDATP: talking to the User](https://emptydc.com/2019/10/16/mdatp-talking-to-the-user/)
@@ -190,6 +194,7 @@ Check out the scripts in the PowerShell folder.
 
 ## Advanced Hunting
 
+
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
@@ -197,7 +202,7 @@ Check out the scripts in the PowerShell folder.
 
 
 ## MDATP on Twitter
-
+* [Eshlomo - Advanced Hunting Queries](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 * [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)
 * [Microsoft Defender ATP @WindowsATP](https://twitter.com/WindowsATP)
 * [Microsoft Threat Protection @MicrosoftMTP](https://twitter.com/MicrosoftMTP)

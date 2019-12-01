@@ -53,3 +53,20 @@ let MachinesExhibitingSecurityLevelDrop = LatestLevelsPerMachine
     | summarize arg_max(EventTime, LatestSystemGuardSecurityLevel, SystemGuardSecurityLevel, LatestEventTime, ReportId) by MachineId;
 MachinesExhibitingSecurityLevelDrop
 ```
+## My Samples
+
+```kql
+MiscEvents
+| where ActionType == "DeviceBootAttestationInfo"
+| extend IsSecureBootOn = tolower(tostring(parsejson(AdditionalFields).IsSecureBootOn))
+| extend IsHvciOn = tolower(tostring(parsejson(AdditionalFields).IsHvciOn))
+| extend IsVsmOn = tolower(tostring(parsejson(AdditionalFields).IsVsmOn))
+| extend IsIommuOn = tolower(tostring(parsejson(AdditionalFields).IsIommuOn))
+| extend TpmVersion = tolower(tostring(parsejson(AdditionalFields).TpmVersion))
+| extend SystemGuardSecurityLevel = tolower(tostring(parsejson(AdditionalFields).SystemGuardSecurityLevel))
+| extend IsDriverCodeIntegrityEnforced = tolower(tostring(parsejson(AdditionalFields).IsDriverCodeIntegrityEnforced))
+| extend IsElamDriverLoaded = tolower(tostring(parsejson(AdditionalFields).IsElamDriverLoaded))
+| extend ValidationResult = tolower(tostring(parsejson(AdditionalFields).ValidationResult))
+| project ComputerName , IsSecureBootOn, IsHvciOn , IsVsmOn , IsIommuOn , SystemGuardSecurityLevel , ValidationResult 
+```kql
+
