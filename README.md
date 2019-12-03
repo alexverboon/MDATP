@@ -145,6 +145,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [EmptyDC](https://emptydc.com/) Jan Geisbauer
 * [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
 * [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)  
 * [Windows Defender ATP: harnessing the collective intelligence of the InfoSec community for threat hunting](https://medium.com/@maarten.goet/windows-defender-atp-harnessing-the-collective-intelligence-of-the-infosec-community-for-threat-1758ec987db8)
@@ -193,7 +194,6 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 Check out the scripts in the PowerShell folder.
 
 ## Advanced Hunting
-
 
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
