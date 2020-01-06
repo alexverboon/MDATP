@@ -156,7 +156,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 * [Microsoft Defender ATP Streaming API](https://emptydc.com/2019/07/23/microsoft-defender-atp-streaming-api/)
 * [Send Intune security task notifications to Microsoft Teams, email, etc. using Microsoft Flow](https://uem4all.com/2019/08/06/mdatpintunetasks/)
-* * [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
+* [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
 * [How to Create a Custom Slack Alert for Windows Defender Advanced Threat Protection (ATP) using Microsoft Flow in 5 minutes](https://azurementor.wordpress.com/2019/03/22/how-to-create-a-custom-slack-alert-for-windows-defender-advanced-threat-protection-atp-using-microsoft-flow-in-5-minutes/)
 * [Automate response with Defender ATP and Microsoft Flow](http://blog.sec-labs.com/2019/04/automate-response-with-defender-atp-and-microsoft-flow/)
 * [Hunting for USB Rubber Ducky/ Bad USB with ATP](http://blog.sec-labs.com/2019/05/hunting-for-usb-rubber-ducky-bad-usb-with-atp/)
@@ -168,6 +168,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/)
 
 ## Webinars and Videos
+
 * [Azure Sentinel and Defender ATP Webinar](https://msandbu.org/azure-sentinel-and-defender-atp-webinar/)
 * [Microsoft Defender ATP Threat & Vulnerability Management](https://www.youtube.com/watch?v=-A9khpFydvA&feature=youtu.be&_lrsc=a16c12a3-43ca-4761-8fe8-5e422f64cb3d)
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
@@ -200,8 +201,8 @@ Check out the scripts in the PowerShell folder.
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 * [Maarten Goet - Wortell](https://github.com/wortell/KQL)
 
-
 ## MDATP on Twitter
+
 * [Eshlomo - Advanced Hunting Queries](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 * [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)
 * [Microsoft Defender ATP @WindowsATP](https://twitter.com/WindowsATP)
