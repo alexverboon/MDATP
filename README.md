@@ -33,8 +33,14 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
+***2020***
+
+* [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358)
+
 ***2019***
 
+* [EDR capabilities for macOS have now arrived](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/edr-capabilities-for-macos-have-now-arrived/ba-p/1047801) December 04,2019
+* [Advanced hunting data schema changes](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/advanced-hunting-data-schema-changes/ba-p/1043914) December 03,2019
 * [Short & sweet educational videos for Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Short-amp-sweet-educational-videos-for-Microsoft-Defender-ATP/ba-p/1021978) November 20, 2019
 * [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Create-custom-reports-using-Microsoft-Defender-ATP-APIs-and/ba-p/1007684) November 14, 2019
 * [Recordings now online: Microsoft Defender ATP sessions from #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Recordings-now-online-Microsoft-Defender-ATP-sessions-from/ba-p/1003687) November 12, 2019
