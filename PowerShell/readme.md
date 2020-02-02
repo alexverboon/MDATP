@@ -23,4 +23,9 @@ Get-WDATPAlerts retrieves Windows Defender Advanced Threat Protection alerts exp
 
 ##https://wdtestgroundstorage.blob.core.windows.net/public/validate/validatecloud.exe
 
+## Other PowerShell Modules
+
+DefenderASR
+
+find-module -name "DefenderASR" | Install-module
 

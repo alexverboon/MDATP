@@ -1,0 +1,6 @@
+// Get misconfigured operating systems distribution for 'Remote Desktop security level' not
+// configured as 'TLS':
+DeviceTvmSecureConfigurationAssessment
+| where ConfigurationId == "scid-24"
+| where IsCompliant == 0
+| summarize count() by OSPlatform 
