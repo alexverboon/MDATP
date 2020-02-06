@@ -22,7 +22,7 @@ Use the following commands to check the current configuration
 
 ```powershell
 
-$mppref = Get-MpPreference 
+$mppref = Get-MpPreference
 $mppref.AttackSurfaceReductionRules_Ids
 $mppref.AttackSurfaceReductionOnlyExclusions
 $mppref.AttackSurfaceReductionRules_Actions
@@ -82,11 +82,12 @@ Add-MpPreference -AttackSurfaceReductionRules_Ids 'D4F940AB-401B-4EFC-AADC-AD5F3
 # Enable Rule (Audit)
 Add-MpPreference -AttackSurfaceReductionRules_Ids 'D4F940AB-401B-4EFC-AADC-AD5F3C50688A' -AttackSurfaceReductionRules_Actions AuditMode
 ```
+
 Use the following commands to check the current configuration
 
 ```powershell
 
-$mppref = Get-MpPreference 
+$mppref = Get-MpPreference
 $mppref.AttackSurfaceReductionRules_Ids
 $mppref.AttackSurfaceReductionOnlyExclusions
 $mppref.AttackSurfaceReductionRules_Actions
@@ -103,6 +104,7 @@ Sub Button4_Click()
 
 End Sub
 ```
+
 See Event log in previous section.
 
 ## Network Protection
@@ -120,7 +122,7 @@ Set-MpPreference -EnableNetworkProtection Disabled
 Use the following commands to check the current configuration
 
 ```powershell
-$networkprotectionstatus = Get-MpPreference 
+$networkprotectionstatus = Get-MpPreference
 $networkprotectionstatus.EnableNetworkProtection
 ```
 
@@ -148,7 +150,7 @@ MiscEvents
 
 ```powershell
 
-Set-MpPreference -EnableControlledFolderAccess Enabled 
-Add-MpPreference -ControlledFolderAccessAllowedApplications "c:\demoapps\test.exe" 
+Set-MpPreference -EnableControlledFolderAccess Enabled
+Add-MpPreference -ControlledFolderAccessAllowedApplications "c:\demoapps\test.exe"
 Add-MpPreference -ControlledFolderAccessProtectedFolders "c:\demo"
 ```

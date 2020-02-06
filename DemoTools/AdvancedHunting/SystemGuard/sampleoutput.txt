@@ -1,0 +1,74 @@
+{"TpmMachineId":"86f279879b2fad5cb4aa06b45be549652e534cc7ae646f411fe5f95ae2c902f2",
+"SystemGuardSecurityLevel":200,
+"TpmVersion":2,"ReportValidityStartTime":"2019-11-12T08:00:43.0000000Z",
+"ReportExpirationTime":"2019-11-16T08:05:43.0000000Z",
+"ValidationResult":"Success","IsBootDebuggingOff":true,
+"IsKernelDebuggingOff":true,"IsTestSigningOff":true,
+"IsFlightSigningOff":true,
+"IsDriverCodeIntegrityEnforced":true,
+"IsElamDriverLoaded":true,"IsSecureBootOn":true,
+"IsIommuOn":false,
+"IsVsmOn":true,
+"IsHvciOn":false,
+"Pcr0Hash":"d1e308b5d0cd8b13fb4371e4495e61bf8d6a352e",
+"WindowsBootManagerHash":"123b11eb3418af9c498405969feeacfe78d3e10827ae724f13d3aa7e50b342a4",
+"WindowsOSLoaderHash":"9faf743603a14b74bd9ef8796c9313cb947998b9556b36dfc0524254530c6214",
+"ElamDriverHash":"75c0d11594dcb88a5bf522a0e83e55dfcca08c831955c505627d29d776513592",
+"ElamDriverPath":"\\Windows\\system32\\drivers\\wd\\WdBoot.sys",
+"ElamDriverSigner":"Microsoft Windows Early Launch Anti-malware Publisher",
+"UefiSigners":"77fa9abd-0359-4d32-bd60-28f4e78f784b:e8e95f0733a55e8bad7be0a1413ee23c51fcea64b3c8fa6a786935fddcc71961"}
+
+
+
+MiscEvents
+| where ActionType == "DeviceBootAttestationInfo"
+| extend AdditionalFieldData = parse_json(AdditionalFields)
+| project ['Column One'] = tostring(AdditionalFields['SystemGuardSecurityLevel'])
+| extend AdditionalFieldData.SystemGuardSecurityLevel,
+ AdditionalFieldData.TpmVersion,
+ AdditionalFieldData.ValidationResult,
+ AdditionalFieldData.IsKernelDebuggingOff,
+AdditionalFieldData.IsFlightSigningOff,
+AdditionalFieldData.IsDriverCodeIntegrityEnforced,
+AdditionalFieldData.IsElamDriverLoaded,
+AdditionalFieldData.IsSecureBootOn,
+AdditionalFieldData.IsIommuOn,
+AdditionalFieldData.IsVsmOn,
+AdditionalFieldData.IsHvciOn,
+AdditionalFieldData.Pcr0Hash
+ 
+ | project-rename IsSecureBootOn = AdditionalFieldData_IsSecureBootOn, 
+ SystemGuardSecurityLevel = AdditionalFieldData_SystemGuardSecurityLevel,
+TpmVersion = AdditionalFieldData_TpmVersion,
+ IsIommuOn = AdditionalFieldData_IsIommuOn,
+ IsVsmOn = AdditionalFieldData_IsVsmOn,
+ IsHvciOn = AdditionalFieldData_IsHvciOn,
+ Computername = ComputerName
+ | project Computername, IsHvciOn , IsSecureBootOn , IsIommuOn , IsVsmOn , SystemGuardSecurityLevel , TpmVersion 
+ | project ComputerName , AdditionalFieldData_IsSecureBootOn 
+ | distinct ComputerName, AdditionalFieldData_IsSecureBootOn
+
+
+
+
+MiscEvents
+| where ActionType == "DeviceBootAttestationInfo"
+| extend AdditionalFieldData = parse_json(AdditionalFields)
+| extend AdditionalFieldData.SystemGuardSecurityLevel,
+AdditionalFieldData.TpmVersion,
+AdditionalFieldData.ValidationResult,
+AdditionalFieldData.IsKernelDebuggingOff,
+AdditionalFieldData.IsFlightSigningOff,
+AdditionalFieldData.IsDriverCodeIntegrityEnforced,
+AdditionalFieldData.IsElamDriverLoaded,
+AdditionalFieldData.IsSecureBootOn,
+AdditionalFieldData.IsIommuOn,
+AdditionalFieldData.IsVsmOn,
+AdditionalFieldData.IsHvciOn,
+AdditionalFieldData.Pcr0Hash
+ | project-rename IsSecureBootOn = AdditionalFieldData_IsSecureBootOn, 
+ SystemGuardSecurityLevel = AdditionalFieldData_SystemGuardSecurityLevel,
+TpmVersion = AdditionalFieldData_TpmVersion,
+ IsIommuOn = AdditionalFieldData_IsIommuOn,
+ IsVsmOn = AdditionalFieldData_IsVsmOn,
+ IsHvciOn = AdditionalFieldData_IsHvciOn

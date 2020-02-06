@@ -1,0 +1,161 @@
+Attribute 
+
+Data type 
+
+Description 
+
+TpmMachineId 
+
+string 
+
+Unique machine ID derived from the Attestation Identity Key (AIK). This ID changes if the AIK changes, such as when keys are cleared from TPM.  
+
+ 
+
+SystemGuardSecurityLevel 
+
+int 
+
+A value from 0 to 700 that reflects the overall device security level based on the state of boot properties as attested by System Guard: 
+
+·         0: TPM, AIK, UEFI secure boot, ELAM, or other critical features are missing or turned off. This value also applies if the device is set to boot in safe mode or WinPE, or has debugging or test modes turned on 
+
+·         100:  No Virtualization-based security
+
+·         200: HVCI and IOMMU off
+
+·         250: HVCI off
+
+·         300: IOMMU off 
+
+·         400: DTRM off 
+
+·         500: DTRM on 
+
+·         700: Critical features present and turned on. SMM attestation monitoring turned on (or disabled on ARM) 
+
+TpmVersion 
+
+string 
+
+Version of Trusted Platform Module (TPM) on the device 
+
+ReportValidityStartTime 
+
+datetime 
+
+Date and time that marks when the boot attestation report is considered valid.  The attestation report should not be considered valid before this time. 
+
+ReportExpirationTime 
+
+datetime 
+
+Expiration of the boot attestation report. This is automatically set to four days from validity start date. However, a new attestation report should automatically replace existing reports on device reboot. 
+
+ValidationResult 
+
+int 
+
+Result of validation of the cryptographically signed boot attestation report. 0 means the report is valid, while any other value indicates validity errors.  
+
+IsBootDebuggingOff 
+
+boolean 
+
+Indicates whether boot debugging is on or off. This should be off on secure devices.  
+
+IsKernelDebuggingOff 
+
+boolean 
+
+Indicates whether kernel debugging is on or off. This should be off on secure devices. 
+
+IsTestSigningOff 
+
+boolean 
+
+Indicates whether test signing at boot is on or off. This should be off on secure devices. 
+
+IsFlightSigningOff 
+
+boolean 
+
+Indicates whether flight signing at boot is on or off. This should be off on secure devices 
+
+IsDriverCodeIntegrityEnforced 
+
+boolean 
+
+Indicates whether the device booted with driver code integrity enforcement 
+
+IsElamDriverLoaded 
+
+boolean 
+
+Indicates whether the device booted with the Early Launch Antimalware (ELAM) driver loaded 
+
+IsSecureBootOn 
+
+boolean 
+
+Indicates whether the device booted with Secure Boot on 
+
+IsIommuOn 
+
+boolean 
+
+Indicates whether the device booted with IOMMU on 
+
+IsVsmOn 
+
+boolean 
+
+Indicates whether the device booted in virtual secure mode, i.e. with virtualization-based security (VBS) on. 
+
+IsHvciOn 
+
+boolean 
+
+Indicates whether the device booted with hypervisor-protected code integrity (HVCI) 
+
+Pcr0Hash 
+
+string 
+
+Cryptographic hash used by TPM for the PCR0 register, covering measurements for the Authenticated Code Module (ACM) and BIOS/UEFI modules 
+
+WindowsBootManagerHash 
+
+string 
+
+Cryptographic hash of the Windows Boot Manager 
+
+WindowsOSLoaderHash 
+
+string 
+
+Cryptographic hash of the Windows OS Loader 
+
+ElamDriverHash 
+
+string 
+
+Cryptographic hash of the Windows Defender Early Launch Antimalware (ELAM) driver 
+
+ElamDriverPath 
+
+string 
+
+Path to the Windows Defender Early Launch Antimalware (ELAM) driver binary file 
+
+ElamDriverSigner 
+
+string 
+
+Signer of the Windows Defender Early Launch Antimalware (ELAM) driver binary file 
+
+UefiSigners
+
+string
+
+List of signing keys used to verify the EFI boot applications, showing the GUID of the signature owner and the signature digest

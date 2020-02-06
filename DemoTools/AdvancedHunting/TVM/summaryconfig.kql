@@ -1,0 +1,18 @@
+DeviceTvmSecureConfigurationAssessment 
+| where IsCompliant == 0
+| distinct ConfigurationId
+| join (DeviceTvmSecureConfigurationAssessmentKB 
+| project ConfigurationName , ConfigurationDescription , RiskDescription , ConfigurationId , ConfigurationCategory, ConfigurationBenchmarks, ConfigurationImpact  )
+on ConfigurationId 
+| project ConfigurationId , ConfigurationName , ConfigurationDescription, ConfigurationCategory , RiskDescription  , ConfigurationBenchmarks , ConfigurationImpact 
+
+
+DeviceTvmSecureConfigurationAssessment 
+| where IsCompliant == 0
+| where ConfigurationCategory == "Security controls" 
+| distinct ConfigurationId
+| join (DeviceTvmSecureConfigurationAssessmentKB 
+| project ConfigurationName , ConfigurationDescription , RiskDescription , ConfigurationId , ConfigurationCategory, ConfigurationBenchmarks, ConfigurationImpact  )
+on ConfigurationId 
+| project ConfigurationId , ConfigurationName , ConfigurationDescription, ConfigurationCategory , RiskDescription  , ConfigurationBenchmarks , ConfigurationImpact 
+ 
