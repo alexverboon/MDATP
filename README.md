@@ -42,8 +42,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 * [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)January 22, 2020
 =======
-* [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354) January 22,2020
->>>>>>> cbe232a7b22062bab09fe2bcaf56390611bd0064
+
 
 * [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358) January 01, 2020
 
