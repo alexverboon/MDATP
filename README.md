@@ -35,11 +35,15 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+<<<<<<< HEAD
 *[Web content filtering with Microsoft Defender ATP now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) January 28, 2020
 
 * [Extending Microsoft Defender ATP network of partners](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/extending-microsoft-defender-atp-network-of-partners/ba-p/1130867) January 27, 2020
 
 * [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)January 22, 2020
+=======
+* [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354) January 22,2020
+>>>>>>> cbe232a7b22062bab09fe2bcaf56390611bd0064
 
 * [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358) January 01, 2020
 
