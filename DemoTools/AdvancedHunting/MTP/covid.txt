@@ -1,0 +1,8 @@
+
+EmailEvents 
+| where tolower(Subject) matches regex("(?i)(covid|corona.*virus)")
+| project  Timestamp, Subject ,  NetworkMessageId , SenderFromAddress, SenderMailFromAddress , RecipientEmailAddress , SenderIPv4 , EmailDirection , DeliveryAction , DeliveryLocation , FinalEmailAction 
+| join    ( EmailUrlInfo
+| project NetworkMessageId , Url )
+on NetworkMessageId 
+| project  Timestamp, Subject, Url  , NetworkMessageId , SenderFromAddress, SenderMailFromAddress , RecipientEmailAddress , SenderIPv4 , EmailDirection ,  DeliveryLocation , FinalEmailAction , DeliveryAction 

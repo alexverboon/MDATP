@@ -241,6 +241,10 @@ Check out the scripts in the PowerShell folder.
 * [Defender ATP docs sources on GitHub](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/microsoft-defender-atp)
 * [Windows Defender docs sources on Github](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/windows-defender-antivirus)
 
+## MDATP on GitHub
+* [defender-atp-manageability](https://github.com/microsoft/microsoft-defender-atp-manageability)
+
+
 ## PowerBI
 
 * [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)

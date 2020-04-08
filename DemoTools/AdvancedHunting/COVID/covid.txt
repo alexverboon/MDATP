@@ -1,0 +1,37 @@
+EmailEvents 
+| where Subject contains "corono" or Subject contains "COVID" 
+
+EmailEvents 
+| where Subject contains "corono" or Subject contains "COVID" 
+| where AttachmentCount > 0 or UrlCount > 0
+| project Timestamp , NetworkMessageId , Subject , DeliveryAction , FinalEmailAction , MalwareDetectionMethod , MalwareFilterVerdict 
+| join (EmailUrlInfo 
+| project NetworkMessageId , Url , UrlId )
+on NetworkMessageId 
+| project Timestamp , Subject , DeliveryAction , FinalEmailAction , MalwareDetectionMethod , MalwareFilterVerdict , Url 
+
+
+EmailEvents 
+| where Subject contains "corona" or Subject contains "COVID" 
+| where AttachmentCount > 0 or UrlCount > 0
+| project Timestamp , NetworkMessageId , Subject , DeliveryAction , FinalEmailAction , MalwareDetectionMethod , MalwareFilterVerdict 
+| join (EmailAttachmentInfo 
+| project NetworkMessageId , FileName , FileType , MalwareDetectionMethod , MalwareFilterVerdict, SHA256
+)
+on NetworkMessageId
+| project Timestamp , Subject , FileName , FileType , SHA256 , DeliveryAction , FinalEmailAction , MalwareDetectionMethod 
+| where DeliveryAction != "Delivered"
+
+
+
+EmailEvents 
+| where Subject contains "corona" or Subject contains "COVID" 
+| where AttachmentCount > 0 or UrlCount > 0
+| project Timestamp , NetworkMessageId , Subject , DeliveryAction , FinalEmailAction , MalwareDetectionMethod , MalwareFilterVerdict , PhishDetectionMethod , PhishFilterVerdict 
+| join (EmailAttachmentInfo 
+| project NetworkMessageId , FileName , FileType , MalwareDetectionMethod , MalwareFilterVerdict, SHA256
+)
+on NetworkMessageId
+| project Timestamp , Subject , FileName , FileType , SHA256 , DeliveryAction , FinalEmailAction , MalwareDetectionMethod , MalwareFilterVerdict , PhishDetectionMethod , PhishFilterVerdict 
+| where DeliveryAction != "Delivered"
+// | summarize count() by FileName, SHA256

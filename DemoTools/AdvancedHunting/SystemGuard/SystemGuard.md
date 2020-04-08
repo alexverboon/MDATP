@@ -3,14 +3,14 @@
 Reference article: [How insights from system attestation and advanced hunting can improve enterprise security](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252)
 
 ```kql
-MiscEvents
+DeviceEvents
 | where ActionType == “DeviceBootAttestationInfo”
 ```
 
 This will return each row in the MiscEvents table that matches the ActionType of DeviceBootAttestationInfo with the boot attestation data itself in the AdditionalFields column.  We can then extract that data using the parse_json() function.
 
 ```kql
-MiscEvents
+DeviceEvents
 | where ActionType == "DeviceBootAttestationInfo"
 | extend AdditionalFieldData = parse_json(AdditionalFields)
 ```
@@ -24,9 +24,9 @@ MiscEvents
 | where EventTime >= ago(30d)
 | where ActionType == "DeviceBootAttestationInfo"
 | extend AdditionalFieldData = parse_json(AdditionalFields)
-| project ComputerName, ReportTime = todatetime(AdditionalFieldData.ReportValidityStartTime), CurrentSecurityLevel = toint(AdditionalFieldData.SystemGuardSecurityLevel), AdditionalFieldData.ReportValidityStartTime
+| project DeviceName, ReportTime = todatetime(AdditionalFieldData.ReportValidityStartTime), CurrentSecurityLevel = toint(AdditionalFieldData.SystemGuardSecurityLevel), AdditionalFieldData.ReportValidityStartTime
 | where CurrentSecurityLevel < TargetSecurityLevel
-| summarize arg_max(ReportTime, CurrentSecurityLevel) by ComputerName
+| summarize arg_max(ReportTime, CurrentSecurityLevel) by DeviceName
 ```
 
 The next example is a custom query that identifies machines exhibiting a drop in SystemGuardSecurityLevel across boot sessions:
@@ -34,15 +34,17 @@ The next example is a custom query that identifies machines exhibiting a drop in
 ```kql
 // Goal: Find machines in the last N days where the SystemGuardSecurityLevel value NOW is less than it was BEFORE
 // Step 1: Get a list of all security levels in the system where the level is not null
-let SecurityLevels = MiscEvents
+let SecurityLevels = DeviceEvents
     | where ActionType == "DeviceBootAttestationInfo"
     | extend AdditionalFieldData = parse_json(AdditionalFields)
     | project MachineId, EventTime, SystemGuardSecurityLevel = toint(AdditionalFieldData.SystemGuardSecurityLevel), ReportId
     | where isnotnull(SystemGuardSecurityLevel);
+
 // Step 2: Get the *latest* record for *each* machine from the SecurityLevels table
 let LatestLevelsPerMachine = SecurityLevels
     | summarize arg_max(EventTime, SystemGuardSecurityLevel) by MachineId
     | project MachineId, LatestSystemGuardSecurityLevel=SystemGuardSecurityLevel, LatestEventTime=EventTime;
+
 // Step 3: Join the two tables together where the LatestSystemGuardSecurityLevel is LESS than the SystemGuardSecurityLevel 
 let MachinesExhibitingSecurityLevelDrop = LatestLevelsPerMachine
     | join (
@@ -56,7 +58,7 @@ MachinesExhibitingSecurityLevelDrop
 ## My Samples
 
 ```kql
-MiscEvents
+DeviceEvents
 | where ActionType == "DeviceBootAttestationInfo"
 | extend IsSecureBootOn = tolower(tostring(parsejson(AdditionalFields).IsSecureBootOn))
 | extend IsHvciOn = tolower(tostring(parsejson(AdditionalFields).IsHvciOn))
@@ -67,6 +69,32 @@ MiscEvents
 | extend IsDriverCodeIntegrityEnforced = tolower(tostring(parsejson(AdditionalFields).IsDriverCodeIntegrityEnforced))
 | extend IsElamDriverLoaded = tolower(tostring(parsejson(AdditionalFields).IsElamDriverLoaded))
 | extend ValidationResult = tolower(tostring(parsejson(AdditionalFields).ValidationResult))
-| project ComputerName , IsSecureBootOn, IsHvciOn , IsVsmOn , IsIommuOn , SystemGuardSecurityLevel , ValidationResult 
+| project Timestamp, DeviceName , IsSecureBootOn, IsHvciOn , IsVsmOn , IsIommuOn , SystemGuardSecurityLevel , ValidationResult 
+| sort by Timestamp
 ```kql
 
+
+
+```kql
+// last attestation info per computer
+
+let uniquecomputers =
+DeviceEvents 
+| where ActionType == "DeviceBootAttestationInfo"
+| summarize makeset(DeviceName);
+DeviceEvents
+| where ActionType == "DeviceBootAttestationInfo"
+| summarize arg_max(Timestamp,* ) by DeviceName
+| where DeviceName in (uniquecomputers)
+| extend IsSecureBootOn = tolower(tostring(parsejson(AdditionalFields).IsSecureBootOn))
+| extend IsHvciOn = tolower(tostring(parsejson(AdditionalFields).IsHvciOn))
+| extend IsVsmOn = tolower(tostring(parsejson(AdditionalFields).IsVsmOn))
+| extend IsIommuOn = tolower(tostring(parsejson(AdditionalFields).IsIommuOn))
+| extend TpmVersion = tolower(tostring(parsejson(AdditionalFields).TpmVersion))
+| extend SystemGuardSecurityLevel = tolower(tostring(parsejson(AdditionalFields).SystemGuardSecurityLevel))
+| extend IsDriverCodeIntegrityEnforced = tolower(tostring(parsejson(AdditionalFields).IsDriverCodeIntegrityEnforced))
+| extend IsElamDriverLoaded = tolower(tostring(parsejson(AdditionalFields).IsElamDriverLoaded))
+| extend ValidationResult = tolower(tostring(parsejson(AdditionalFields).ValidationResult))
+| project Timestamp , DeviceName  , IsSecureBootOn, IsHvciOn , IsVsmOn , IsIommuOn , SystemGuardSecurityLevel , ValidationResult , AdditionalFields 
+| sort by Timestamp
+```kql
