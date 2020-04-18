@@ -1,7 +1,7 @@
 # Microsoft Defender Advanced Threat Protection - Resource Hub
 
 <p align="center">
-    <img src="./images/MDATP1.png" alt="PSMDATP" >
+    <img src="./Images/MDATP1.png" alt="PSMDATP" >
 </p>
 
 
