@@ -1,4 +1,7 @@
+
+```kql
 DeviceRegistryEvents
 | where RegistryKey has oje@"Microsoft\Windows\CurrentVersion\Run"
 | where RegistryValueData has ".exe"
 | project RegistryValueData, RegistryKey
+```
