@@ -1,6 +1,9 @@
 # Microsoft Defender Advanced Threat Protection - Resource Hub
 
-[image](../images/../MDATP/Images/MDATP1.png)
+<p align="center">
+    <img src="./image/MDATP1.png" alt="PSMDATP Logo" >
+</p>
+
 
 Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If you're familiar with Git feel free to contribute through a pull request or simply submit a suggestion via an Issue.
 
