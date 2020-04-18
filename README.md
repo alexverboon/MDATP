@@ -52,8 +52,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [MITRE ATT&CK technique info in Microsoft Defender ATP alerts](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MITRE-ATT-amp-CK-technique-info-in-Microsoft-Defender-ATP-alerts/ba-p/856835) September, 16, 2019
 * [Microsoft Defender ATP supports custom IOCs for URLs, IP addresses, and domains](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-supports-custom-IOCs-for-URLs-IP/ba-p/847007) September 13,2019
 * [Enhance your SOC with Microsoft Defender ATP Automatic Investigation and Remediation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhance-your-SOC-with-Microsoft-Defender-ATP-Automatic/ba-p/848946) September 11,2019
-* [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) September 11, 
-2019
+* [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) September 11,2019
 * [Hunting for reconnaissance activities using LDAP search filters](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Hunting-for-reconnaissance-activities-using-LDAP-search-filters/ba-p/824726) August 28,2019
 * [Advanced hunting updates: USB events, machine-level actions, and schema changes](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152) August 27,2019
 * [Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426) August 23,2019
@@ -222,6 +221,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 * [Maarten Goet - Wortell](https://github.com/wortell/KQL)
+
 ---
 
 ## MDATP on Twitter
