@@ -33,18 +33,27 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
+---
+
 ***2020***
 
-<<<<<<< HEAD
-*[Web content filtering with Microsoft Defender ATP now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) January 28, 2020
-
+* [Demystifying attack surface reduction rules - Part 1](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-1/ba-p/1306420) March 14,2020
+* [Threat & Vulnerability Management APIs are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/threat-amp-vulnerability-management-apis-are-now-generally/ba-p/1304615) March 14,2020
+* [Live response for earlier versions of Windows is now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/live-response-for-earlier-versions-of-windows-is-now-in-public/ba-p/1282156) April 6,2020
+* [Secure your remote workforce with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-your-remote-workforce-with-microsoft-defender-atp/ba-p/1271806) April 1st, 2020
+* [Secure Configuration Assessment (SCA) for Windows Server now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-configuration-assessment-sca-for-windows-server-now-in/ba-p/1243885) March 22,2020
+* [Microsoft Defender ATP service notification improvements](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-service-notification-improvements/ba-p/1244625) March 22,2020
+* [Connect the dots using a device network overview Power BI report](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/connect-the-dots-using-a-device-network-overview-power-bi-report/ba-p/1238287) March 19,2020
+* [Raw data export: Announcing Microsoft Defender ATP Streaming API GA](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/raw-data-export-announcing-microsoft-defender-atp-streaming-api/ba-p/1235500) March 18,2020
+* [Microsoft Defender ATP for Linux is coming! ...And a sneak peek into what’s next](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-coming-and-a-sneak-peek-into/ba-p/1192251) February 25,2020
+* [Enable tamper protection in Threat & Vulnerability Management to increase your security posture](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enable-tamper-protection-in-threat-amp-vulnerability-management/ba-p/1182920) February 19,2020
+* [Put regulation fears to rest when deploying Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/put-regulation-fears-to-rest-when-deploying-microsoft-defender/ba-p/1170187) February 13,2020
+* [Web content filtering with Microsoft Defender ATP now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) January 28, 2020
 * [Extending Microsoft Defender ATP network of partners](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/extending-microsoft-defender-atp-network-of-partners/ba-p/1130867) January 27, 2020
-
 * [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)January 22, 2020
-=======
-
-
 * [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358) January 01, 2020
+
+---
 
 ***2019***
 
@@ -67,7 +76,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [MITRE ATT&CK technique info in Microsoft Defender ATP alerts](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MITRE-ATT-amp-CK-technique-info-in-Microsoft-Defender-ATP-alerts/ba-p/856835) September, 16, 2019
 * [Microsoft Defender ATP supports custom IOCs for URLs, IP addresses, and domains](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-supports-custom-IOCs-for-URLs-IP/ba-p/847007) September 13,2019
 * [Enhance your SOC with Microsoft Defender ATP Automatic Investigation and Remediation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhance-your-SOC-with-Microsoft-Defender-ATP-Automatic/ba-p/848946) September 11,2019
-* [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) September 11, 2019
+* [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) September 11, 
+2019
 * [Hunting for reconnaissance activities using LDAP search filters](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Hunting-for-reconnaissance-activities-using-LDAP-search-filters/ba-p/824726) August 28,2019
 * [Advanced hunting updates: USB events, machine-level actions, and schema changes](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152) August 27,2019
 * [Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426) August 23,2019
@@ -126,6 +136,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Exploit Guard - Network Protection](https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624) February 20, 2018
 * [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
 
+---
 ***2017***
 
 * [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/) December 4,2017
@@ -137,20 +148,25 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Microsoft signs agreement to acquire Hexadite](https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/) June 8, 2017
 * [Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack](https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/) May 4,2017
 
+---
 ***2016***
 
 * [Windows Defender Advanced Threat Protection Preview Expands](https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/16/windows-defender-advanced-threat-protection-preview-expands/) May 16,2016
 * [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97) March 1, 2016
 
+---
 ***2015***
 
 * [Windows 10 to offer application developers new malware defenses](https://www.microsoft.com/security/blog/2015/06/09/windows-10-to-offer-application-developers-new-malware-defenses/)
 
+---
 ***2005***
 
 Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 * [What’s in a name?? A lot!! Announcing Windows Defender!](https://blogs.technet.microsoft.com/antimalware/2005/11/04/whats-in-a-name-a-lot-announcing-windows-defender/) November 4, 2005
+
+---
 
 ## Hunting Tips of the Month
 
@@ -158,8 +174,16 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898)
 * [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454)
 
+---
+
 ## Other Blog Posts
 
+* [Microsoft Defender Antivirus (MDAV) “Cloud Protection” (Cloud-Delivered Protection aka MAPS)](https://yongrhee.wordpress.com/2020/04/11/microsoft-defender-antivirus-mdav-cloud-protection-cloud-delivered-protection-aka-maps/)
+* [BLOCK IT.](https://emptydc.com/2020/01/27/block-it/)
+* [DEEP DIVE: FORENSICS VIA MDATP LIVE RESPONSE](https://emptydc.com/2020/04/07/deep-dive-forensics-via-mdatp-live-response/)
+* [Microsoft Defender ATP – network control made easy](https://chrisonsecurity.net/2020/02/01/microsoft-defender-atp-network-control-made-easy/)
+* [Microsoft Defender ATP for Linux](https://chrisonsecurity.net/2020/02/27/microsoft-defender-atp-for-linux/)
+* [How to create your Defender ATP Admin Audit Log Dashboard](https://www.verboon.info/2020/04/how-to-create-your-defender-atp-admin-audit-log-dashboard/)
 * [EmptyDC](https://emptydc.com/) Jan Geisbauer
 * [How to generate a monthly Defender ATP Threat and Vulnerability Report](https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/)
 * [Automate MDATP response with Microsoft Flow](https://chrisonsecurity.net/2019/10/22/automate-mdatp-response-with-microsoft-flow/)  
@@ -168,7 +192,6 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Examining access token privileges with MDATP and Kusto](https://www.siriussecurity.nl/blog/2019/10/1/examining-access-token-privileges-with-mdatp-and-kusto)
 * [My Pluralsight Course – Incident Response and Remediation With Azure Security Center](https://blog.ahasayen.com/incident-response-and-remediation-with-azure-security-center/)
 * [Hunting for MiniNt security audit block in registry](http://blog.sec-labs.com/2019/10/hunting-for-minint-security-audit-block-in-registry/)
-
 * [Microsoft Defender ATP Streaming API](https://emptydc.com/2019/07/23/microsoft-defender-atp-streaming-api/)
 * [Send Intune security task notifications to Microsoft Teams, email, etc. using Microsoft Flow](https://uem4all.com/2019/08/06/mdatpintunetasks/)
 * [How to accelerate your Microsoft Defender ATP Evaluation](https://www.verboon.info/2019/08/how-to-accelerate-your-microsoft-defender-atp-evaluation/)
@@ -182,8 +205,13 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [Managing Role Based Access (RBAC) for Microsoft Defender Advanced Threat Protection](https://www.verboon.info/2019/05/managing-role-based-access-rbac-for-microsoft-defender-advanced-threat-protection/)
 * [Retrieving Windows Defender Exploit Guard Windows Event logs with PowerShell](https://www.verboon.info/2019/05/retrieving-windows-defender-exploit-guard-windows-event-logs-with-powershell/)
 
+---
+
 ## Webinars and Videos
 
+* [MS Defender ATP Overview and Full Attack Simulation](https://www.youtube.com/watch?v=8-iAwJjIs4I)
+* [Live response in Microsoft Defender ATP](https://www.youtube.com/watch?v=liLxJqRpscg)
+* [Webinar: Stopping attacks in their tracks through behavioral blocking and containment](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/webinar-stopping-attacks-in-their-tracks-through-behavioral/ba-p/1234126)
 * [Azure Sentinel and Defender ATP Webinar](https://msandbu.org/azure-sentinel-and-defender-atp-webinar/)
 * [Microsoft Defender ATP Threat & Vulnerability Management](https://www.youtube.com/watch?v=-A9khpFydvA&feature=youtu.be&_lrsc=a16c12a3-43ca-4761-8fe8-5e422f64cb3d)
 * [Upcoming webinar 📣 The Power of Advanced Hunting - Unleash the hunter in you!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Upcoming-webinar-The-Power-of-Advanced-Hunting-Unleash-the/ba-p/617918)
@@ -201,20 +229,24 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 * [RSA Conference 2018 Windows Defender ATP – Unified platform for endpoint security](https://www.youtube.com/watch?v=NN2SFTRPuew&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=16)
 * [RSA Conference 2018 Taking Ransomware to task with Windows Defender ATP](https://www.youtube.com/watch?v=QvzDMIqaRkU&t=0s&list=PL8nfc9haGeb4tZ1d93xpMlsDKa7DPRtLj&index=8)
 
+---
+
 ### Ignite 2019 sessions
 
 * [Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79816?source=sessions) Hadar Feldman, Microsoft
 
 ## PowerShell
 
-Check out the scripts in the PowerShell folder.
+Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 ## Advanced Hunting
 
+* [Sigma-Hunting-App](https://github.com/P4T12ICK/Sigma-Hunting-App)
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 * [Maarten Goet - Wortell](https://github.com/wortell/KQL)
+---
 
 ## MDATP on Twitter
 
@@ -234,6 +266,9 @@ Check out the scripts in the PowerShell folder.
 * [Amar Hasayen](https://twitter.com/ammarhasayen)
 * [Maarten Goet](https://twitter.com/maarten_goet)
 * [Eric Soldierer](https://twitter.com/EricSoldierer)
+* [Christian H. Mueller](https://twitter.com/chrisonsecurity)
+
+---
 
 ## Microsoft Documentation
 
@@ -241,9 +276,19 @@ Check out the scripts in the PowerShell folder.
 * [Defender ATP docs sources on GitHub](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/microsoft-defender-atp)
 * [Windows Defender docs sources on Github](https://github.com/MicrosoftDocs/windows-itpro-docs/tree/master/windows/security/threat-protection/windows-defender-antivirus)
 
-## MDATP on GitHub
-* [defender-atp-manageability](https://github.com/microsoft/microsoft-defender-atp-manageability)
+---
 
+## MDATP on GitHub
+
+* [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
+* [WindowsDefenderATP-Hunting-Queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
+* [MicrosoftDefenderATP-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderATP-API-PowerShell)
+* [defender-atp-manageability](https://github.com/microsoft/microsoft-defender-atp-manageability)
+* [MDATP PowerBI](https://github.com/microsoft/MDATP-PowerBI-Templates/blob/master/README.md)
+* [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
+* [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
+  
+---
 
 ## PowerBI
 
