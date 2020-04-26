@@ -10,27 +10,27 @@ Check the items that have been added to the exclusion list and the process that 
 
 ### Advanced Hunting
 
-```kql
+```sql
 DeviceRegistryEvents 
 | where ActionType == "RegistryValueSet"
 | where RegistryKey startswith 'HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows Defender\\Exclusions'
 ```
 
-```kql
+```sql
 DeviceProcessEvents 
 | where InitiatingProcessCommandLine contains "add-mppreference"
 | parse InitiatingProcessCommandLine with * '-ExclusionPath' Exclusion
 | project Timestamp, DeviceName, Exclusion, FileName, ProcessCommandLine, AccountName, InitiatingProcessFileName, InitiatingProcessCommandLine, InitiatingProcessParentFileName, ReportId
 ```
 
-```kql
+```sql
 DeviceProcessEvents
 | where InitiatingProcessCommandLine contains "add-mppreference"
 | parse InitiatingProcessCommandLine with * '-ExclusionPath' Exclusion
 | project Timestamp, DeviceName, Exclusion, FileName, ProcessCommandLine, AccountName, InitiatingProcessFileName, InitiatingProcessCommandLine, InitiatingProcessParentFileName, ReportId
 ```
 
-```kql
+```sql
 DeviceEvents
 | where InitiatingProcessFileName == "powershell.exe"
 | where AdditionalFields  has_any ("Get-MpPreference","Add-MpPreference","Set-MpPreference","Get-mpcomputerstatus")
