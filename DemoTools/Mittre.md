@@ -20,6 +20,8 @@
 ## control panel files
 
 ## PowerShell
+https://attack.mitre.org/techniques/T1086/
+
 
 ## scheduled task
 
