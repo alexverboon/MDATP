@@ -78,6 +78,8 @@ https://attack.mitre.org/techniques/T1086/
 # command and control
 
 
+# lolbas detections
+
 
 
 
