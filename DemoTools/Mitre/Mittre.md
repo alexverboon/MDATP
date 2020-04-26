@@ -1,4 +1,9 @@
-# Initial Access
+# work in progress
+
+
+
+
+## Initial Access
 
 ## USB
 
@@ -17,7 +22,23 @@
 
 ## compiled html, chm
 
+---
+
 ## control panel files
+
+https://attack.mitre.org/techniques/T1196/
+
+DeviceRegistryEvents
+| where ActionType =="RegistryValueSet"
+| where InitiatingProcessFileName =~"reg.exe"
+| where InitiatingProcessParentFileName == "cmd.exe"
+| where RegistryKey contains "SilentProcessExit"
+| where RegistryValueData contains "temp"
+
+---
+
+
+
 
 ## PowerShell
 https://attack.mitre.org/techniques/T1086/
@@ -45,7 +66,17 @@ DeviceProcessEvents
 
 ## process injecctsions
 
-# Defense evasion
+
+## Defense evasion
+
+
+DeviceProcessEvents 
+| where InitiatingProcessCommandLine contains "add-mppreference"
+| parse InitiatingProcessCommandLine with * '-ExclusionPath' Exclusion
+| project Timestamp, DeviceName, Exclusion, FileName, ProcessCommandLine, AccountName, InitiatingProcessFileName, InitiatingProcessCommandLine, InitiatingProcessParentFileName, ReportId
+
+
+
 
 ## disabling security tools
 
@@ -60,6 +91,13 @@ DeviceProcessEvents
 ## brute force
 
 ## input capture
+
+
+## Clipboard
+
+### Event of type [GetClipboardData] observed on machine
+
+
 
 # Discovery
 
@@ -150,4 +188,73 @@ search in (DeviceFileEvents, DeviceProcessEvents, DeviceEvents, DeviceRegistryEv
 | extend Relevance = iff(Timestamp == selectedEventTimestamp, "Selected event", iff(Timestamp < selectedEventTimestamp, "Earlier event", "Later event"))
 | project-reorder Relevance
 
+
+
+
+
+
+
+# Suspicious logon script registration
+
+https://attack.mitre.org/techniques/T1037/
+
+Description
+
+A script was suspiciously registered as a logon script. Anomalies in the process chain leading up to this activity or the script file itself indicate possible malicious intent. Attackers can use logon scripts to automatically run malicious code when users sign in and establish persistence.
+Recommended actions:
+A. Validate the alert.
+
+Check the process that registered the logon script and the script file itself.
+Check for other suspicious activities in the machine timeline.
+Locate unfamiliar processes in the process tree. Check files for prevalence, their locations, and digital signatures.
+Submit relevant files for deep analysis and review file behaviors.
+Identify unusual system activity with system owners.
+B. Scope the incident. Find related machines, network addresses, and files in the incident graph.
+
+C. Contain and mitigate the breach. Stop suspicious processes, isolate affected machines, decommission compromised accounts or reset passwords, block IP addresses and URLs, and install security updates.
+
+D. Contact your incident response team, or contact Microsoft support for investigation and remediation services.
+
+
+# Suspicious change to file association setting
+
+https://attack.mitre.org/techniques/T1042/
+
+A file association was suspiciously modified. Attackers and malware use certain file association settings for persistence and injection.
+Recommended actions:
+A. Validate the alert.
+
+Check the process that registered the file association.
+Check for other suspicious activities in the machine timeline.
+Locate unfamiliar processes in the process tree. Check files for prevalence, their locations, and digital signatures.
+Submit relevant files for deep analysis and review file behaviors.
+Identify unusual system activity with system owners.
+B. Scope the incident. Find related machines, network addresses, and files in the incident graph.
+
+C. Contain and mitigate the breach. Stop suspicious processes, isolate affected machines, decommission compromised accounts or reset passwords, block IP addresses and URLs, and install security updates.
+
+D. Contact your incident response team, or contact Microsoft support for investigation and remediation services.
+
+
+DeviceRegistryEvents | where DeviceName == "testmachine7"
+| where ActionType == "RegistryValueSet"
+| where RegistryKey startswith 'HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes' and RegistryKey contains "shell\\open\\command"
+
+# A process was injected with potentially malicious code
+
+https://attack.mitre.org/techniques/T1055/
+
+A process has injected code into another process, indicating suspicious code being run in the target process memory. Injection is often used to hide malicious code execution within a trusted process.
+As a result, the target process may exhibit abnormal behaviors such as opening a listening port or connecting to a command and control server.
+Recommended actions:
+
+Investigate the machine's timeline for any other indicators around the time of this alert
+Validate contextual information about the relevant components such as file prevalence, other machines it was observed on etc.
+Contact the machine's user to verify whether they received an email with a suspicious attachment or link around the time of the alert.
+Run a full malware scan on the machine, this may reveal additional related components.
+Consider submitting the relevant file(s) for deep analysis for detailed behavioral information.
+If initial investigation confirms suspicions, contact your incident response team for forensic analysis.
+
+DeviceEvents 
+| where ActionType == "CreateRemoteThreadApiCall"
 
