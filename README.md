@@ -13,6 +13,10 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Harden endpoint security for COVID-19 and working from home with Threat & Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/harden-endpoint-security-for-covid-19-and-working-from-home-with/ba-p/1343641) April 30, 2020
+* [Deploy Microsoft Defender ATP for Mac in just a few clicks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/deploy-microsoft-defender-atp-for-mac-in-just-a-few-clicks/ba-p/1341619) April 27, 2020
+* [MITRE ATT&CK evaluation results](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/mitre-att-amp-ck-evaluation-results/ba-p/1334208) April 24, 2020
+* [Demystifying attack surface reduction rules - Part 2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-2/ba-p/1326565) April 22, 2020
 * [Demystifying attack surface reduction rules - Part 1](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-1/ba-p/1306420) March 14,2020
 * [Threat & Vulnerability Management APIs are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/threat-amp-vulnerability-management-apis-are-now-generally/ba-p/1304615) March 14,2020
 * [Live response for earlier versions of Windows is now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/live-response-for-earlier-versions-of-windows-is-now-in-public/ba-p/1282156) April 6,2020
