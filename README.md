@@ -263,6 +263,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [MDATP PowerBI](https://github.com/microsoft/MDATP-PowerBI-Templates/blob/master/README.md)
 * [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
 * [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
+* [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
   
 ---
 
