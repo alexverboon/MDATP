@@ -1,0 +1,5 @@
+DeviceFileEvents
+| where InitiatingProcessCommandLine contains "MpSigStub.exe"
+| extend NewVersion=tostring(split(InitiatingProcessCommandLine, " ")[4]) 
+| summarize arg_max(NewVersion, *) by DeviceName
+| project DeviceName , NewVersion

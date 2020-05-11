@@ -1,0 +1,4 @@
+DeviceTvmSoftwareInventoryVulnerabilities
+| where SoftwareVendor == "cisco"
+| where SoftwareName == "anyconnect_secure_mobility_client"
+| where SoftwareVersion != "4.8.2045.0"

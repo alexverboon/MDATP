@@ -1,0 +1,10 @@
+let TVMConfigAssessKB = DeviceTvmSecureConfigurationAssessmentKB 
+    | where ConfigurationSubcategory == 'Bitlocker'; 
+DeviceTvmSecureConfigurationAssessment 
+| where ConfigurationSubcategory == 'Bitlocker' 
+| project DeviceName, IsCompliant, ConfigurationSubcategory, ConfigurationId, ConfigurationImpact, Timestamp 
+| join kind= inner TVMConfigAssessKB on ConfigurationId 
+| where ConfigurationName == "Encrypt all BitLocker-supported drives"
+| project DeviceName, IsCompliant, ConfigurationId, ConfigurationSubcategory, ConfigurationName 
+| distinct DeviceName, IsCompliant, ConfigurationId, ConfigurationSubcategory, ConfigurationName 
+| sort by DeviceName asc

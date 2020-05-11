@@ -1,0 +1,84 @@
+{
+    "definition": {
+        "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+        "actions": {
+            "Actions_-_Get_list_of_machine_actions": {
+                "inputs": {
+                    "host": {
+                        "connection": {
+                            "name": "@parameters('$connections')['wdatp']['connectionId']"
+                        }
+                    },
+                    "method": "get",
+                    "path": "/api/machineactions"
+                },
+                "runAfter": {},
+                "type": "ApiConnection"
+            },
+            "For_each": {
+                "actions": {
+                    "Send_Data": {
+                        "inputs": {
+                            "body": "@{items('For_each')}",
+                            "headers": {
+                                "Log-Type": "MDATPAdminAuditLog",
+                                "time-generated-field": "@{utcNow()}"
+                            },
+                            "host": {
+                                "connection": {
+                                    "name": "@parameters('$connections')['azureloganalyticsdatacollector']['connectionId']"
+                                }
+                            },
+                            "method": "post",
+                            "path": "/api/logs"
+                        },
+                        "runAfter": {},
+                        "type": "ApiConnection"
+                    }
+                },
+                "foreach": "@body('Actions_-_Get_list_of_machine_actions')?['value']",
+                "runAfter": {
+                    "Actions_-_Get_list_of_machine_actions": [
+                        "Succeeded"
+                    ]
+                },
+                "type": "Foreach"
+            }
+        },
+        "contentVersion": "1.0.0.0",
+        "outputs": {},
+        "parameters": {
+            "$connections": {
+                "defaultValue": {},
+                "type": "Object"
+            }
+        },
+        "triggers": {
+            "Recurrence": {
+                "recurrence": {
+                    "frequency": "Hour",
+                    "interval": 8,
+                    "startTime": "2020-04-11T00:00:00Z",
+                    "timeZone": "W. Europe Standard Time"
+                },
+                "type": "Recurrence"
+            }
+        }
+    },
+    "parameters": {
+        "$connections": {
+            "value": {
+                "azureloganalyticsdatacollector": {
+                    "connectionId": "/subscriptions/34d8a673-71a1-40ac-b62d-564ba27ea3a2/resourceGroups/rg_mdatpadminauditlog/providers/Microsoft.Web/connections/azureloganalyticsdatacollector",
+                    "connectionName": "azureloganalyticsdatacollector",
+                    "id": "/subscriptions/34d8a673-71a1-40ac-b62d-564ba27ea3a2/providers/Microsoft.Web/locations/westus/managedApis/azureloganalyticsdatacollector"
+                },
+                "wdatp": {
+                    "connectionId": "/subscriptions/34d8a673-71a1-40ac-b62d-564ba27ea3a2/resourceGroups/rg_mdatpadminauditlog/providers/Microsoft.Web/connections/wdatp",
+                    "connectionName": "wdatp",
+                    "id": "/subscriptions/34d8a673-71a1-40ac-b62d-564ba27ea3a2/providers/Microsoft.Web/locations/westus/managedApis/wdatp"
+                }
+            }
+        }
+    }
+}

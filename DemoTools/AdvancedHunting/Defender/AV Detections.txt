@@ -1,0 +1,4 @@
+DeviceEvents 
+| where ActionType == 'AntivirusDetection' 
+| project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA1, MD5, AdditionalFields, InitiatingProcessFolderPath, InitiatingProcessId 
+| summarize count() by Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA1, MD5, AdditionalFields, InitiatingProcessFolderPath, InitiatingProcessId 

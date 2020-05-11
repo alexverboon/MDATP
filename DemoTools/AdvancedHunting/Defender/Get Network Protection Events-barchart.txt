@@ -1,0 +1,9 @@
+DeviceEvents 
+| where ActionType == "ExploitGuardNetworkProtectionBlocked"
+| extend JsonOut = parse_json(AdditionalFields)
+| sort by Timestamp desc 
+| project Timestamp, DeviceName, InitiatingProcessAccountName, ActionType,  
+         RemoteUrl, InitiatingProcessCommandLine,
+         JsonOut.IsAudit,JsonOut.Uri      
+| summarize count() by RemoteUrl
+| render barchart

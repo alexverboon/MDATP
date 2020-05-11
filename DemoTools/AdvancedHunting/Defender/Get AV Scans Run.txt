@@ -1,0 +1,5 @@
+DeviceEvents 
+| where ActionType == 'AntivirusScanCompleted' 
+| extend ScanTypeIndex=tostring(split(AdditionalFields, ",")[3]) 
+| extend ScanType=tostring(split(ScanTypeIndex, ":")[1]) 
+| project Timestamp, DeviceName, ActionType, ScanType 

@@ -247,6 +247,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [Maarten Goet](https://twitter.com/maarten_goet)
 * [Eric Soldierer](https://twitter.com/EricSoldierer)
 * [Christian H. Mueller](https://twitter.com/chrisonsecurity)
+* [@DebugPrivilege](https://twitter.com/DebugPrivilege)
 
 ---
 
@@ -268,6 +269,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
 * [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
 * [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
+* [Huy - DebugPrivilege](https://github.com/DebugPrivilege/KQL-Queries)
   
 ---
 
