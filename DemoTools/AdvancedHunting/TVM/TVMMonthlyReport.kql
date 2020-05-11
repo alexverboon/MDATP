@@ -1,7 +1,7 @@
 // code used in https://www.verboon.info/2019/11/how-to-generate-a-monthly-defender-atp-threat-and-vulnerability-report/
 
 DeviceTvmSoftwareInventoryVulnerabilities  
-| project  ComputerName, SoftwareName, CveId, SoftwareVersion, VulnerabilitySeverityLevel 
+| project  DeviceName, SoftwareName, CveId, SoftwareVersion, VulnerabilitySeverityLevel 
 | join (DeviceTvmSoftwareVulnerabilitiesKB
 | project AffectedSoftware, VulnerabilityDescription , CveId , CvssScore , IsExploitAvailable 
 )
