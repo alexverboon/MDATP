@@ -13,6 +13,10 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Automate the boring for your SOC with automatic investigation and remediation!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038) May 11,2020
+* [Indicators enhancements: Allow/Block by certificates & more](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/indicators-enhancements-allow-block-by-certificates-amp-more/ba-p/1377586) May 10,2020
+* [Demystifying attack surface reduction rules - Part 3](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-3/ba-p/1360968) May 5,2020
+* [Onboarding and servicing non-persistent VDI machines with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/onboarding-and-servicing-non-persistent-vdi-machines-with/ba-p/1360721) May 5,2020
 * [Harden endpoint security for COVID-19 and working from home with Threat & Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/harden-endpoint-security-for-covid-19-and-working-from-home-with/ba-p/1343641) April 30, 2020
 * [Deploy Microsoft Defender ATP for Mac in just a few clicks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/deploy-microsoft-defender-atp-for-mac-in-just-a-few-clicks/ba-p/1341619) April 27, 2020
 * [MITRE ATT&CK evaluation results](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/mitre-att-amp-ck-evaluation-results/ba-p/1334208) April 24, 2020
