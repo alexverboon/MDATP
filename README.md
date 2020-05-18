@@ -13,6 +13,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Demystifying attack surface reduction rules - Part 4](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425) May 13,2020
+* [Defending networks against human-operated ransomware](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282) May 12, 2020
 * [Automate the boring for your SOC with automatic investigation and remediation!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038) May 11,2020
 * [Indicators enhancements: Allow/Block by certificates & more](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/indicators-enhancements-allow-block-by-certificates-amp-more/ba-p/1377586) May 10,2020
 * [Demystifying attack surface reduction rules - Part 3](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-3/ba-p/1360968) May 5,2020
