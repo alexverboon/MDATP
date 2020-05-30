@@ -164,7 +164,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
-
+* [Windows Defender configuration tool ConfigureDefender 3.0.0.0 released](https://www.ghacks.net/2020/05/09/windows-defender-configuration-tool-configuredefender-3-0-0-0-released/)
 * [24/7 protection during Covid-19 – Defender ATP Auto IR](https://blog.sec-labs.com/2020/05/24-7-protection-during-covid-19-defender-atp-auto-ir/)
 * [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)
 * [Microsoft Defender Antivirus (MDAV) “Cloud Protection” (Cloud-Delivered Protection aka MAPS)](https://yongrhee.wordpress.com/2020/04/11/microsoft-defender-antivirus-mdav-cloud-protection-cloud-delivered-protection-aka-maps/)
@@ -282,9 +282,10 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
 * [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
 * [Huy - DebugPrivilege](https://github.com/DebugPrivilege/KQL-Queries)
-  
----
-
+* [AndyFul - ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
+* [David Sass - DefenderASR](https://github.com/sassdawe/HardenWindows/tree/master/WindowsDefender/DefenderASR)
+* [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
+* [Eli Shlomo](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 ## PowerBI
 
 * [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)
