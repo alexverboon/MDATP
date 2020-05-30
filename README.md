@@ -13,6 +13,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Microsoft Defender ATP evaluation lab breach & attack simulators are now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088) May 25,2020
 * [Demystifying attack surface reduction rules - Part 4](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425) May 13,2020
 * [Defending networks against human-operated ransomware](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282) May 12, 2020
 * [Automate the boring for your SOC with automatic investigation and remediation!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038) May 11,2020
@@ -132,6 +133,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) June 27,2017
 * [Microsoft signs agreement to acquire Hexadite](https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/) June 8, 2017
 * [Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack](https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/) May 4,2017
+* [The Story of Windows Defender](https://community.windows.com/en-us/stories/the-story-of-windows-defender) April 17,2017
 
 ---
 ***2016***
@@ -163,6 +165,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [24/7 protection during Covid-19 – Defender ATP Auto IR](https://blog.sec-labs.com/2020/05/24-7-protection-during-covid-19-defender-atp-auto-ir/)
+* [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)
 * [Microsoft Defender Antivirus (MDAV) “Cloud Protection” (Cloud-Delivered Protection aka MAPS)](https://yongrhee.wordpress.com/2020/04/11/microsoft-defender-antivirus-mdav-cloud-protection-cloud-delivered-protection-aka-maps/)
 * [BLOCK IT.](https://emptydc.com/2020/01/27/block-it/)
 * [DEEP DIVE: FORENSICS VIA MDATP LIVE RESPONSE](https://emptydc.com/2020/04/07/deep-dive-forensics-via-mdatp-live-response/)
@@ -194,6 +198,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Webinars and Videos
 
+* [Security Community Webinars](https://techcommunity.microsoft.com/t5/security-privacy-compliance/security-community-webinars/m-p/927888#M2407)
+* [Join Our Security Community](https://techcommunity.microsoft.com/t5/security-privacy-compliance/join-our-security-community/m-p/927847)
 * [MS Defender ATP Overview and Full Attack Simulation](https://www.youtube.com/watch?v=8-iAwJjIs4I)
 * [Live response in Microsoft Defender ATP](https://www.youtube.com/watch?v=liLxJqRpscg)
 * [Webinar: Stopping attacks in their tracks through behavioral blocking and containment](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/webinar-stopping-attacks-in-their-tracks-through-behavioral/ba-p/1234126)
@@ -284,3 +290,11 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)
 * [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
 * [Defender ATP and PowerBI](http://blog.sec-labs.com/2019/04/defender-atp-and-powerbi/)
+
+---
+
+## Azure Sentinel
+
+* [Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
+* [Azure Sentinel: design considerations](https://medium.com/@maarten.goet/azure-sentinel-design-considerations-492f87fae384)
+
