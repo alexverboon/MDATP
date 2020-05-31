@@ -273,6 +273,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 ## MDATP on GitHub
 
+* [MTP - Advanced Hunting](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)
 * [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
 * [WindowsDefenderATP-Hunting-Queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
 * [MicrosoftDefenderATP-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderATP-API-PowerShell)
