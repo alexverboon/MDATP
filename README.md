@@ -13,6 +13,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Say hello to the new alert page in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673) June 15,2020
+* [Migrate the old Power BI App to Microsoft Defender ATP Power BI templates!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/migrate-the-old-power-bi-app-to-microsoft-defender-atp-power-bi/ba-p/1439572) June 4, 2020
 * [Microsoft Defender ATP evaluation lab breach & attack simulators are now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088) May 25,2020
 * [Demystifying attack surface reduction rules - Part 4](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425) May 13,2020
 * [Defending networks against human-operated ransomware](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282) May 12, 2020

@@ -48,6 +48,21 @@ End Sub
 
 ```
 
+
+```script
+Sub Button1_Click()
+  
+  dblShellReturn = Shell("powershell.exe", vbNormalFocus)
+  BasicPath = "C:\temp\testdl.ps1"
+  strCommand = "Powershell.exe -ExecutionPolicy ByPass -NoExit -File " & BasicPath
+   Set WsShell = CreateObject("WScript.Shell")
+   WsShell.Run (strCommand)
+```script
+
+End Sub
+
+
+
 ### Event Log
 
 The following events are created for ASR Block/ Audit mode
