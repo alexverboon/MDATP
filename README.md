@@ -119,7 +119,9 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 * [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) August 5,2018
 * [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
 * [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) June 5,2018
-* [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
+* [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/
+* [Enhancing conditional access with machine-risk data from Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/microsoft-security-and/enhancing-conditional-access-with-machine-risk-data-from-windows/ba-p/250559#:~:text=Conditional%20access%20uses%20a%20combination,automated%20action%20to%20remediate%20attacks.)f April 18,2018
+* Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
 * [New demo: Advanced Threat Protection across Windows 10 and Office](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039) March 31,2018
 * [Exploit Guard - Network Protection](https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624) February 20, 2018
 * [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
