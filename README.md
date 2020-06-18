@@ -13,6 +13,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Microsoft Defender ATP has a new UEFI scanner](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-has-a-new-uefi-scanner/ba-p/1472290) June 17,2020
+* [New partnerships with innovative leaders helps you fight advanced threats!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-partnerships-with-innovative-leaders-helps-you-fight/ba-p/1467697) June 16,2020
 * [Say hello to the new alert page in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673) June 15,2020
 * [Migrate the old Power BI App to Microsoft Defender ATP Power BI templates!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/migrate-the-old-power-bi-app-to-microsoft-defender-atp-power-bi/ba-p/1439572) June 4, 2020
 * [Microsoft Defender ATP evaluation lab breach & attack simulators are now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088) May 25,2020
@@ -168,7 +170,10 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
+
+* [MDATP 💙 THOR](https://emptydc.com/2020/06/17/mdatp-%f0%9f%92%99-thor/)
 * [Windows Defender configuration tool ConfigureDefender 3.0.0.0 released](https://www.ghacks.net/2020/05/09/windows-defender-configuration-tool-configuredefender-3-0-0-0-released/)
+* [Analyzing your Microsoft Defender ATP data in real-time in ELK using the new streaming API](https://medium.com/@maarten.goet/analyzing-your-microsoft-defender-atp-data-in-real-time-in-elk-using-the-new-streaming-api-c435d2943605)
 * [24/7 protection during Covid-19 – Defender ATP Auto IR](https://blog.sec-labs.com/2020/05/24-7-protection-during-covid-19-defender-atp-auto-ir/)
 * [Threat & Vulnerability Management – improve client security with MDATP](https://chrisonsecurity.net/2020/05/08/threat-vulnerability-management-improve-client-security-with-mdatp/)
 * [Microsoft Defender Antivirus (MDAV) “Cloud Protection” (Cloud-Delivered Protection aka MAPS)](https://yongrhee.wordpress.com/2020/04/11/microsoft-defender-antivirus-mdav-cloud-protection-cloud-delivered-protection-aka-maps/)
@@ -241,6 +246,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
 * [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 * [Maarten Goet - Wortell](https://github.com/wortell/KQL)
+* [Advanced Hunting Cheat Sheet](https://github.com/MiladMSFT/AdvHuntingCheatSheet) by @PowershellPoet, @maarten_goet, @Pawp81, @Bakk3rM and @MicrosoftMT
 
 ---
 
