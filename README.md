@@ -13,6 +13,11 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401) June 22,2020
+* [Microsoft Defender ATP for Linux is now generally available!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344) June 23,2020
+* [Announcing Microsoft Defender ATP for Android](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-for-android/ba-p/1480787) June 23, 2020
+* [Microsoft Threat Protection leads in real-world detection in MITRE ATT&CK evaluation](https://www.microsoft.com/security/blog/2020/05/01/microsoft-threat-protection-leads-real-world-detection-mitre-attck-evaluation/) May 1, 2020
+* [A deeper dive into the APT29 MITRE ATT&CK evaluation](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-deeper-dive-into-the-apt29-mitre-att-amp-ck-evaluation/ba-p/1476134) June 19. 2020
 * [Microsoft Defender ATP has a new UEFI scanner](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-has-a-new-uefi-scanner/ba-p/1472290) June 17,2020
 * [New partnerships with innovative leaders helps you fight advanced threats!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-partnerships-with-innovative-leaders-helps-you-fight/ba-p/1467697) June 16,2020
 * [Say hello to the new alert page in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673) June 15,2020
