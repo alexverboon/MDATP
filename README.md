@@ -13,6 +13,8 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 
 ***2020***
 
+* [Configuring Microsoft Defender Antivirus for non-persistent VDI machines](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/configuring-microsoft-defender-antivirus-for-non-persistent-vdi/ba-p/1489633) June 25,2020
+* [Improving defenses against Exchange server compromise](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/improving-defenses-against-exchange-server-compromise/ba-p/1487410) June 24,2020
 * [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401) June 22,2020
 * [Microsoft Defender ATP for Linux is now generally available!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344) June 23,2020
 * [Announcing Microsoft Defender ATP for Android](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-for-android/ba-p/1480787) June 23, 2020
