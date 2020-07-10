@@ -12,7 +12,9 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ---
 
 ***2020***
-
+* [Microsoft Defender ATP awarded a perfect 5-star rating by SC Media](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-awarded-a-perfect-5-star-rating-by-sc/ba-p/1511340) July 9,2020
+* [Introducing event timeline – an innovative, new way to manage your security exposure](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-event-timeline-an-innovative-new-way-to-manage-your/ba-p/1505208) July 6, 2020
+* [An update on Web Content Filtering](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445) July 6,2020
 * [Configuring Microsoft Defender Antivirus for non-persistent VDI machines](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/configuring-microsoft-defender-antivirus-for-non-persistent-vdi/ba-p/1489633) June 25,2020
 * [Improving defenses against Exchange server compromise](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/improving-defenses-against-exchange-server-compromise/ba-p/1487410) June 24,2020
 * [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401) June 22,2020
@@ -168,16 +170,13 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
-## Hunting Tips of the Month
-
-* [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
-* [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898)
-* [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454)
-
----
-
 ## Other Blog Posts
 
+* [Microsoft Defender ATP for Android](https://chrisonsecurity.net/2020/06/24/microsoft-defender-atp-for-android/)
+* [Assigning MDATP tags through the machine name & logged on user with Logic Apps](https://thecollective.eu/blog/assigning-mdatp-tags-through-the-machine-name-logged-on-user-with-logic-apps/)
+* [MANAGE OFFICE ATP ALERTS LIKE A BOSS](https://emptydc.com/2020/07/06/manage-office-atp-alerts-like-a-boss/)
+* [Microsoft Defender ATP Web Content Filtering – Migrate Rules from Existing Security Software](https://campbell.scot/microsoft-defender-atp-web-content-filtering-migrate-rules-from-existing-security-software/)
+* [Microsoft Defender ATP Web Content Filtering – Administration, Limitations, and User Experience](https://campbell.scot/microsoft-defender-atp-web-content-filtering-administration-limitations-and-user-experience/)
 * [MDATP 💙 THOR](https://emptydc.com/2020/06/17/mdatp-%f0%9f%92%99-thor/)
 * [Windows Defender configuration tool ConfigureDefender 3.0.0.0 released](https://www.ghacks.net/2020/05/09/windows-defender-configuration-tool-configuredefender-3-0-0-0-released/)
 * [Analyzing your Microsoft Defender ATP data in real-time in ELK using the new streaming API](https://medium.com/@maarten.goet/analyzing-your-microsoft-defender-atp-data-in-real-time-in-elk-using-the-new-streaming-api-c435d2943605)
@@ -238,6 +237,14 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
+## Hunting Tips of the Month
+
+* [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594)
+* [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898)
+* [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454)
+
+---
+
 ### Ignite 2019 sessions
 
 * [Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP](https://myignite.techcommunity.microsoft.com/sessions/79816?source=sessions) Hadar Feldman, Microsoft
@@ -248,6 +255,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 ## Advanced Hunting
 
+* [Kusto Query Language (KQL) - cheat sheet](https://github.com/MiladMSFT/KQL)
 * [Sigma-Hunting-App](https://github.com/P4T12ICK/Sigma-Hunting-App)
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
 * [Microsoft MDATP Hunting Queries on GitHub](https://github.com/Microsoft/windowsDefenderATP-Hunting-Queries/)
@@ -277,6 +285,8 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [Eric Soldierer](https://twitter.com/EricSoldierer)
 * [Christian H. Mueller](https://twitter.com/chrisonsecurity)
 * [@DebugPrivilege](https://twitter.com/DebugPrivilege)
+* [@thijslecomte](@thijslecomte)
+* [@YongRheeMSFT](https://twitter.com/yongrheemsft)
 
 ---
 
