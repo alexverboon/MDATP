@@ -12,6 +12,11 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ---
 
 ***2020***
+
+* [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) July 20,2020
+* [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) July 14,2020
+* [Announcing high value asset tagging in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459) July 14,2020
+* [SHA-2 signing enforcement on Windows 7 and Windows Server 2008 R2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/sha-2-signing-enforcement-on-windows-7-and-windows-server-2008/ba-p/1519584) July 13,2020
 * [Microsoft Defender ATP awarded a perfect 5-star rating by SC Media](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-awarded-a-perfect-5-star-rating-by-sc/ba-p/1511340) July 9,2020
 * [Introducing event timeline – an innovative, new way to manage your security exposure](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-event-timeline-an-innovative-new-way-to-manage-your/ba-p/1505208) July 6, 2020
 * [An update on Web Content Filtering](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445) July 6,2020
@@ -255,6 +260,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 ## Advanced Hunting
 
+* [Become a KQL Ninja](https://getshitsecured.com/2020/08/07/become-a-kql-ninja/)
 * [Kusto Query Language (KQL) - cheat sheet](https://github.com/MiladMSFT/KQL)
 * [Sigma-Hunting-App](https://github.com/P4T12ICK/Sigma-Hunting-App)
 * [Go hunt, join us on GitHub](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Go-hunt-join-us-on-GitHub/ba-p/195050)
@@ -326,4 +332,3 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 * [Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
 * [Azure Sentinel: design considerations](https://medium.com/@maarten.goet/azure-sentinel-design-considerations-492f87fae384)
-
