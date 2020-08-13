@@ -12,6 +12,7 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ---
 
 ***2020***
+
 * [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020
 * [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) July 20,2020
 * [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) July 14,2020
