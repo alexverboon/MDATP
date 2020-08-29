@@ -1,11 +1,18 @@
-# Microsoft Defender Advanced Threat Protection - Resource Hub
+# Microsoft Threat Protection - Resource Hub
 
 <p align="center">
-    <img src="./Images/MDATP1.png" alt="PSMDATP" >
+    <img src="./Images/MDATP1.png" alt="MDATP" >
 </p>
 
+Welcome to the Microsoft Threat Protection Resource Hub.
 
-Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If you're familiar with Git feel free to contribute through a pull request or simply submit a suggestion via an Issue.
+> I have started to include additional MTP resources and therefore renamed this to Microsoft Threat Protection resource hub
+
+> **Update!** as the list of MDATP/MTP resources keeps growing I am highlighting :new: additions
+
+> [Become a Microsoft Defender ATP Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
+
+> [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
 
@@ -14,9 +21,15 @@ Welcome to the Microsoft Defender Advanced Threat Protection Resource Hub. If yo
 ***2020***
 
 * [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) August 28, 2020 :new:
-* [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020
-* [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) August 18,2020
-* [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020
+* [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020 :new:
+* [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520) August 20,2020 :new:
+* [Hunt for threats using events captured by Azure ATP on your domain controller](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212) August 19,2020 :new:
+* [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) August 18,2020 :new:
+* [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020 :new:
+* [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320) August 10,2020 :new:
+* [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341) July 30,2020 :new:
+* [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178) July 28,2020 :new:
+* [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768) July 22,2020 :new:
 * [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) July 20,2020
 * [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) July 14,2020
 * [Announcing high value asset tagging in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459) July 14,2020
@@ -181,7 +194,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
-* [Showcasing some Endpoint Detection & Response Features of Microsoft Defender ATP](https://blog.thinformatics.com/2020/08/showcasing-some-endpoint-detection-response-features-of-microsoft-defender-atp/)
+* [Microsoft Threat Protection Jupyter notebook AdvancedHunting sample](https://medium.com/wortell/microsoft-threat-protection-jupyter-notebook-advancedhunting-sample-7217d85481c4) :new:
+* [Showcasing some Endpoint Detection & Response Features of Microsoft Defender ATP](https://blog.thinformatics.com/2020/08/showcasing-some-endpoint-detection-response-features-of-microsoft-defender-atp/) :new:
 * [Microsoft Defender ATP for Android](https://chrisonsecurity.net/2020/06/24/microsoft-defender-atp-for-android/)
 * [Assigning MDATP tags through the machine name & logged on user with Logic Apps](https://thecollective.eu/blog/assigning-mdatp-tags-through-the-machine-name-logged-on-user-with-logic-apps/)
 * [MANAGE OFFICE ATP ALERTS LIKE A BOSS](https://emptydc.com/2020/07/06/manage-office-atp-alerts-like-a-boss/)
