@@ -11,7 +11,7 @@ Welcome to the Microsoft Threat Protection Resource Hub.
 > **Update!** as the list of MDATP/MTP resources keeps growing I am highlighting :new: additions
 
 > [Become a Microsoft Defender ATP Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
-
+> [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
 
 ## Microsoft Blog posts on Microsoft Advanced Threat Protection
@@ -237,6 +237,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Webinars and Videos
 
+* [Elevate your endpoint security with Microsoft Defender ATP](https://www.sans.org/webcasts/elevate-endpoint-security-microsoft-defender-atp-112835) :new:
 * [Security Community Webinars](https://techcommunity.microsoft.com/t5/security-privacy-compliance/security-community-webinars/m-p/927888#M2407)
 * [Join Our Security Community](https://techcommunity.microsoft.com/t5/security-privacy-compliance/join-our-security-community/m-p/927847)
 * [MS Defender ATP Overview and Full Attack Simulation](https://www.youtube.com/watch?v=8-iAwJjIs4I)
