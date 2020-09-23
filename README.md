@@ -7,9 +7,7 @@
 Welcome to the Microsoft Threat Protection Resource Hub.
 
 > I have started to include additional MTP resources and therefore renamed this to Microsoft Threat Protection resource hub
-
 > **Update!** as the list of MDATP/MTP resources keeps growing I am highlighting :new: additions
-
 > [Become a Microsoft Defender ATP Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
@@ -20,16 +18,22 @@ Welcome to the Microsoft Threat Protection Resource Hub.
 
 ***2020***
 
-* [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) August 28, 2020 :new:
-* [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020 :new:
-* [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520) August 20,2020 :new:
-* [Hunt for threats using events captured by Azure ATP on your domain controller](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212) August 19,2020 :new:
-* [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) August 18,2020 :new:
-* [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020 :new:
-* [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320) August 10,2020 :new:
-* [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341) July 30,2020 :new:
-* [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178) July 28,2020 :new:
-* [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768) July 22,2020 :new:
+* [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385) September 22,2020 :new:
+* [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813) September 22,2020 :new:
+* [Office 365 ATP is now Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/office-365-atp-is-now-microsoft-defender-for-office-365/ba-p/1696529) September 22, 2020 :new:
+* [Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824) September 22,2020 :new:
+* [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234) September 15,2020 :new:
+* [Microsoft Defender ATP for Mac is moving to system extensions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-atp-for-mac-is-moving-to-system-extensions/ba-p/1608736) August 31,2020 :new:
+* [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) August 28, 2020 
+* [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020 
+* [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520) August 20,2020 
+* [Hunt for threats using events captured by Azure ATP on your domain controller](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212) August 19,2020 
+* [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) August 18,2020 
+* [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020 
+* [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320) August 10,2020 
+* [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341) July 30,2020 
+* [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178) July 28,2020 
+* [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768) July 22,2020 
 * [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) July 20,2020
 * [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) July 14,2020
 * [Announcing high value asset tagging in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459) July 14,2020
@@ -194,6 +198,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+* [MTP Advanced Hunting – Public free E-Mail services](https://www.verboon.info/2020/09/mtp-advanced-hunting-public-free-e-mail-services/) :new:
+* [Hunting for Local Group Membership changes](https://www.verboon.info/2020/09/hunting-for-local-group-membership-changes/) :new:
 * [Microsoft Threat Protection Jupyter notebook AdvancedHunting sample](https://medium.com/wortell/microsoft-threat-protection-jupyter-notebook-advancedhunting-sample-7217d85481c4) :new:
 * [Showcasing some Endpoint Detection & Response Features of Microsoft Defender ATP](https://blog.thinformatics.com/2020/08/showcasing-some-endpoint-detection-response-features-of-microsoft-defender-atp/) :new:
 * [Microsoft Defender ATP for Android](https://chrisonsecurity.net/2020/06/24/microsoft-defender-atp-for-android/)
@@ -280,6 +286,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 
 ## Advanced Hunting
 
+* [Kusto King blog](https://www.kustoking.com/) :new:
 * [Become a KQL Ninja](https://getshitsecured.com/2020/08/07/become-a-kql-ninja/)
 * [Kusto Query Language (KQL) - cheat sheet](https://github.com/MiladMSFT/KQL)
 * [Sigma-Hunting-App](https://github.com/P4T12ICK/Sigma-Hunting-App)
@@ -313,6 +320,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [@DebugPrivilege](https://twitter.com/DebugPrivilege)
 * [@thijslecomte](@thijslecomte)
 * [@YongRheeMSFT](https://twitter.com/yongrheemsft)
+* [@castello_johnny](https://twitter.com/castello_johnny) :new:
 
 ---
 
@@ -341,6 +349,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
 * [Eli Shlomo](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 ## PowerBI
+* [KQL Tools](https://github.com/microsoft/KqlTools) :new:
 
 * [Create and build Power BI reports using Microsoft Defender ATP data](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/powerbi-reports)
 * [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
