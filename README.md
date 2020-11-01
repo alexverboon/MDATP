@@ -1,4 +1,4 @@
-# Microsoft Threat Protection - Resource Hub
+# Microsoft 365 Defender - Resource Hub
 
 <p align="center">
     <img src="./Images/MDATP1.png" alt="MDATP" >
