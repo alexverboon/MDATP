@@ -23,11 +23,11 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 * [Introducing a new threat and vulnerability management report](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-a-new-threat-and-vulnerability-management-report/ba-p/1827448) October 28,2020 :new:
 * [Investigating Alerts in Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/investigating-alerts-in-defender-for-office-365/ba-p/1824188) October 28,2020 :new:
-* [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385) September 22,2020 
-* [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813) September 22,2020 
+* [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385) September 22,2020 :new:
+* [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813) September 22,2020 :new:
 * [Office 365 ATP is now Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/office-365-atp-is-now-microsoft-defender-for-office-365/ba-p/1696529) September 22, 2020 
-* [Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824) September 22,2020 
-* [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234) September 15,2020 
+* [Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824) September 22,2020 :new:
+* [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234) September 15,2020 :new:
 * [Microsoft Defender ATP for Mac is moving to system extensions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-atp-for-mac-is-moving-to-system-extensions/ba-p/1608736) August 31,2020 
 * [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) August 28, 2020
 * [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020
