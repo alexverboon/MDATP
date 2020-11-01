@@ -328,7 +328,7 @@ Check out the scripts in the [PowerShell](./PowerShell/readme.md) folder
 * [@thijslecomte](@thijslecomte)
 * [@YongRheeMSFT](https://twitter.com/yongrheemsft)
 * [@castello_johnny](https://twitter.com/castello_johnny)
-* [Matt Soseman]([@SosemanMatt](https://twitter.com/SosemanMatt))
+* [Matt Soseman](https://twitter.com/SosemanMatt)
 
 ---
 
