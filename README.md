@@ -8,7 +8,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > **Update!** as the list of Microsoft 365 Defender resources keeps growing I am highlighting :new: additions
 
-> [Become a Microsoft Defender ATP Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
+> [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
 
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 
