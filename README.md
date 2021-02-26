@@ -7,9 +7,13 @@
 Welcome to the Microsoft 365 Defender Resource Hub.
 
 > **Update!** as the list of Microsoft 365 Defender resources keeps growing I am highlighting :new: additions
+
 > [Become a Microsoft Defender ATP Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
+
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
+
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
+
 > [Microsoft 365 Security for IT Pros](https://m365securitybook.com/2020/05/18/announcing-m365securitybook/) A must have for every IT Pro
 
 ---
@@ -266,7 +270,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 - [Gundog](https://emptydc.com/2021/02/25/gundog/) :new:
 - [Microsoft Defender — Detect Hidden Windows Run](https://medium.com/@theoraclewrites/microsoft-defender-detect-hidden-windows-runs-1c8094e072c7)
-- [Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel](https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/) 
+- [Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel](https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/)
 - [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)
 - [Getting started with Microsoft Defender for Endpoint for iOS](https://www.petervanderwoude.nl/post/getting-started-with-microsoft-defender-for-endpoint-for-ios/)
 - [Integrate Microsoft Defender for Endpoint with Azure Defender](https://www.eshlomo.us/integrate-microsoft-defender-for-endpoint-with-azure-defender-mde-series/)
