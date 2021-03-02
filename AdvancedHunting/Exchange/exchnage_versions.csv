@@ -1,0 +1,116 @@
+ProductName,ReleaseDate,Build_short,Build_long
+Exchange Server 2019 CU8,15-Dec-20,15.2.792.3,15.02.0792.003
+Exchange Server 2019 CU7,15-Sep-20,15.2.721.2,15.02.0721.002
+Exchange Server 2019 CU6,16-Jun-20,15.2.659.4,15.02.0659.004
+Exchange Server 2019 CU5,17-Mar-20,15.2.595.3,15.02.0595.003
+Exchange Server 2019 CU4,17-Dec-19,15.2.529.5,15.02.0529.005
+Exchange Server 2019 CU3,17-Sep-19,15.2.464.5,15.02.0464.005
+Exchange Server 2019 CU2,18-Jun-19,15.2.397.3,15.02.0397.003
+Exchange Server 2019 CU1,12-Feb-19,15.2.330.5,15.02.0330.005
+Exchange Server 2019 RTM,22-Oct-18,15.2.221.12,15.02.0221.012
+Exchange Server 2019 Preview,24-Jul-18,15.2.196.0,15.02.0196.000
+Exchange Server 2016 CU19,15-Dec-20,15.1.2176.2,15.01.2176.002
+Exchange Server 2016 CU18,15-Sep-20,15.1.2106.2,15.01.2106.002
+Exchange Server 2016 CU17,16-Jun-20,15.1.2044.4,15.01.2044.004
+Exchange Server 2016 CU16,17-Mar-20,15.1.1979.3,15.01.1979.003
+Exchange Server 2016 CU15,17-Dec-19,15.1.1913.5,15.01.1913.005
+Exchange Server 2016 CU14,17-Sep-19,15.1.1847.3,15.01.1847.003
+Exchange Server 2016 CU13,18-Jun-19,15.1.1779.2,15.01.1779.002
+Exchange Server 2016 CU12,12-Feb-19,15.1.1713.5,15.01.1713.005
+Exchange Server 2016 CU11,16-Oct-18,15.1.1591.10,15.01.1591.010
+Exchange Server 2016 CU10,19-Jun-18,15.1.1531.3,15.01.1531.003
+Exchange Server 2016 CU9,20-Mar-18,15.1.1466.3,15.01.1466.003
+Exchange Server 2016 CU8,19-Dec-17,15.1.1415.2,15.01.1415.002
+Exchange Server 2016 CU7,19-Sep-17,15.1.1261.35,15.01.1261.035
+Exchange Server 2016 CU6,27-Jun-17,15.1.1034.26,15.01.1034.026
+Exchange Server 2016 CU5,21-Mar-17,15.1.845.34,15.01.0845.034
+Exchange Server 2016 CU4,13-Dec-16,15.1.669.32,15.01.0669.032
+Exchange Server 2016 CU3,20-Sep-16,15.1.544.27,15.01.0544.027
+Exchange Server 2016 CU2,21-Jun-16,15.1.466.34,15.01.0466.034
+Exchange Server 2016 CU1,15-Mar-16,15.1.396.30,15.01.0396.030
+Exchange Server 2016 RTM,1-Oct-15,15.1.225.42,15.01.0225.042
+Exchange Server 2016 Preview,22-Jul-15,15.1.225.16,15.01.0225.016
+Exchange Server 2013 CU23,18-Jun-19,15.0.1497.2,15.00.1497.002
+Exchange Server 2013 CU22,12-Feb-19,15.0.1473.3,15.00.1473.003
+Exchange Server 2013 CU21,19-Jun-18,15.0.1395.4,15.00.1395.004
+Exchange Server 2013 CU20,20-Mar-18,15.0.1367.3,15.00.1367.003
+Exchange Server 2013 CU19,19-Dec-17,15.0.1365.1,15.00.1365.001
+Exchange Server 2013 CU18,19-Sep-17,15.0.1347.2,15.00.1347.002
+Exchange Server 2013 CU17,27-Jun-17,15.0.1320.4,15.00.1320.004
+Exchange Server 2013 CU16,21-Mar-17,15.0.1293.2,15.00.1293.002
+Exchange Server 2013 CU15,13-Dec-16,15.0.1263.5,15.00.1263.005
+Exchange Server 2013 CU14,20-Sep-16,15.0.1236.3,15.00.1236.003
+Exchange Server 2013 CU13,21-Jun-16,15.0.1210.3,15.00.1210.003
+Exchange Server 2013 CU12,15-Mar-16,15.0.1178.4,15.00.1178.004
+Exchange Server 2013 CU11,15-Dec-15,15.0.1156.6,15.00.1156.006
+Exchange Server 2013 CU10,15-Sep-15,15.0.1130.7,15.00.1130.007
+Exchange Server 2013 CU9,17-Jun-15,15.0.1104.5,15.00.1104.005
+Exchange Server 2013 CU8,17-Mar-15,15.0.1076.9,15.00.1076.009
+Exchange Server 2013 CU7,9-Dec-14,15.0.1044.25,15.00.1044.025
+Exchange Server 2013 CU6,26-Aug-14,15.0.995.29,15.00.0995.029
+Exchange Server 2013 CU5,27-May-14,15.0.913.22,15.00.0913.022
+Exchange Server 2013 SP1,25-Feb-14,15.0.847.32,15.00.0847.032
+Exchange Server 2013 CU3,25-Nov-13,15.0.775.38,15.00.0775.038
+Exchange Server 2013 CU2,9-Jul-13,15.0.712.24,15.00.0712.024
+Exchange Server 2013 CU1,2-Apr-13,15.0.620.29,15.00.0620.029
+Exchange Server 2013 RTM,3-Dec-12,15.0.516.32,15.00.0516.032
+Update Rollup 30 for Exchange Server 2010 SP3,11-Feb-20,14.3.496.0,14.03.0496.000
+Update Rollup 29 for Exchange Server 2010 SP3,9-Jul-19,14.3.468.0,14.03.0468.000
+Update Rollup 28 for Exchange Server 2010 SP3,7-Jun-19,14.3.461.1,14.03.0461.001
+Update Rollup 27 for Exchange Server 2010 SP3,9-Apr-19,14.3.452.0,14.03.0452.000
+Update Rollup 26 for Exchange Server 2010 SP3,12-Feb-19,14.3.442.0,14.03.0442.000
+Update Rollup 25 for Exchange Server 2010 SP3,8-Jan-19,14.3.435.0,14.03.0435.000
+Update Rollup 24 for Exchange Server 2010 SP3,5-Sep-18,14.3.419.0,14.03.0419.000
+Update Rollup 23 for Exchange Server 2010 SP3,13-Aug-18,14.3.417.1,14.03.0417.001
+Update Rollup 22 for Exchange Server 2010 SP3,19-Jun-18,14.3.411.0,14.03.0411.000
+Update Rollup 21 for Exchange Server 2010 SP3,7-May-18,14.3.399.2,14.03.0399.002
+Update Rollup 20 for Exchange Server 2010 SP3,5-Mar-18,14.3.389.1,14.03.0389.001
+Update Rollup 19 for Exchange Server 2010 SP3,19-Dec-17,14.3.382.0,14.03.0382.000
+Update Rollup 18 for Exchange Server 2010 SP3,11-Jul-17,14.3.361.1,14.03.0361.001
+Update Rollup 17 for Exchange Server 2010 SP3,21-Mar-17,14.3.352.0,14.03.0352.000
+Update Rollup 16 for Exchange Server 2010 SP3,13-Dec-16,14.3.336.0,14.03.0336.000
+Update Rollup 15 for Exchange Server 2010 SP3,20-Sep-16,14.3.319.2,14.03.0319.002
+Update Rollup 14 for Exchange Server 2010 SP3,21-Jun-16,14.3.301.0,14.03.0301.000
+Update Rollup 13 for Exchange Server 2010 SP3,15-Mar-16,14.3.294.0,14.03.0294.000
+Update Rollup 12 for Exchange Server 2010 SP3,15-Dec-15,14.3.279.2,14.03.0279.002
+Update Rollup 11 for Exchange Server 2010 SP3,15-Sep-15,14.3.266.2,14.03.0266.002
+Update Rollup 10 for Exchange Server 2010 SP3,17-Jun-15,14.3.248.2,14.03.0248.002
+Update Rollup 9 for Exchange Server 2010 SP3,17-Mar-15,14.3.235.1,14.03.0235.001
+Update Rollup 8 v2 for Exchange Server 2010 SP3,12-Dec-14,14.3.224.2,14.03.0224.002
+Update Rollup 8 v1 for Exchange Server 2010 SP3 (recalled),9-Dec-14,14.3.224.1,14.03.0224.001
+Update Rollup 7 for Exchange Server 2010 SP3,26-Aug-14,14.3.210.2,14.03.0210.002
+Update Rollup 6 for Exchange Server 2010 SP3,27-May-14,14.3.195.1,14.03.0195.001
+Update Rollup 5 for Exchange Server 2010 SP3,24-Feb-14,14.3.181.6,14.03.0181.006
+Update Rollup 4 for Exchange Server 2010 SP3,9-Dec-13,14.3.174.1,14.03.0174.001
+Update Rollup 3 for Exchange Server 2010 SP3,25-Nov-13,14.3.169.1,14.03.0169.001
+Update Rollup 2 for Exchange Server 2010 SP3,8-Aug-13,14.3.158.1,14.03.0158.001
+Update Rollup 1 for Exchange Server 2010 SP3,29-May-13,14.3.146.0,14.03.0146.000
+Exchange Server 2010 SP3,12-Feb-13,14.3.123.4,14.03.0123.004
+Update Rollup 8 for Exchange Server 2010 SP2,9-Dec-13,14.2.390.3,14.02.0390.003
+Update Rollup 7 for Exchange Server 2010 SP2,3-Aug-13,14.2.375.0,14.02.0375.000
+Update Rollup 6 Exchange Server 2010 SP2,12-Feb-13,14.2.342.3,14.02.0342.003
+Update Rollup 5 v2 for Exchange Server 2010 SP2,10-Dec-12,14.2.328.10,14.02.0328.010
+Update Rollup 5 for Exchange Server 2010 SP2,13-Nov-12,14.3.328.5,14.03.0328.005
+Update Rollup 4 v2 for Exchange Server 2010 SP2,9-Oct-12,14.2.318.4,14.02.0318.004
+Update Rollup 4 for Exchange Server 2010 SP2,13-Aug-12,14.2.318.2,14.02.0318.002
+Update Rollup 3 for Exchange Server 2010 SP2,29-May-12,14.2.309.2,14.02.0309.002
+Update Rollup 2 for Exchange Server 2010 SP2,16-Apr-12,14.2.298.4,14.02.0298.004
+Update Rollup 1 for Exchange Server 2010 SP2,13-Feb-12,14.2.283.3,14.02.0283.003
+Exchange Server 2010 SP2,4-Dec-11,14.2.247.5,14.02.0247.005
+Update Rollup 8 for Exchange Server 2010 SP1,10-Dec-12,14.1.438.0,14.01.0438.000
+Update Rollup 7 v3 for Exchange Server 2010 SP1,13-Nov-12,14.1.421.3,14.01.0421.003
+Update Rollup 7 v2 for Exchange Server 2010 SP1,10-Oct-12,14.1.421.2,14.01.0421.002
+Update Rollup 7 for Exchange Server 2010 SP1,8-Aug-12,14.1.421.0,14.01.0421.000
+Update Rollup 6 for Exchange Server 2010 SP1,27-Oct-11,14.1.355.2,14.01.0355.002
+Update Rollup 5 for Exchange Server 2010 SP1,23-Aug-11,14.1.339.1,14.01.0339.001
+Update Rollup 4 for Exchange Server 2010 SP1,27-Jul-11,14.1.323.6,14.01.0323.006
+Update Rollup 3 for Exchange Server 2010 SP1,6-Apr-11,14.1.289.7,14.01.0289.007
+Update Rollup 2 for Exchange Server 2010 SP1,9-Dec-10,14.1.270.1,14.01.0270.001
+Update Rollup 1 for Exchange Server 2010 SP1,4-Oct-10,14.1.255.2,14.01.0255.002
+Exchange Server 2010 SP1,23-Aug-10,14.1.218.15,14.01.0218.015
+Update Rollup 5 for Exchange Server 2010,13-Dec-10,14.0.726.0,14.00.0726.000
+Update Rollup 4 for Exchange Server 2010,10-Jun-10,14.0.702.1,14.00.0702.001
+Update Rollup 3 for Exchange Server 2010,13-Apr-10,14.0.694.0,14.00.0694.000
+Update Rollup 2 for Exchange Server 2010,4-Mar-10,14.0.689.0,14.00.0689.000
+Update Rollup 1 for Exchange Server 2010,9-Dec-09,14.0.682.1,14.00.0682.001
+Exchange Server 2010 RTM,9-Nov-09,14.0.639.21,14.00.0639.021
