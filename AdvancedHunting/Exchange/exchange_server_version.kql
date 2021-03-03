@@ -1,0 +1,16 @@
+// Find exchange servers that run umworkerprocess.exe and then lookup the 
+// exchange version information, release date and build name
+
+let exchangeserverioninfo = (externaldata (ProductName:string, ReleaseDate:string, Build_short:string, Build_long:string)
+[@"https://raw.githubusercontent.com/alexverboon/MDATP/master/AdvancedHunting/Exchange/exchnage_versions.csv"]
+with(format="csv",ignoreFirstRecord=true))
+| where ProductName !startswith "#"
+| project ProductName,ReleaseDate, Build_long, Build_short;
+// exchangeserverioninfo
+// Identify Exchange servers with umworkerprocess.exe
+DeviceProcessEvents
+| where FileName contains "umworkerprocess.exe"
+| where FolderPath  contains @"\Exchange\Bin\"
+| distinct DeviceName,tostring(ProcessVersionInfoProductName), ProcessVersionInfoProductVersion, FolderPath
+| join kind=leftouter  exchangeserverioninfo
+on $left.ProcessVersionInfoProductVersion == $right. Build_long
