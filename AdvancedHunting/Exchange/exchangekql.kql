@@ -1,0 +1,8 @@
+// look for aspx files
+let ExChangeServers = 
+DeviceProcessEvents
+| where FileName contains "umworkerprocess.exe"
+| project DeviceName;
+DeviceFileEvents
+| where DeviceName in (ExChangeServers)
+| where FileName endswith ".aspx"
