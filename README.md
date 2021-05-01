@@ -1,14 +1,21 @@
 # Microsoft 365 Defender - Resource Hub
 
 <p align="center">
-    <img src="./Images/MDATP1.png" alt="MDATP" >
+    <img src="./Images/defener365resourcehub.png" alt="MDATP" >
 </p>
 
 Welcome to the Microsoft 365 Defender Resource Hub.
 
-> **Update!** as the list of Microsoft 365 Defender resources keeps growing I am highlighting :new: additions
 
 > [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
+
+> [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+
+> [Become a Microsoft Cloud App Security Ninja!](https://techcommunity.microsoft.com/t5/security-compliance-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
+
+> [Become a Microsoft Defender for Identity Ninja](https://techcommunity.microsoft.com/t5/security-compliance-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904)
+
+> [Become an Azure Sentinel Ninja](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
 
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 
@@ -29,13 +36,14 @@ Welcome to the Microsoft 365 Defender Resource Hub.
     - [2016](#2016)
     - [2015](#2015)
     - [2005](#2005)
+  - [Podcasts](#podcasts)
   - [Other Blog Posts](#other-blog-posts)
   - [Webinars and Videos](#webinars-and-videos)
-  - [Advanced Hunting](#advanced-hunting)
+  - [Advanced Hunting / KQL](#advanced-hunting--kql)
   - [Microsoft Security on Twitter](#microsoft-security-on-twitter)
+  - [- Mehmet Ergene](#--mehmet-ergene)
   - [Microsoft Docs](#microsoft-docs)
   - [Microsoft 365 Defender related content on GitHub](#microsoft-365-defender-related-content-on-github)
-  - [Azure Sentinel](#azure-sentinel)
 
 ## Microsoft Tech Community Blog posts
 
@@ -43,22 +51,68 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2021
 
-- [Business Email: Uncompromised – Part Two](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-two/ba-p/2167246) :new:
-- [Business Email: Uncompromised – Part One](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-one/ba-p/2159900) :new:
-- [MITRE ATT&CK Techniques now available in the device timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mitre-att-amp-ck-techniques-now-available-in-the-device-timeline/ba-p/2136788) :new:
-- [Protecting sensitive information on devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protecting-sensitive-information-on-devices/ba-p/2143555) :new:
-- [Microsoft Defender for Endpoint Ninja Training: February 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-february-2021/ba-p/2118350) :new:
-- [Microsoft Defender Antivirus: 12 reasons why you need it](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-antivirus-12-reasons-why-you-need-it/ba-p/2115116) :new:
-- [Extending threat and vulnerability management to more devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/extending-threat-and-vulnerability-management-to-more-devices/ba-p/2111253) :new:
-- [Windows Virtual Desktop support is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/windows-virtual-desktop-support-is-now-generally-available/ba-p/2103712) :new:
-- [How to use tagging effectively (Part 3)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-3/ba-p/1964073) :new:
+- [Enhancing Microsoft Defender for Identity Data Using Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/security-compliance-identity/enhancing-microsoft-defender-for-identity-data-using-microsoft/ba-p/2178286) :new:
+- [Secure Access for applications with Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/security-compliance-identity/secure-access-for-applications-with-microsoft-cloud-app-security/ba-p/2157495) :new:
+- [Uncover your blind spots: seamlessly control cloud usage risks to your organization](https://techcommunity.microsoft.com/t5/security-compliance-identity/uncover-your-blind-spots-seamlessly-control-cloud-usage-risks-to/ba-p/2157447) :new:
+- [Prevent sophisticated attacks: Microsoft Cloud App Security and Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/security-compliance-identity/prevent-sophisticated-attacks-microsoft-cloud-app-security-and/ba-p/2157646) :new:
+-[Bypass Blocking PDF Previews in OWA](https://techcommunity.microsoft.com/t5/security-compliance-identity/bypass-blocking-pdf-previews-in-owa/ba-p/2194205) :new:
+-[Microsoft Cloud App Security update: March 2021](https://techcommunity.microsoft.com/t5/security-compliance-identity/microsoft-cloud-app-security-update-march-2021/ba-p/2157650) :new:
+- [MCAS: Top 5 Queries You Need to Save](https://techcommunity.microsoft.com/t5/security-compliance-identity/mcas-top-5-queries-you-need-to-save/ba-p/2274518) :new:
+- [MSTICPy and Jupyter Notebooks in Azure Sentinel, an update](https://techcommunity.microsoft.com/t5/azure-sentinel/msticpy-and-jupyter-notebooks-in-azure-sentinel-an-update/ba-p/2279661) :new:
+- [Non-interactive logins: minimizing the blind spot](https://techcommunity.microsoft.com/t5/azure-sentinel/non-interactive-logins-minimizing-the-blind-spot/ba-p/2287932) :new:
+- [What’s new: Incident timeline](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-incident-timeline/ba-p/2267683) :new:
+- [How to use Azure Sentinel for Incident Response, Orchestration and Automation](https://techcommunity.microsoft.com/t5/azure-sentinel/how-to-use-azure-sentinel-for-incident-response-orchestration/ba-p/2242397) :new:
+- [Group-IB Threat Intelligence and Attribution Connector - Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/group-ib-threat-intelligence-and-attribution-connector-azure/ba-p/2252904) :new:
+- [IoT Asset discovery based on FW logs](https://techcommunity.microsoft.com/t5/azure-sentinel/iot-asset-discovery-based-on-fw-logs/ba-p/2232851) :new:
+- [Web Shell Threat Hunting with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/web-shell-threat-hunting-with-azure-sentinel/ba-p/2234968) :new:
+- [Best practices for migrating detection rules from ArcSight, Splunk and QRadar to Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-migrating-detection-rules-from-arcsight/ba-p/2216417) :new:
+- [What’s new: Automation rules](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-automation-rules/ba-p/2216926) :new:
+- [Monitoring the Software Supply Chain with Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/monitoring-the-software-supply-chain-with-azure-sentinel/ba-p/2176463) :new:
+- [What’s new: Alert Enrichment – Custom Details and Entity Mapping](https://techcommunity.microsoft.com/t5/azure-sentinel/what-s-new-alert-enrichment-custom-details-and-entity-mapping/ba-p/2195409) :new:
+- [Whats new: Azure Sentinel and Microsoft 365 Defender incident integration](https://techcommunity.microsoft.com/t5/azure-sentinel/whats-new-azure-sentinel-and-microsoft-365-defender-incident/ba-p/2191090) :new:
+- [Microsoft Ignite 2021: Blob and File Storage Investigations](https://techcommunity.microsoft.com/t5/azure-sentinel/microsoft-ignite-2021-blob-and-file-storage-investigations/ba-p/2175138) :new:
+- [Visibility of Azure key vault activity in Sentinel Azure Key Vault Workbook](https://techcommunity.microsoft.com/t5/azure-sentinel/visibility-of-azure-key-vault-activity-in-sentinel-azure-key/ba-p/2140751) :new:
+- [Mastering Configuration in Defender for Office 365 - Part Two](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/mastering-configuration-in-defender-for-office-365-part-two/ba-p/2307134) :new:
+- [Mastering Configuration in Defender for Office 365 - Part One](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/mastering-configuration-in-defender-for-office-365-part-one/ba-p/2300064) :new:
+- [Introducing the Email Entity Page in Microsoft Defender for Office 365!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-email-entity-page-in-microsoft-defender-for/ba-p/2275420) :new:
+- [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+- [Business Email: Uncompromised - Part Three](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-three/ba-p/2247693) :new:
+- [New Home for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/new-home-for-microsoft-defender-for-office-365/ba-p/2176179) :new:
+- [Best practices for leveraging Microsoft 365 Defender API's - Episode Three](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2290463) :new:
+- [Unified experiences across endpoint and email are now generally available in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/unified-experiences-across-endpoint-and-email-are-now-generally/ba-p/2278132) :new:
+- [Launching threat analytics for Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/launching-threat-analytics-for-microsoft-365-defender/ba-p/2232724) :new:
+- [Azure Sentinel and Microsoft 365 Defender incident integration](https://techcommunity.microsoft.com/t5/microsoft-365-defender/azure-sentinel-and-microsoft-365-defender-incident-integration/ba-p/2201959) :new:
+- [Best practices for leveraging Microsoft 365 Defender API's - Episode Two](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2198820) :new:
+- [Microsoft Cloud App Security: The Hunt in a multi-stage incident](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-cloud-app-security-the-hunt-in-a-multi-stage-incident/ba-p/2193484) :new:
+- [Microsoft 365 Defender now delivers unified experiences across endpoint, email and collaboration](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-now-delivers-unified-experiences-across/ba-p/2177512) :new:
+- [Endpoint Discovery - Navigating your way through unmanaged devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/endpoint-discovery-navigating-your-way-through-unmanaged-devices/ba-p/2248909) :new:
+- [Network device discovery and vulnerability assessments](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/network-device-discovery-and-vulnerability-assessments/ba-p/2267548) :new:
+- [Configuring exclusions for Splunk on RedHat Linux 7.9](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/configuring-exclusions-for-splunk-on-redhat-linux-7-9/ba-p/2261914) :new:
+- [New threat and vulnerability management experiences in Microsoft 365 security](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-threat-and-vulnerability-management-experiences-in-microsoft/ba-p/2233284) :new:
+- [Enhancing Linux antivirus with behavior monitoring capabilities!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhancing-linux-antivirus-with-behavior-monitoring-capabilities/ba-p/2226705) :new:
+- [Mac updates: Control your USB devices with Microsoft Defender for Endpoint on Mac!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mac-updates-control-your-usb-devices-with-microsoft-defender-for/ba-p/2224439) :new:
+- [Migrate advanced hunting from Microsoft Defender for Endpoint to Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/migrate-advanced-hunting-from-microsoft-defender-for-endpoint-to/ba-p/2214499) :new:
+-[Announcing a global switch for tamper protection](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-a-global-switch-for-tamper-protection/ba-p/2192490) :new:
+- [Investigating the Print Spooler EoP exploitation](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/investigating-the-print-spooler-eop-exploitation/ba-p/2166463) :new:
+- [Advanced hunting: updates to threat and vulnerability management tables](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/advanced-hunting-updates-to-threat-and-vulnerability-management/ba-p/2162584) :new:
+- [One app for VPN and mobile threat defense](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/one-app-for-vpn-and-mobile-threat-defense/ba-p/2170142) :new:
+- [Delivering world class SecOps experiences](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/delivering-world-class-secops-experiences/ba-p/2170092) :new:
+- [Business Email: Uncompromised – Part Two](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-two/ba-p/2167246)
+- [Business Email: Uncompromised – Part One](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/business-email-uncompromised-part-one/ba-p/2159900)
+- [MITRE ATT&CK Techniques now available in the device timeline](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mitre-att-amp-ck-techniques-now-available-in-the-device-timeline/ba-p/2136788)
+- [Protecting sensitive information on devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protecting-sensitive-information-on-devices/ba-p/2143555)
+- [Microsoft Defender for Endpoint Ninja Training: February 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-february-2021/ba-p/2118350)
+- [Microsoft Defender Antivirus: 12 reasons why you need it](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-antivirus-12-reasons-why-you-need-it/ba-p/2115116)
+- [Extending threat and vulnerability management to more devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/extending-threat-and-vulnerability-management-to-more-devices/ba-p/2111253)
+- [Windows Virtual Desktop support is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/windows-virtual-desktop-support-is-now-generally-available/ba-p/2103712)
+- [How to use tagging effectively (Part 3)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-3/ba-p/1964073)
 - [Microsoft Defender for Endpoint: Automation defaults are changing](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-automation-defaults-are-changing/ba-p/2068744)
-- [EDR for Linux is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-generally-available/ba-p/2048539) :new:
-- [How to use tagging effectively (Part 2)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-2/ba-p/1962008) :new:
-- [How to use tagging effectively (Part 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058) :new:
-- [Microsoft 365 Defender Ninja Training: January 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073) :new:
-- [Hunt for Azure Active Directory sign-in events](https://techcommunity.microsoft.com/t5/microsoft-365-defender/hunt-for-azure-active-directory-sign-in-events/ba-p/2040278) :new:
-- [Best practices for leveraging Microsoft 365 Defender API's - Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893) :new:
+- [EDR for Linux is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-generally-available/ba-p/2048539)
+- [How to use tagging effectively (Part 2)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-2/ba-p/1962008)
+- [How to use tagging effectively (Part 1)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-use-tagging-effectively-part-1/ba-p/1964058)
+- [Microsoft 365 Defender Ninja Training: January 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-january-2021-update/ba-p/2103073)
+- [Hunt for Azure Active Directory sign-in events](https://techcommunity.microsoft.com/t5/microsoft-365-defender/hunt-for-azure-active-directory-sign-in-events/ba-p/2040278)
+- [Best practices for leveraging Microsoft 365 Defender API's - Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
 
 ---
 ### 2020
@@ -266,9 +320,30 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
+## Podcasts
+
+- [Talking Security hosted by Frans Oudendorp](https://talkingsecurity.nl/)
+- [Security Unlocked hosted by Natalia Godyla and Nic Fillingham](https://techcommunity.microsoft.com/t5/security-compliance-identity/security-unlocked-a-new-podcast-on-the-technology-and-people/ba-p/1878709)
+- [Security Insiders hosted by Maarten Goet](https://podcasts.apple.com/us/podcast/security-insiders/id1513525644)
+- [Hairless in the Cloud hosted by Jan Geisbauer and Marco Scheel](https://hairlessinthecloud.com/)
+- [GeekZeugs by Alexander Benoit and Eric Berg](https://www.geekzeugs.de/)
+  
+---
+
 ## Other Blog Posts
 
-- [Gundog](https://emptydc.com/2021/02/25/gundog/) :new:
+- [Hunting for Lateral Movement: Local Accounts](https://mergene.medium.com/hunting-for-lateral-movement-local-accounts-bc08742f3d83) :new:
+- [Detecting network beacons via KQL using simple spread stats functions](https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b) :new:
+- [FalconFriday — Masquerading; LOLBin file renaming— 0xFF0C](https://medium.com/falconforce/falconfriday-masquerading-lolbin-file-renaming-0xff0c-b01e0ab5a95d)
+- [Practical Compromise Recovery Guidance For Active Directory](https://m365internals.com/2021/04/27/practical-compromise-recovery-guidance-for-active-directory/) :new:
+- [Incident Response In A Microsoft Cloud Environment](https://m365internals.com/2021/04/17/incident-response-in-a-microsoft-cloud-environment/) :new:
+- [Use kusto to breakdown time stamps](https://blog.sec-labs.com/2021/03/use-kusto-to-breakdown-time-stamps/) :new:
+- [Adding TAXII Threat Intel](https://blog.sec-labs.com/2021/04/adding-taxii-threat-intel/) :new:
+- [ALERTRULE FROM GITHUB TO AZURE SENTINEL](https://emptydc.com/2021/03/19/alertrule-from-github-to-azure-sentinel/) :new:
+- [How to Use Microsoft Teams as a Frontend to Azure Sentinel](https://azurecloudai.blog/2021/04/14/how-to-use-microsoft-teams-as-a-frontend-to-azure-sentinel/) :new:
+- [How to Find the Enhanced Functions Capabilities in the Azure Sentinel Console](https://azurecloudai.blog/2021/04/19/how-to-find-the-enhanced-functions-capabilities-in-the-azure-sentinel-console/) :new:
+- [Start Having Visibility In Service Accounts With Defender For Identity](https://m365internals.com/2021/03/27/start-having-visibility-in-service-accounts-with-defender-for-identity/) 
+- [Gundog](https://emptydc.com/2021/02/25/gundog/) 
 - [Microsoft Defender — Detect Hidden Windows Run](https://medium.com/@theoraclewrites/microsoft-defender-detect-hidden-windows-runs-1c8094e072c7)
 - [Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel](https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/)
 - [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)
@@ -322,6 +397,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Webinars and Videos
 
+- [Introduction into KQL/](https://github.com/alexverboon/SessionPresentations/tree/main/Introduction%20into%20KQL)
 - [057 - EN - Defender for Office 365 with Pawel Partyka](https://anchor.fm/hairlessinthecloud/episodes/057---EN---Defender-for-Office-365-with-Pawel-Partyka-elffhi)
 - [The NEW Attack Simulator in M365 w/ End User Training](https://mattsoseman.wordpress.com/2020/11/01/the-new-attack-simulator-in-m365-w-end-user-training/)
 - [Elevate your endpoint security with Microsoft Defender ATP](https://www.sans.org/webcasts/elevate-endpoint-security-microsoft-defender-atp-112835)
@@ -349,8 +425,9 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
-## Advanced Hunting
+## Advanced Hunting / KQL
 
+- [Exploring Anomalies with Log Analytics using KQL](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-anomalies-with-log-analytics-using-kql/ba-p/2252477) :new:
 - [Kusto King blog](https://www.kustoking.com/)
 - [Become a KQL Ninja](https://getshitsecured.com/2020/08/07/become-a-kql-ninja/)
 - [Kusto Query Language (KQL) - cheat sheet](https://github.com/MiladMSFT/KQL)
@@ -382,12 +459,17 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Maarten Goet](https://twitter.com/maarten_goet)
 - [Eric Soldierer](https://twitter.com/EricSoldierer)
 - [Christian H. Mueller](https://twitter.com/chrisonsecurity)
-- [@DebugPrivilege](https://twitter.com/DebugPrivilege)
+- [Huy](https://twitter.com/DebugPrivilege)
 - [@thijslecomte](@thijslecomte)
 - [@YongRheeMSFT](https://twitter.com/yongrheemsft)
 - [@castello_johnny](https://twitter.com/castello_johnny)
 - [Matt Soseman](https://twitter.com/SosemanMatt)
-
+- [Frans Oudendorp](https://twitter.com/oudendorp)
+- [Corina Feuerstein](https://twitter.com/corinaf)
+- [Daniel Naim](https://twitter.com/danielmy1Daniel)
+- [Pawel Partyka](https://twitter.com/Pawp81)
+- [Olaf Hartong](https://twitter.com/olafhartong)
+- [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 ---
 
 ## Microsoft Docs
@@ -396,6 +478,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/windows/security/threat-protection/)
 - [Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/)
 - [Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide)
+- [Microsoft Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/)
+- [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/)
 
 ---
 
@@ -418,11 +502,9 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Eli Shlomo](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
 - [KQL Tools](https://github.com/microsoft/KqlTools)
 - [GunDog](https://github.com/jangeisbauer/gundog/blob/main/gundog.ps1) :new:
-
+- [mdatp pwsh](https://github.com/Smalls1652/mdatp-pwsh) :new:
+- [blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
+- [Threat hunting and detection by Cyb3r-Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection) :new:
+- [Microsoft Defender 365 raw data schema - Overview](https://github.com/Iveco/xknow_infosec/blob/main/M365D_tables.md) :new:
+  
 ---
-
-## Azure Sentinel
-
-- [More content coming soon!]
-- [Become an Azure Sentinel Ninja: The complete level 400 training](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
-- [Azure Sentinel: design considerations](https://medium.com/@maarten.goet/azure-sentinel-design-considerations-492f87fae384)
