@@ -1,0 +1,7 @@
+// retrieve URLs only that are online from URLhaus
+// https://urlhaus.abuse.ch/downloads/text_online/
+
+let urlhaus_online = (externaldata(url_online: string ) [@"https://urlhaus.abuse.ch/downloads/text_online/"]
+with (format="txt"))
+| project url_online;
+urlhaus_online

@@ -1,0 +1,8 @@
+let urlhaus_hostsfile = (externaldata(domains: string ) [@"https://urlhaus.abuse.ch/downloads/hostfile/"]
+with (format="txt"))
+| project domains;
+urlhaus_hostsfile
+| where domains !startswith "#"
+| extend data =  split(domains,'\t')
+| extend domainname = data[1]
+| project-away domains, ['data']

@@ -1,0 +1,18 @@
+// Retrieve URLhaus database details - online only
+// https://urlhaus.abuse.ch/downloads/csv_online/
+
+let urlhaus_recent = (externaldata(payload_url: string) [@"https://urlhaus.abuse.ch/downloads/csv_online/"]
+with (format="txt"))
+| where payload_url !startswith "#"
+| project payload_url;
+urlhaus_recent
+| extend data = parse_csv(payload_url)
+| extend id = data[0]
+| extend dateadded = data[1]
+| extend url = data[2]
+| extend url_status = data[3]
+| extend threat = data[4]
+| extend tags = data[5]
+| extend urlhaus_link = data[6]
+| extend reporter = data[7]
+| project-away payload_url, ['data']

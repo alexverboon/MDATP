@@ -1,0 +1,16 @@
+let urlhaus_feed_CH = (externaldata(url: string ) [@"https://urlhaus.abuse.ch/feeds/country/CH/"]
+with (format="txt"))
+| where url !startswith "#"
+| project url;
+urlhaus_feed_CH
+// # Dateadded (UTC),URL,URL_status,Threat,Host,IPaddress,ASnumber,Country
+| extend data = parse_csv(url)
+| extend dateadded = data[0]
+| extend url = data[1]
+| extend url_status = data[2]
+| extend threat = data[3]
+| extend host = data[4]
+| extend IPaddress = data[5]
+| extend ASnumber = data[6]
+| extend Country = data[7]
+| project-away url, ['data']

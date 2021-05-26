@@ -1,0 +1,9 @@
+let urlhaus_recent = (externaldata(payload_url: string ) [@"https://urlhaus.abuse.ch/downloads/text_recent/"]
+with (format="txt"))
+| project payload_url;
+urlhaus_recent
+| join (DeviceFileEvents
+| where Timestamp > ago (8h)
+) 
+on $left.payload_url == $right.FileOriginUrl
+| project Timestamp, payload_url, DeviceName, ActionType, FileOriginUrl, FileName, SHA256

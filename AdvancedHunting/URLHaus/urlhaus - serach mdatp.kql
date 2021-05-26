@@ -1,0 +1,9 @@
+let  urlhaus_recent = materialize (
+ (externaldata(payload_url: string ) [@"https://urlhaus.abuse.ch/downloads/text_recent/"]
+with (format="txt"))
+| project payload_url
+| summarize by payload_url);
+search in (DeviceNetworkEvents, DeviceFileEvents, DeviceEvents)
+Timestamp > ago(8h)
+| where RemoteUrl in(urlhaus_recent) or FileOriginUrl in(urlhaus_recent)
+| project $table, Timestamp, DeviceName, RemoteUrl, FileOriginUrl, ActionType
