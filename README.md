@@ -508,3 +508,4 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Microsoft Defender 365 raw data schema - Overview](https://github.com/Iveco/xknow_infosec/blob/main/M365D_tables.md) :new:
   
 ---
+
