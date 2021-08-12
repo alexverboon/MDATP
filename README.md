@@ -491,6 +491,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Olaf Hartong](https://twitter.com/olafhartong)
 - [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
 - [@BlueVoyant](https://twitter.com/BlueVoyant)
+- [@Sec_GroundZero](https://twitter.com/Sec_GroundZero)
+- [@ashwinpatil](https://twitter.com/ashwinpatil)
   
 ---
 
@@ -528,6 +530,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [Threat hunting and detection by Cyb3r-Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection) 
 - [Microsoft Defender 365 raw data schema - Overview](https://github.com/Iveco/xknow_infosec/blob/main/M365D_tables.md) 
-  
+- [Azure Sentinel KQL Queries by reprise99](https://github.com/reprise99/Sentinel-Queries)
+- [KQL Reference Manual by SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)  
+- [Blue teaming with KQL by Ashwin Patil](https://github.com/ashwin-patil/blue-teaming-with-kql)
 ---
 
