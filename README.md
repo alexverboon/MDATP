@@ -21,8 +21,9 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
 
-> [Microsoft 365 Security for IT Pros](https://m365securitybook.com/2020/05/18/announcing-m365securitybook/) A must have for every IT Pro
+> [Microsoft 365 Security for IT Pros](https://m365securitybook.com/) A must have for every IT Pro
 
+> [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
 ---
 
 
@@ -50,22 +51,39 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2021
 
-- [ICYMI: Announcing Microsoft 365 Defender Streaming API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/icymi-announcing-microsoft-365-defender-streaming-api/ba-p/2414420) :new:
-- [Vulnerability management for Linux now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/vulnerability-management-for-linux-now-generally-available/ba-p/2451145) :new:
-- [Unmanaged device protection capabilities are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unmanaged-device-protection-capabilities-are-now-generally/ba-p/2463796) :new:
-- [Threat & vulnerability management integrates with ServiceNow VR](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/threat-amp-vulnerability-management-integrates-with-servicenow/ba-p/2454065) :new:
-- [New threat & vulnerability management APIs - create reports, automate, integrate](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-threat-amp-vulnerability-management-apis-create-reports/ba-p/2445813) :new:
-- [Announcing new capabilities on Android and iOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-capabilities-on-android-and-ios/ba-p/2442730) :new:
-- [Welcome to Microsoft 365 Defender!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/welcome-to-microsoft-365-defender/ba-p/2436618) :new:
+- [Microsoft Defender for Identity and Npcap](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/microsoft-defender-for-identity-and-npcap/m-p/2584151) :new:
+- [Advanced Hunting: Surfacing more email data from Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-surfacing-more-email-data-from-microsoft/ba-p/2678118) :new:
+- [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022) :new:
+- [Microsoft 365 Defender Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-august-2021-update/ba-p/2611831) :new:
+- [Take your security to the next level with professional security services](https://techcommunity.microsoft.com/t5/microsoft-365-defender/take-your-security-to-the-next-level-with-professional-security/ba-p/2528757) :new:
+- [Introducing Microsoft Defender for Endpoint Plan 1](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641) :new:
+- [Make sure Tamper Protection is turned on](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568) :new:
+- [Announcing Apple M1 native support](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585) :new:
+- [Public Preview: Custom file IoC enhancements and API schema update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/public-preview-custom-file-ioc-enhancements-and-api-schema/ba-p/2676997) :new:
+- [Best practices for optimizing custom indicators](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/best-practices-for-optimizing-custom-indicators/ba-p/2670357) :new:
+- [Microsoft Defender for Endpoint Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623) :new:
+- [DeepSurface integrates with Microsoft's vulnerability management capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deepsurface-integrates-with-microsoft-s-vulnerability-management/ba-p/2544600) :new:
+- [Download quarantined files now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/download-quarantined-files-now-in-public-preview/ba-p/2581160) :new:
+- [Protect your removable storage and printers with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-removable-storage-and-printers-with-microsoft/ba-p/2324806) :new:
+- [Announcing live response API public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-api-public-preview/ba-p/2537833) :new:
+- [Evaluation lab updates: device renewal and new simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-updates-device-renewal-and-new-simulations/ba-p/2519691) :new:
+- [Simplifying the Quarantine Experience](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience/ba-p/2676388) :new:
+- [Microsoft Teams gets more Phishing Protection!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-teams-gets-more-phishing-protection/ba-p/2585559) :new:
+- [Making the SecOps Team More Efficient - Focused Email Actions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/making-the-secops-team-more-efficient-focused-email-actions/ba-p/2557387) :new:
+- [ICYMI: Announcing Microsoft 365 Defender Streaming API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/icymi-announcing-microsoft-365-defender-streaming-api/ba-p/2414420) 
+- [Vulnerability management for Linux now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/vulnerability-management-for-linux-now-generally-available/ba-p/2451145) 
+- [Unmanaged device protection capabilities are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unmanaged-device-protection-capabilities-are-now-generally/ba-p/2463796) 
+- [Threat & vulnerability management integrates with ServiceNow VR](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/threat-amp-vulnerability-management-integrates-with-servicenow/ba-p/2454065) 
+- [New threat & vulnerability management APIs - create reports, automate, integrate](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-threat-amp-vulnerability-management-apis-create-reports/ba-p/2445813) 
+- [Announcing new capabilities on Android and iOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-capabilities-on-android-and-ios/ba-p/2442730) 
+- [Welcome to Microsoft 365 Defender!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/welcome-to-microsoft-365-defender/ba-p/2436618) 
 - [How to migrate advanced hunting to Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-migrate-advanced-hunting-to-microsoft-365-defender/ba-p/2409440)
-- [Secure configuration assessment for macOS and Linux now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-configuration-assessment-for-macos-and-linux-now-in/ba-p/2320517) :new:
-- [Announcing Exciting Updates to Attack Simulation Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-exciting-updates-to-attack-simulation-training/ba-p/2455961) :new:
-- [Microsoft Defender for Identity Experiences in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-experiences-in-microsoft-365/ba-p/2414610) :new:
-- [Setting up a New Phish Simulation Program - Part Two](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/setting-up-a-new-phish-simulation-program-part-two/ba-p/2432167) :new:
-- [Setting up a New Phish Simulation Program - Part One](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/setting-up-a-new-phish-simulation-program-part-one/ba-p/2412854) :new:
-- [Using Microsoft Defender for Identity Data to Make Powerful Advanced Hunting Queries](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-microsoft-defender-for-identity-data-to-make-powerful/ba-p/2404305) :new:
-
-
+- [Secure configuration assessment for macOS and Linux now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/secure-configuration-assessment-for-macos-and-linux-now-in/ba-p/2320517) 
+- [Announcing Exciting Updates to Attack Simulation Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-exciting-updates-to-attack-simulation-training/ba-p/2455961) 
+- [Microsoft Defender for Identity Experiences in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-experiences-in-microsoft-365/ba-p/2414610) 
+- [Setting up a New Phish Simulation Program - Part Two](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/setting-up-a-new-phish-simulation-program-part-two/ba-p/2432167) 
+- [Setting up a New Phish Simulation Program - Part One](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/setting-up-a-new-phish-simulation-program-part-one/ba-p/2412854) 
+- [Using Microsoft Defender for Identity Data to Make Powerful Advanced Hunting Queries](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-microsoft-defender-for-identity-data-to-make-powerful/ba-p/2404305) 
 - [Enhancing Microsoft Defender for Identity Data Using Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/security-compliance-identity/enhancing-microsoft-defender-for-identity-data-using-microsoft/ba-p/2178286) 
 - [Secure Access for applications with Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/security-compliance-identity/secure-access-for-applications-with-microsoft-cloud-app-security/ba-p/2157495) 
 - [Uncover your blind spots: seamlessly control cloud usage risks to your organization](https://techcommunity.microsoft.com/t5/security-compliance-identity/uncover-your-blind-spots-seamlessly-control-cloud-usage-risks-to/ba-p/2157447) 
@@ -346,11 +364,11 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
-
-- [The Impossible Travel Alert: Friend or Foe?](https://www.bluevoyant.com/blog/the-impossible-travel-alert-friend-or-foe/) :new:
-- [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/) :new:
-- [Using the Defender for Endpoint API and PowerShell](https://blog.ciaops.com/2021/06/15/using-the-defender-for-endpoint-api-and-powershell/) :new:
-- [How To Hunt For LDAP Reconnaissance Within M365 Defender?](https://m365internals.com/2021/05/22/how-to-hunt-for-ldap-reconnaissance-within-m365-defender/) :new:
+- [Use advanced hunting to Identify Defender clients with outdated definitions](https://www.verboon.info/2021/08/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions/) :new:
+- [The Impossible Travel Alert: Friend or Foe?](https://www.bluevoyant.com/blog/the-impossible-travel-alert-friend-or-foe/) 
+- [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/) 
+- [Using the Defender for Endpoint API and PowerShell](https://blog.ciaops.com/2021/06/15/using-the-defender-for-endpoint-api-and-powershell/) 
+- [How To Hunt For LDAP Reconnaissance Within M365 Defender?](https://m365internals.com/2021/05/22/how-to-hunt-for-ldap-reconnaissance-within-m365-defender/) 
 - [Using Microsoft Defender For Endpoint During Investigation](https://m365internals.com/2021/05/14/using-microsoft-defender-for-endpoint-during-investigation/)
 - [Hunting for Lateral Movement: Local Accounts](https://mergene.medium.com/hunting-for-lateral-movement-local-accounts-bc08742f3d83) 
 - [Detecting network beacons via KQL using simple spread stats functions](https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b) 
@@ -507,7 +525,19 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
-## Microsoft 365 Defender related content on GitHub
+## What's new 
+
+Stay up to date about latest releases (fixes, new features etc.) 
+
+- [What’s new with Microsoft Cloud App Security?](https://docs.microsoft.com/en-us/cloud-app-security/release-notes)
+- [What’s new in Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new)
+- [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
+- [What’s new in Microsoft 365 Defender](https://docs.microsoft.com/en-us/microsoft-365/security/defender/whats-new?view=o365-worldwide)
+- [What’s new in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365?view=o365-worldwide)
+- [What’s new in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
+
+
+## Microsoft 365 Defender and Azure Sentinel content on GitHub
 
 - [MTP - Advanced Hunting](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)
 - [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
@@ -533,5 +563,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Azure Sentinel KQL Queries by reprise99](https://github.com/reprise99/Sentinel-Queries)
 - [KQL Reference Manual by SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)  
 - [Blue teaming with KQL by Ashwin Patil](https://github.com/ashwin-patil/blue-teaming-with-kql)
+- [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries)
+- [SecGroundZero KQL Reference Material](https://github.com/secgroundzero/KQL_Reference_Manual)
+- [ashwin-patil - Blue Teaming with KQL](https://github.com/ashwin-patil/blue-teaming-with-kql)
 ---
 
