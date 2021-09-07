@@ -23,7 +23,6 @@ SigninLogs
     dayofweek == 4, "Thursday",
     dayofweek == 5, "Firday",
     dayofweek == 6, "Saturday",
-    dayofweek == 7, "Sunday",
     "unknown")
 | extend DeviceName = tostring(DeviceDetail.displayName)
 | extend browser = tostring(DeviceDetail.browser)
@@ -75,7 +74,6 @@ AuditLogs
     dayofweek == 4, "Thursday",
     dayofweek == 5, "Firday",
     dayofweek == 6, "Saturday",
-    dayofweek == 7, "Sunday",
     "unknown")
 | where hourofday(TimeGenerated) !between (6 .. 18)
     or dayofweek == 0
@@ -108,7 +106,6 @@ DeviceLogonEvents
     dayofweek == 4, "Thursday",
     dayofweek == 5, "Firday",
     dayofweek == 6, "Saturday",
-    dayofweek == 7, "Sunday",
     "unknown")
 | where hourofday(Timestamp) !between (6..18)
     or dayofweek == 0
