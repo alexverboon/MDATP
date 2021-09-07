@@ -94,6 +94,28 @@ AuditLogs
 
 ```
 
+```Kusto
+// Device logon events outside office hours, run in Defender 365 and fine tune to specific systems and users
+DeviceLogonEvents
+| where Timestamp > ago(7d)
+| extend hour = datetime_part("hour", Timestamp)
+| extend dayofmonth = datetime_part("Day", Timestamp)
+| extend dayofweek = toint(format_timespan(dayofweek(Timestamp), 'd'))
+| extend dayname = case (dayofweek == 0, "Sunday",
+    dayofweek == 1, "Monday",
+    dayofweek == 2, "Tuesday",
+    dayofweek == 3, "Wednesday",
+    dayofweek == 4, "Thursday",
+    dayofweek == 5, "Firday",
+    dayofweek == 6, "Saturday",
+    dayofweek == 7, "Sunday",
+    "unknown")
+| where hourofday(Timestamp) !between (6..18)
+    or dayofweek == 0
+    or dayofweek == 6
+| sort by Timestamp desc 
+| where ActionType == 'LogonSuccess'
+```
 
 
 
