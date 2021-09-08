@@ -107,7 +107,7 @@ DeviceLogonEvents
     dayofweek == 5, "Firday",
     dayofweek == 6, "Saturday",
     "unknown")
-| where hourofday(Timestamp) !between (6..18)
+| where hourofday(Timestamp) !between (6 .. 18)
     or dayofweek == 0
     or dayofweek == 6
 | sort by Timestamp desc 
