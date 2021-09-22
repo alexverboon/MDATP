@@ -47,4 +47,4 @@ This query can be used to detect the following attack techniques and tactics ([s
 
 ## Contributor info
 
-**Contributor:** Alex Verboo
+**Contributor:** Alex Verboon
