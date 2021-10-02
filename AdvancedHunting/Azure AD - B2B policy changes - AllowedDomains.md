@@ -42,11 +42,11 @@ This query can be used to detect the following attack techniques and tactics ([s
 
 | Technique, tactic, or state | Covered? (v=yes) | Notes |
 |-|-|-|
-| Initial access | v |  |
+| Initial access |  |  |
 | Execution |  |  |
 | Persistence |  |  |
 | Privilege escalation | |  |
-| Defense evasion | v | https://attack.mitre.org/techniques/T1078/001/ |
+| Defense evasion |  | |
 | Credential Access |  |  |
 | Discovery |  |  |
 | Lateral movement |  |  |
