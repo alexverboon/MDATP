@@ -566,5 +566,6 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries)
 - [SecGroundZero KQL Reference Material](https://github.com/secgroundzero/KQL_Reference_Manual)
 - [ashwin-patil - Blue Teaming with KQL](https://github.com/ashwin-patil/blue-teaming-with-kql)
+- [Linux - iOS](https://github.com/microsoft/mdatp-xplat)
 ---
 
