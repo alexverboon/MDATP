@@ -51,7 +51,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2021
 
-- [Announcing performance analyzer for Microsoft Defender Antivirus](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911) 
+- [Announcing performance analyzer for Microsoft Defender Antivirus](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911) :new:
 - [Device Control Device Installation update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-control-device-installation-update/ba-p/2734428) :new:
 - [Defending Windows Server 2012 R2 and 2016](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292) :new:
 - [Announcing live response for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397) :new:
