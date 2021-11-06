@@ -7,11 +7,11 @@
 Welcome to the Microsoft 365 Defender Resource Hub.
 
 
-> [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/become-a-microsoft-defender-atp-ninja/ba-p/1515647)
+> [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
 
-> [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/become-a-microsoft-defender-for-office-365-ninja/ba-p/2187392)
+> [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
 
-> [Become a Microsoft Cloud App Security Ninja!](https://techcommunity.microsoft.com/t5/security-compliance-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
+> [Become a Microsoft Defender for Cloud Apps Ninja!](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-september-2021/ba-p/2751518)
 
 > [Become a Microsoft Defender for Identity Ninja](https://techcommunity.microsoft.com/t5/security-compliance-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904)
 
@@ -51,25 +51,56 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2021
 
-- [Microsoft Defender for Identity and Npcap](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/microsoft-defender-for-identity-and-npcap/m-p/2584151) :new:
-- [Advanced Hunting: Surfacing more email data from Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-surfacing-more-email-data-from-microsoft/ba-p/2678118) :new:
-- [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022) :new:
-- [Microsoft 365 Defender Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-august-2021-update/ba-p/2611831) :new:
-- [Take your security to the next level with professional security services](https://techcommunity.microsoft.com/t5/microsoft-365-defender/take-your-security-to-the-next-level-with-professional-security/ba-p/2528757) :new:
-- [Introducing Microsoft Defender for Endpoint Plan 1](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641) :new:
-- [Make sure Tamper Protection is turned on](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568) :new:
-- [Announcing Apple M1 native support](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585) :new:
-- [Public Preview: Custom file IoC enhancements and API schema update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/public-preview-custom-file-ioc-enhancements-and-api-schema/ba-p/2676997) :new:
-- [Best practices for optimizing custom indicators](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/best-practices-for-optimizing-custom-indicators/ba-p/2670357) :new:
-- [Microsoft Defender for Endpoint Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623) :new:
-- [DeepSurface integrates with Microsoft's vulnerability management capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deepsurface-integrates-with-microsoft-s-vulnerability-management/ba-p/2544600) :new:
-- [Download quarantined files now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/download-quarantined-files-now-in-public-preview/ba-p/2581160) :new:
-- [Protect your removable storage and printers with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-removable-storage-and-printers-with-microsoft/ba-p/2324806) :new:
-- [Announcing live response API public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-api-public-preview/ba-p/2537833) :new:
-- [Evaluation lab updates: device renewal and new simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-updates-device-renewal-and-new-simulations/ba-p/2519691) :new:
-- [Simplifying the Quarantine Experience](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience/ba-p/2676388) :new:
-- [Microsoft Teams gets more Phishing Protection!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-teams-gets-more-phishing-protection/ba-p/2585559) :new:
-- [Making the SecOps Team More Efficient - Focused Email Actions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/making-the-secops-team-more-efficient-focused-email-actions/ba-p/2557387) :new:
+- [Announcing performance analyzer for Microsoft Defender Antivirus](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911) 
+- [Device Control Device Installation update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-control-device-installation-update/ba-p/2734428) :new:
+- [Defending Windows Server 2012 R2 and 2016](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292) :new:
+- [Announcing live response for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397) :new:
+- [Web content filtering now generally available on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/web-content-filtering-now-generally-available-on-windows/ba-p/2893357) :new:
+- [Boost protection of your Linux estate with behavior monitoring, extended distro coverage, and more](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/boost-protection-of-your-linux-estate-with-behavior-monitoring/ba-p/2909320) :new:
+- [Automatically triage phish submissions in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatically-triage-phish-submissions-in-microsoft-defender-for/ba-p/2733752) :new:
+- [Microsoft Defender for Office 365 Ninja Training: September 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081) :new:
+- [Improving the reporting experience in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improving-the-reporting-experience-in-microsoft-defender-for/ba-p/2760898) :new:
+- [Automatic Redirection to Microsoft 365 Defender is coming!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatic-redirection-to-microsoft-365-defender-is-coming/ba-p/2764996) :new:
+- [Reporting an email in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/reporting-an-email-in-microsoft-defender-for-office-365/ba-p/2870231) :new:
+- [Mastering Configuration in Defender for Office 365 - Part Three](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/mastering-configuration-in-defender-for-office-365-part-three/ba-p/2906990) :new:
+- [New Incident Graph view in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-incident-graph-view-in-microsoft-365-defender/ba-p/2710668) :new:
+- [Assign incidents and alerts to someone else](https://techcommunity.microsoft.com/t5/microsoft-365-defender/assign-incidents-and-alerts-to-someone-else/ba-p/2806912) :new:
+- [Announcing the new advanced hunting page and link to incident feature](https://techcommunity.microsoft.com/t5/microsoft-365-defender/announcing-the-new-advanced-hunting-page-and-link-to-incident/ba-p/2914403) :new:
+- [Announcing Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-microsoft-defender-for-cloud-apps/ba-p/2835842) :new:
+
+- [Microsoft Defender for Identity and Npcap](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/microsoft-defender-for-identity-and-npcap/m-p/2584151) 
+- [Advanced Hunting: Surfacing more email data from Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-surfacing-more-email-data-from-microsoft/ba-p/2678118) 
+- [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022) 
+- [Microsoft 365 Defender Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-august-2021-update/ba-p/2611831) 
+- [Take your security to the next level with professional security services](https://techcommunity.microsoft.com/t5/microsoft-365-defender/take-your-security-to-the-next-level-with-professional-security/ba-p/2528757) 
+- [Introducing Microsoft Defender for Endpoint Plan 1](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641) 
+- [Device Control Device Installation update]()
+- [Make sure Tamper Protection is turned on](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568) 
+- [Device Control Device Installation update]()
+- [Announcing Apple M1 native support](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585) 
+- [Device Control Device Installation update]()
+- [Public Preview: Custom file IoC enhancements and API schema update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/public-preview-custom-file-ioc-enhancements-and-api-schema/ba-p/2676997) 
+- [Device Control Device Installation update]()
+- [Best practices for optimizing custom indicators](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/best-practices-for-optimizing-custom-indicators/ba-p/2670357) 
+- [Device Control Device Installation update]()
+- [Microsoft Defender for Endpoint Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623) 
+- [Device Control Device Installation update]()
+- [DeepSurface integrates with Microsoft's vulnerability management capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deepsurface-integrates-with-microsoft-s-vulnerability-management/ba-p/2544600) 
+- [Device Control Device Installation update]()
+- [Download quarantined files now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/download-quarantined-files-now-in-public-preview/ba-p/2581160) 
+- [Device Control Device Installation update]()
+- [Protect your removable storage and printers with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-removable-storage-and-printers-with-microsoft/ba-p/2324806) 
+- [Device Control Device Installation update]()
+- [Announcing live response API public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-api-public-preview/ba-p/2537833) 
+- [Device Control Device Installation update]()
+- [Evaluation lab updates: device renewal and new simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-updates-device-renewal-and-new-simulations/ba-p/2519691) 
+- [Device Control Device Installation update]()
+- [Simplifying the Quarantine Experience](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience/ba-p/2676388) 
+- [Device Control Device Installation update]()
+- [Microsoft Teams gets more Phishing Protection!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-teams-gets-more-phishing-protection/ba-p/2585559) 
+- [Device Control Device Installation update]()
+- [Making the SecOps Team More Efficient - Focused Email Actions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/making-the-secops-team-more-efficient-focused-email-actions/ba-p/2557387) 
+- [Device Control Device Installation update]()
 - [ICYMI: Announcing Microsoft 365 Defender Streaming API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/icymi-announcing-microsoft-365-defender-streaming-api/ba-p/2414420) 
 - [Vulnerability management for Linux now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/vulnerability-management-for-linux-now-generally-available/ba-p/2451145) 
 - [Unmanaged device protection capabilities are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unmanaged-device-protection-capabilities-are-now-generally/ba-p/2463796) 
@@ -360,11 +391,22 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Security Insiders hosted by Maarten Goet](https://podcasts.apple.com/us/podcast/security-insiders/id1513525644)
 - [Hairless in the Cloud hosted by Jan Geisbauer and Marco Scheel](https://hairlessinthecloud.com/)
 - [GeekZeugs by Alexander Benoit and Eric Berg](https://www.geekzeugs.de/)
+- [RunAsRadio](https://runasradio.com/)
+- [Microsoft Security Insights](https://microsoftsecurityinsights.com/)
   
 ---
 
 ## Other Blog Posts
+- [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347) :new:
+- [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/) :new:
+- [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/) :new:
+- [Alert changes to sensitive AD groups using MDI](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/) :new:
+- [Automated response to C2 traffic on your devices](https://cloudbrothers.info/en/automated-response-c2-traffic-devices/) :new:
+- [Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016 (Part1)](https://www.verboon.info/2021/10/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part1/) :new:
+- [Enabling and configuring Web content filtering in Microsoft Defender for Endpoint (MDE)](https://jeffreyappel.nl/enabling-and-configure-web-content-filtering-in-microsoft-defender-for-endpoint-mde/) :new:
+- [Microsoft Defender for Endpoint on AWS: Part 1](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws) :new:
 - [Use advanced hunting to Identify Defender clients with outdated definitions](https://www.verboon.info/2021/08/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions/) :new:
+- [Device Control Device Installation update]()
 - [The Impossible Travel Alert: Friend or Foe?](https://www.bluevoyant.com/blog/the-impossible-travel-alert-friend-or-foe/) 
 - [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/) 
 - [Using the Defender for Endpoint API and PowerShell](https://blog.ciaops.com/2021/06/15/using-the-defender-for-endpoint-api-and-powershell/) 
@@ -475,6 +517,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch)
 - [Maarten Goet - Wortell](https://github.com/wortell/KQL)
 - [Advanced Hunting Cheat Sheet](https://github.com/MiladMSFT/AdvHuntingCheatSheet) by @PowershellPoet, @maarten_goet, @Pawp81, @Bakk3rM and @MicrosoftMT
+- [SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)
 
 ---
 
@@ -511,6 +554,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [@BlueVoyant](https://twitter.com/BlueVoyant)
 - [@Sec_GroundZero](https://twitter.com/Sec_GroundZero)
 - [@ashwinpatil](https://twitter.com/ashwinpatil)
+- [@reprise_99](https://twitter.com/reprise_99) Matt Zorich
   
 ---
 
@@ -567,5 +611,8 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [SecGroundZero KQL Reference Material](https://github.com/secgroundzero/KQL_Reference_Manual)
 - [ashwin-patil - Blue Teaming with KQL](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [Linux - iOS](https://github.com/microsoft/mdatp-xplat)
+- [Adarsh Pandey](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
+- [Marco Gerber](https://github.com/gerbermarco/AzureKQL)
+
 ---
 
