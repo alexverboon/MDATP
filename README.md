@@ -51,23 +51,33 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2021
 
-- [Announcing performance analyzer for Microsoft Defender Antivirus](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911) :new:
-- [Device Control Device Installation update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-control-device-installation-update/ba-p/2734428) :new:
-- [Defending Windows Server 2012 R2 and 2016](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292) :new:
-- [Announcing live response for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397) :new:
-- [Web content filtering now generally available on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/web-content-filtering-now-generally-available-on-windows/ba-p/2893357) :new:
-- [Boost protection of your Linux estate with behavior monitoring, extended distro coverage, and more](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/boost-protection-of-your-linux-estate-with-behavior-monitoring/ba-p/2909320) :new:
-- [Automatically triage phish submissions in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatically-triage-phish-submissions-in-microsoft-defender-for/ba-p/2733752) :new:
-- [Microsoft Defender for Office 365 Ninja Training: September 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081) :new:
-- [Improving the reporting experience in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improving-the-reporting-experience-in-microsoft-defender-for/ba-p/2760898) :new:
-- [Automatic Redirection to Microsoft 365 Defender is coming!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatic-redirection-to-microsoft-365-defender-is-coming/ba-p/2764996) :new:
-- [Reporting an email in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/reporting-an-email-in-microsoft-defender-for-office-365/ba-p/2870231) :new:
-- [Mastering Configuration in Defender for Office 365 - Part Three](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/mastering-configuration-in-defender-for-office-365-part-three/ba-p/2906990) :new:
-- [New Incident Graph view in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-incident-graph-view-in-microsoft-365-defender/ba-p/2710668) :new:
-- [Assign incidents and alerts to someone else](https://techcommunity.microsoft.com/t5/microsoft-365-defender/assign-incidents-and-alerts-to-someone-else/ba-p/2806912) :new:
-- [Announcing the new advanced hunting page and link to incident feature](https://techcommunity.microsoft.com/t5/microsoft-365-defender/announcing-the-new-advanced-hunting-page-and-link-to-incident/ba-p/2914403) :new:
-- [Announcing Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-microsoft-defender-for-cloud-apps/ba-p/2835842) :new:
-
+- [Updated Hunting and Investigation Experiences for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/updated-hunting-and-investigation-experiences-for-microsoft/ba-p/3002015)
+- [Introducing the Microsoft Defender for Office 365 Migration Guide](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-migration/ba-p/2952369)
+- [CloudAppEvents in advanced hunting now includes non-Microsoft apps and new data columns](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/cloudappevents-in-advanced-hunting-now-includes-non-microsoft/ba-p/3036692)
+- [Protect printers, cameras and the rest of your IoT devices with Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-printers-cameras-and-the-rest-of-your-iot-devices-with/ba-p/3033151)
+- [Using gMSA account in Microsoft Defender for Identity in multi-domain forests.](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/using-gmsa-account-in-microsoft-defender-for-identity-in-multi/ba-p/2942690)
+- [Protect your printers, cameras and the rest of your IoT devices starting today!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-printers-cameras-and-the-rest-of-your-iot-devices/ba-p/3031940)
+- [Announcing Preview of New Security Management Capabilities for Microsoft Defender for Endpoint.](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-preview-of-new-security-management-capabilities-for/ba-p/3020514)
+- [Evaluation Lab: Expanded OS support & Atomic Red Team simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927)
+- [Announcing the public preview of Microsoft Defender for Endpoint Mobile - Tamper protection](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-public-preview-of-microsoft-defender-for-endpoint/ba-p/2971038)
+- [AI-driven adaptive protection in Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ai-driven-adaptive-protection-in-microsoft-defender-for-endpoint/ba-p/2966491)
+- [Microsoft Defender for Endpoint Plan 1 Now Generally Available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-generally-available/ba-p/2966231)
+- [Announcing performance analyzer for Microsoft Defender Antivirus](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-performance-analyzer-for-microsoft-defender-antivirus/ba-p/2713911) 
+- [Device Control Device Installation update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-control-device-installation-update/ba-p/2734428) 
+- [Defending Windows Server 2012 R2 and 2016](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-windows-server-2012-r2-and-2016/ba-p/2783292) 
+- [Announcing live response for macOS and Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-for-macos-and-linux/ba-p/2864397) 
+- [Web content filtering now generally available on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/web-content-filtering-now-generally-available-on-windows/ba-p/2893357) 
+- [Boost protection of your Linux estate with behavior monitoring, extended distro coverage, and more](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/boost-protection-of-your-linux-estate-with-behavior-monitoring/ba-p/2909320) 
+- [Automatically triage phish submissions in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatically-triage-phish-submissions-in-microsoft-defender-for/ba-p/2733752) 
+- [Microsoft Defender for Office 365 Ninja Training: September 2021 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081) 
+- [Improving the reporting experience in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improving-the-reporting-experience-in-microsoft-defender-for/ba-p/2760898) 
+- [Automatic Redirection to Microsoft 365 Defender is coming!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatic-redirection-to-microsoft-365-defender-is-coming/ba-p/2764996) 
+- [Reporting an email in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/reporting-an-email-in-microsoft-defender-for-office-365/ba-p/2870231) 
+- [Mastering Configuration in Defender for Office 365 - Part Three](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/mastering-configuration-in-defender-for-office-365-part-three/ba-p/2906990) 
+- [New Incident Graph view in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-incident-graph-view-in-microsoft-365-defender/ba-p/2710668) 
+- [Assign incidents and alerts to someone else](https://techcommunity.microsoft.com/t5/microsoft-365-defender/assign-incidents-and-alerts-to-someone-else/ba-p/2806912) 
+- [Announcing the new advanced hunting page and link to incident feature](https://techcommunity.microsoft.com/t5/microsoft-365-defender/announcing-the-new-advanced-hunting-page-and-link-to-incident/ba-p/2914403) 
+- [Announcing Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/announcing-microsoft-defender-for-cloud-apps/ba-p/2835842)
 - [Microsoft Defender for Identity and Npcap](https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/microsoft-defender-for-identity-and-npcap/m-p/2584151) 
 - [Advanced Hunting: Surfacing more email data from Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-surfacing-more-email-data-from-microsoft/ba-p/2678118) 
 - [Microsoft 365 Defender Ninja August 2021 special edition!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-august-2021-special-edition/ba-p/2643022) 
@@ -397,15 +407,16 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
-- [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347) :new:
-- [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/) :new:
-- [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/) :new:
-- [Alert changes to sensitive AD groups using MDI](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/) :new:
-- [Automated response to C2 traffic on your devices](https://cloudbrothers.info/en/automated-response-c2-traffic-devices/) :new:
-- [Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016 (Part1)](https://www.verboon.info/2021/10/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part1/) :new:
-- [Enabling and configuring Web content filtering in Microsoft Defender for Endpoint (MDE)](https://jeffreyappel.nl/enabling-and-configure-web-content-filtering-in-microsoft-defender-for-endpoint-mde/) :new:
-- [Microsoft Defender for Endpoint on AWS: Part 1](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws) :new:
-- [Use advanced hunting to Identify Defender clients with outdated definitions](https://www.verboon.info/2021/08/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions/) :new:
+- [Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/)
+- [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347) 
+- [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/) 
+- [Keep an eye on your Azure AD guests with Microsoft Sentinel](https://learnsentinel.blog/2021/11/04/keep-an-eye-on-your-azure-ad-guests-with-microsoft-sentinel/) 
+- [Alert changes to sensitive AD groups using MDI](https://cloudbrothers.info/en/alert-sensitive-ad-groups-mdi/) 
+- [Automated response to C2 traffic on your devices](https://cloudbrothers.info/en/automated-response-c2-traffic-devices/) 
+- [Defender for Endpoint – unified solution for Windows Server 2012 R2 and 2016 (Part1)](https://www.verboon.info/2021/10/defender-for-endpoint-unified-solution-for-windows-server-2012-r2-and-2016-part1/) 
+- [Enabling and configuring Web content filtering in Microsoft Defender for Endpoint (MDE)](https://jeffreyappel.nl/enabling-and-configure-web-content-filtering-in-microsoft-defender-for-endpoint-mde/) 
+- [Microsoft Defender for Endpoint on AWS: Part 1](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws) 
+- [Use advanced hunting to Identify Defender clients with outdated definitions](https://www.verboon.info/2021/08/use-advanced-hunting-to-identify-defender-clients-with-outdated-definitions/) 
 - [Device Control Device Installation update]()
 - [The Impossible Travel Alert: Friend or Foe?](https://www.bluevoyant.com/blog/the-impossible-travel-alert-friend-or-foe/) 
 - [Defender TVM: Configuration Benchmark Management](https://www.bluevoyant.com/blog/defender-tvm-configuration-benchmark-management/) 
@@ -519,6 +530,23 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [Advanced Hunting Cheat Sheet](https://github.com/MiladMSFT/AdvHuntingCheatSheet) by @PowershellPoet, @maarten_goet, @Pawp81, @Bakk3rM and @MicrosoftMT
 - [SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)
 
+### Must Learn KQL Series
+
+blog post series to educate about the simplicity and power of the Kusto Query Language (KQL) by [@rodtrent](https://twitter.com/rodtrent)
+
+- [Must Learn KQL Part 1: Tools and Resources](https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/)
+- [Must Learn KQL Part 2: Just Above Sea Level](https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/)
+- [Must Learn KQL Part 3: Workflow](https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/)
+- [Must Learn KQL Part 4: Search for Fun and Profit](https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/)
+- [Must Learn KQL Part 5: Turn Search into Workflow](https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/)
+- [Must Learn KQL Part 6: Interface Intimacy](https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/)
+- [Must Learn KQL Part 7: Schema Talk](https://azurecloudai.blog/2021/12/07/must-learn-kql-part-7-schema-talk/)
+- [Must Learn KQL Part 8: The Where Operator](https://azurecloudai.blog/2021/12/08/must-learn-kql-part-8-the-where-operator/)
+- [Must Learn KQL Part 9: The Limit and Take Operators](https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/)
+- [Must Learn KQL Part 9: The Limit and Take Operators](https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/)
+- [Must Learn KQL Part 10: The Count Operator](https://azurecloudai.blog/2021/12/14/must-learn-kql-part-10-the-count-operator/)
+
+
 ---
 
 ## Microsoft Security on Twitter
@@ -613,6 +641,7 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [Linux - iOS](https://github.com/microsoft/mdatp-xplat)
 - [Adarsh Pandey](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
 - [Marco Gerber](https://github.com/gerbermarco/AzureKQL)
+- [Live Response Scripts from YongRhee](https://github.com/YongRhee-MDE/LiveResponse)
 
 ---
 
