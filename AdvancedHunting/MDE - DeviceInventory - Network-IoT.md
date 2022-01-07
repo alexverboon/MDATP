@@ -6,7 +6,7 @@ Use the below queires to retrieve device inventory information of discovered Net
 
 ## Query
 
-## IoT Device Inventory
+### IoT Device Inventory
 
 ```Kusto
 // IoT Device Inventory
@@ -23,9 +23,9 @@ DeviceInfo
 | project Timestamp, DeviceId, DeviceName, DeviceType, DeviceSubtype, IPAddress, MacAddress, Model, Vendor, OSPlatform, OSVersion, OSDistribution
 ```
 
-## Network Device Inventory
+### Network Device Inventory
 
-```
+```kusto
 // Network Device Inventory
 DeviceInfo
 | where DeviceCategory == @"NetworkDevice"
@@ -39,6 +39,7 @@ DeviceInfo
     on $left.DeviceId == $right.DeviceId
 | project Timestamp, DeviceId, DeviceName, DeviceType, DeviceSubtype, IPAddress, MacAddress, Model, Vendor, OSPlatform, OSVersion, OSDistribution
 ```
+
 
 
 
