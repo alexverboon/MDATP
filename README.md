@@ -407,6 +407,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
+- [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
+- [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
 - [Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/)
 - [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347) 
 - [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/) 
