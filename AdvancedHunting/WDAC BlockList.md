@@ -14,6 +14,7 @@ let wdacblock = (externaldata(lolbin: string)
     with (format="txt", ignoreFirstRecord=true));
 DeviceProcessEvents 
 | where FileName in (wdacblock) or InitiatingProcessFileName in (wdacblock)
+| project Timestamp, DeviceName, FileName, InitiatingProcessFileName, InitiatingProcessParentFileName, ProcessCommandLine, InitiatingProcessCommandLine, AccountName, InitiatingProcessAccountName
 ```
 
 
