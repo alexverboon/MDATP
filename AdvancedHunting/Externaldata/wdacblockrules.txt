@@ -4,7 +4,7 @@ addinprocess32.exe
 addinutil.exe
 aspnet_compiler.exe
 bash.exe
-bginfo.exe1
+bginfo.exe
 cdb.exe
 cscript.exe
 csi.exe
