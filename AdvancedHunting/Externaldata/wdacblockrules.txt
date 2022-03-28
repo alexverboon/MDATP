@@ -22,7 +22,7 @@ lxrun.exe
 Microsoft.Build.dll
 Microsoft.Build.Framework.dll
 Microsoft.Workflow.Compiler.exe
-msbuild.exe2
+msbuild.exe
 msbuild.dll
 mshta.exe
 ntkd.exe
