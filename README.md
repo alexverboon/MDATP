@@ -1,7 +1,7 @@
 # Microsoft 365 Defender - Resource Hub
 
 <p align="center">
-    <img src="./Images/defener365resourcehub.png" alt="MDATP" >
+    <img src="./Images/small_defener365resourcehub.png" alt="MDATP" >
 </p>
 
 Welcome to the Microsoft 365 Defender Resource Hub.
