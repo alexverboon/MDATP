@@ -6,7 +6,6 @@
 
 Welcome to the Microsoft 365 Defender Resource Hub.
 
-
 > [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
 
 > [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
@@ -29,6 +28,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 - [Microsoft 365 Defender - Resource Hub](#microsoft-365-defender---resource-hub)
   - [Microsoft Tech Community Blog posts](#microsoft-tech-community-blog-posts)
+    - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
@@ -43,11 +43,30 @@ Welcome to the Microsoft 365 Defender Resource Hub.
   - [Advanced Hunting / KQL](#advanced-hunting--kql)
   - [Microsoft Security on Twitter](#microsoft-security-on-twitter)
   - [Microsoft Docs](#microsoft-docs)
+  - [Must Learn KQL Series](#must-learn-kql-series)
   - [Microsoft 365 Defender related content on GitHub](#microsoft-365-defender-related-content-on-github)
+  - [Microsoft 365 Defender and Sentinel content on GitHub](https://github.com/Azure/Azure-Sentinel/tree/master/Hunting%20Queries)
 
 ## Microsoft Tech Community Blog posts
 
 ---
+
+### 2022
+
+- [What’s new: Unified Microsoft SIEM & XDR GitHub community](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/what-s-new-unified-microsoft-siem-amp-amp-xdr-github-community/ba-p/3252149)
+- [New and improved incident queue](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-and-improved-incident-queue/ba-p/3204369)
+- [Reduce time to response with classification](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/reduce-time-to-response-with-classification/ba-p/3201189)
+- [Announcing expanded support and functionality for Live Response APIs](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-expanded-support-and-functionality-for-live-response/ba-p/3178432)
+- [Defending against ransomware with Microsoft Defender for Endpoint and Intel TDT: A Case Study](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-against-ransomware-with-microsoft-defender-for/ba-p/3243941)
+- [The Splunk Add-on for Microsoft Security is now available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/the-splunk-add-on-for-microsoft-security-is-now-available/ba-p/3171272)
+- [Deprecating the legacy SIEM API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deprecating-the-legacy-siem-api/ba-p/3139643)
+- [Microsoft threat & vulnerability management integrates with Vulcan Cyber](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-threat-amp-vulnerability-management-integrates-with/ba-p/3112863)
+- [Announcing general availability of vulnerability management support for Android and iOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-general-availability-of-vulnerability-management/ba-p/3071663)
+- [Microsoft Defender for Endpoint Plan 1 Now Included in M365 E3/A3 Licenses](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-included-in-m365-e3/ba-p/3060639)
+- [Zero-touch onboarding of Microsoft Defender for Endpoint on iOS now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/zero-touch-onboarding-of-microsoft-defender-for-endpoint-on-ios/ba-p/3038045)
+- [Streamlining the submissions experience in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/streamlining-the-submissions-experience-in-microsoft-defender/ba-p/3152080)
+
+
 
 ### 2021
 
@@ -407,6 +426,14 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 ---
 
 ## Other Blog Posts
+
+
+- [Microsoft Sentinel – Insights of Defender for Cloud Apps Data Connector](https://samilamppu.com/2022/03/24/microsoft-sentinel-insights-of-defender-for-cloud-apps-data-connector/)
+- [Unboxing Microsoft Defender for Business, Part 1: Simplified configuration process](https://www.itpromentor.com/unboxing-microsoft-defender-for-business-part-1-simplified-configuration-process/)
+- [Updated March 2022: Ultimate Comparison of Defender for Endpoint Features by Operating System](https://campbell.scot/march-22-defender-for-endpoint-feature-comparison/)
+- [MDE HUNTING 101](https://emptydc.com/2022/03/27/mde-hunting-101/)
+- [Article 1 – Tips & Tricks #Investigate with Microsoft Defender for Identity](https://www.linkedin.com/pulse/article-1-tips-tricks-investigate-microsoft-defender-pasquier-ceh/)
+- [Article 2 – Tips & Tricks #Deploy Microsoft Defender for Identity (gMSA Accounts)](https://www.linkedin.com/pulse/article-2-tips-tricks-deploy-microsoft-defender-identity-stevic/)
 - [Managing Microsoft Defender for Endpoint with the new Security Management feature in MEM](https://jeffreyappel.nl/managing-microsoft-defender-for-endpoint-with-the-new-security-management-feature-in-mem/)
 - [Sysmon vs Microsoft Defender for Endpoint, MDE Internals 0x01](https://medium.com/falconforce/sysmon-vs-microsoft-defender-for-endpoint-mde-internals-0x01-1e5663b10347) 
 - [Defending Azure Active Directory with Azure Sentinel](https://learnsentinel.blog/2021/10/19/defending-azure-active-directory-with-azure-sentinel/) 
@@ -583,6 +610,7 @@ blog post series to educate about the simplicity and power of the Kusto Query La
 - [@Sec_GroundZero](https://twitter.com/Sec_GroundZero)
 - [@ashwinpatil](https://twitter.com/ashwinpatil)
 - [@reprise_99](https://twitter.com/reprise_99) Matt Zorich
+- [Sami Lamppu](https://twitter.com/samilamppu)
   
 ---
 
@@ -642,6 +670,7 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [Adarsh Pandey](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
 - [Marco Gerber](https://github.com/gerbermarco/AzureKQL)
 - [Live Response Scripts from YongRhee](https://github.com/YongRhee-MDE/LiveResponse)
+- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 
 ---
 
