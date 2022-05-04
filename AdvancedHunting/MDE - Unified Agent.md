@@ -34,7 +34,7 @@ Other = make_set_if(DeviceName, Agent == "Other") by OSPlatform
 | extend TotalUnified = array_length(Unified) 
 | extend TotalOther = array_length(Other)
 | project OSPlatform, TotalServers, TotalMMA, TotalUnified, TotalOther
-```Kusto
+```
 
 
 ```Kusto
