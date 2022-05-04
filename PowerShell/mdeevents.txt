@@ -1,0 +1,14 @@
+# Defender logs
+$log = @{
+Providername = "Microsoft-Windows-Windows Defender"
+}
+$events = Get-WinEvent -FilterHashtable $log 
+$events | fl
+
+# Defender for Endpoint logs
+
+$log = @{
+Providername = "Microsoft-Windows-SENSE"
+}
+$events = Get-WinEvent -FilterHashtable $log 
+$events | fl

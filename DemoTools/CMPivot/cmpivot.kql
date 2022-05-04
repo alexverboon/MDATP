@@ -1,0 +1,14 @@
+
+
+
+WinEvent('Microsoft-Windows-Windows Defender/Operational', 1d)
+
+
+Service
+| where Name == 'Sense'  // and State == 'Stopped'
+
+
+Registry('hklm:\\SOFTWARE\\Microsoft\\Windows Advanced Threat Protection\\Status')
+| where Property == 'OnboardingState' and Value == '0'
+
+WinEvent('Microsoft-Windows-SENSE/Operational', 1d)
