@@ -23,6 +23,11 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 > [Microsoft 365 Security for IT Pros](https://m365securitybook.com/) A must have for every IT Pro
 
 > [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
+
+> [Subscribe to the Weekly Microsoft Sentinel Newsletter from Rod Trent](https://www.getrevue.co/profile/AzureSentinelToday)
+
+> [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://azurecloudai.blog/2022/07/29/microsoft-defender-weekly-wrap-issue-36/MicrosoftDefenderNewsletter)
+
 ---
 
 
@@ -53,6 +58,52 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2022
 
+- [Support for Common Vulnerabilities and Exposures (CVEs) without a security update in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/support-for-common-vulnerabilities-and-exposures-cves-without-a/ba-p/3551400)
+- [Announcing Microsoft Defender Vulnerability Management in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/announcing-microsoft-defender-vulnerability-management-in-public/ba-p/3361003)
+- [Introducing new actions from the Email Entity page!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-new-actions-from-the-email-entity-page/ba-p/3597374)
+- [Exciting Feature Updates to Attack Simulation Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/exciting-feature-updates-to-attack-simulation-training/ba-p/3591397)
+- [Email Protection Basics in Microsoft 365: Spam & Phish](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spam-amp-phish/ba-p/3555712)
+- [Microsoft Defender for Office 365 Ninja Training: June 2022 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-june-2022/ba-p/3507251)
+- [Announcing the release of step-by-step guides!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-the-release-of-step-by-step-guides/ba-p/3452601)
+- [Email Protection Basics in Microsoft 365: Bulk Email](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-bulk-email/ba-p/3445337)
+- [Improving “Defense in Depth” with Trusted ARC Sealers for Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/improving-defense-in-depth-with-trusted-arc-sealers-for/ba-p/3440707)
+- [Evaluate Defender for Office 365 in your environment!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/evaluate-defender-for-office-365-in-your-environment/ba-p/3439373)
+- [Configurable impersonation protection and scope for Preset Security policies](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/configurable-impersonation-protection-and-scope-for-preset/ba-p/3294459)
+- [Configurable impersonation protection and scope for Preset Security policies](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/configurable-impersonation-protection-and-scope-for-preset/ba-p/3294459)
+- [Simplifying the Quarantine Experience - Part Two](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience-part-two/ba-p/3354687)
+- [Email remediation actions now available in unified Action Center](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-remediation-actions-now-available-in-unified-action-center/ba-p/3352996)
+- [Introducing the UrlClickEvents table in advanced hunting with Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-urlclickevents-table-in-advanced-hunting-with/ba-p/3295096)
+- [Introducing differentiated protection for priority accounts in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-differentiated-protection-for-priority-accounts-in/ba-p/3283838)
+- [How to deploy Attack Surface Reduction rules to Azure VMs using Azure Guest Configurations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/how-to-deploy-attack-surface-reduction-rules-to-azure-vms-using/ba-p/3602433)
+- [Network Protection and Web Protection for macOS and Linux is now in Public Preview!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/network-protection-and-web-protection-for-macos-and-linux-is-now/ba-p/3601576)
+- [Tamper protection on macOS is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-on-macos-is-now-generally-available/ba-p/3595422)
+- [New Device Health Reporting for Microsoft Defender for Endpoint is now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-device-health-reporting-for-microsoft-defender-for-endpoint/ba-p/3589287)
+- [Announcing File page enhancements in Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-file-page-enhancements-in-microsoft-defender-for/ba-p/3584004)
+- [Introducing the new alert suppression experience](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-the-new-alert-suppression-experience/ba-p/3562719)
+- [Mobile Network Protection in Microsoft Defender for Endpoint on Android & iOS now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mobile-network-protection-in-microsoft-defender-for-endpoint-on/ba-p/3559121)
+- [Prevent compromised unmanaged devices from moving laterally in your organization with “Contain”](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/prevent-compromised-unmanaged-devices-from-moving-laterally-in/ba-p/3482134)
+- [Mobile device support is now available for US Government Customers using Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/mobile-device-support-is-now-available-for-us-government/ba-p/3472590)
+- [Hunting for network signatures in Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/hunting-for-network-signatures-in-microsoft-defender-for/ba-p/3429520)
+- [Evaluation Lab: new domain-joined devices support in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-new-domain-joined-devices-support-in-public/ba-p/3427622)
+- [Troubleshooting mode for Microsoft Defender for Endpoint now Generally Available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/troubleshooting-mode-for-microsoft-defender-for-endpoint-now/ba-p/3347344)
+- [Announcing the public preview of Defender for Endpoint personal profile for Android Enterprise](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-public-preview-of-defender-for-endpoint-personal/ba-p/3370979)
+- [Security Settings Management in Microsoft Defender for Endpoint is now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/security-settings-management-in-microsoft-defender-for-endpoint/ba-p/3356970)
+- [Tamper Protection is now available on macOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-is-now-available-on-macos/ba-p/3289643)
+- [Device Inventory - The evolution of the endpoint view](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/device-inventory-the-evolution-of-the-endpoint-view/ba-p/3301557)
+- [Enhanced Antimalware Protection in Microsoft Defender for Endpoint Android](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhanced-antimalware-protection-in-microsoft-defender-for/ba-p/3290320)
+- [Enhanced antimalware engine capabilities for Linux and macOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enhanced-antimalware-engine-capabilities-for-linux-and-macos/ba-p/3292003)
+- [New Reporting Functionality for Device Control and Windows Defender Firewall](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-reporting-functionality-for-device-control-and-windows/ba-p/3290601)
+- [Unified submissions in Microsoft 365 Defender now Generally Available!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unified-submissions-in-microsoft-365-defender-now-generally/ba-p/3270770)
+- [The new Microsoft 365 Defender APIs in Microsoft Graph are now available in public preview!](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/the-new-microsoft-365-defender-apis-in-microsoft-graph-are-now/ba-p/3603099)
+- [Protect sensitive SharePoint sites with Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-sensitive-sharepoint-sites-with-defender-for-cloud-apps/ba-p/3592441)
+- [Monthly news - July 2022](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-july-2022/ba-p/3585414)
+- [Monthly news - June 2022](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/monthly-news-june-2022/ba-p/3534608)
+- [Microsoft Defender for Cloud Apps experiences are now part of Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-defender-for-cloud-apps-experiences-are-now-part-of/ba-p/3545176)
+- [New URL & domain pages in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-url-amp-domain-pages-in-microsoft-365-defender/ba-p/3528771)
+- [The power of incidents in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/the-power-of-incidents-in-microsoft-365-defender/ba-p/3515483)
+- [Microsoft 365 Defender Streaming API: Identity and CloudApp Events in General Availability](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-365-defender-streaming-api-identity-and-cloudapp/ba-p/3290516)
+- [Introducing predefined policies in app governance](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/introducing-predefined-policies-in-app-governance/ba-p/3371631)
+- [Detecting and Remediating Impossible Travel](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/detecting-and-remediating-impossible-travel/ba-p/3366017)
 - [What’s new: Unified Microsoft SIEM & XDR GitHub community](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/what-s-new-unified-microsoft-siem-amp-amp-xdr-github-community/ba-p/3252149)
 - [New and improved incident queue](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-and-improved-incident-queue/ba-p/3204369)
 - [Reduce time to response with classification](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/reduce-time-to-response-with-classification/ba-p/3201189)
@@ -65,8 +116,6 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 - [Microsoft Defender for Endpoint Plan 1 Now Included in M365 E3/A3 Licenses](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-plan-1-now-included-in-m365-e3/ba-p/3060639)
 - [Zero-touch onboarding of Microsoft Defender for Endpoint on iOS now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/zero-touch-onboarding-of-microsoft-defender-for-endpoint-on-ios/ba-p/3038045)
 - [Streamlining the submissions experience in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/streamlining-the-submissions-experience-in-microsoft-defender/ba-p/3152080)
-
-
 
 ### 2021
 
@@ -208,6 +257,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 - [Best practices for leveraging Microsoft 365 Defender API's - Episode One](https://techcommunity.microsoft.com/t5/microsoft-365-defender/best-practices-for-leveraging-microsoft-365-defender-api-s/ba-p/2102893)
 
 ---
+
 ### 2020
 
 - [Get email notifications on new incidents from Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/get-email-notifications-on-new-incidents-from-microsoft-365/ba-p/2012518) December 23,2020 
@@ -427,7 +477,12 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
-
+- [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
+- [Microsoft Defender for Endpoint Internals 0x02 — Audit Settings and Telemetry](https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27)
+- [Microsoft Defender for Endpoint Internals 0x03 — MDE telemetry unreliability and log augmentation](https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x03-mde-telemetry-unreliability-and-log-augmentation-ec6e7e5f406f)
+- [Deep Diver – Defender for Cloud Apps Malware Detection in Office 365 Workloads](https://samilamppu.com/2022/05/04/deep-diver-defender-for-cloud-apps-malware-detection-in-office-365-workloads/)
+- [Handling Inactive Devices in Microsoft Defender for Endpoint](https://practical365.com/handling-inactive-devices-in-microsoft-defender-for-endpoint/)
+- [Microsoft Defender for Endpoint series – What is Defender for Endpoint? – Part1](https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-what-is-defender-for-endpoint-part1/)
 - [Microsoft Sentinel – Insights of Defender for Cloud Apps Data Connector](https://samilamppu.com/2022/03/24/microsoft-sentinel-insights-of-defender-for-cloud-apps-data-connector/)
 - [Unboxing Microsoft Defender for Business, Part 1: Simplified configuration process](https://www.itpromentor.com/unboxing-microsoft-defender-for-business-part-1-simplified-configuration-process/)
 - [Updated March 2022: Ultimate Comparison of Defender for Endpoint Features by Operating System](https://campbell.scot/march-22-defender-for-endpoint-feature-comparison/)
@@ -561,18 +616,30 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 blog post series to educate about the simplicity and power of the Kusto Query Language (KQL) by [@rodtrent](https://twitter.com/rodtrent)
 
-- [Must Learn KQL Part 1: Tools and Resources](https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/)
-- [Must Learn KQL Part 2: Just Above Sea Level](https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/)
-- [Must Learn KQL Part 3: Workflow](https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/)
-- [Must Learn KQL Part 4: Search for Fun and Profit](https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/)
-- [Must Learn KQL Part 5: Turn Search into Workflow](https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/)
-- [Must Learn KQL Part 6: Interface Intimacy](https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/)
-- [Must Learn KQL Part 7: Schema Talk](https://azurecloudai.blog/2021/12/07/must-learn-kql-part-7-schema-talk/)
-- [Must Learn KQL Part 8: The Where Operator](https://azurecloudai.blog/2021/12/08/must-learn-kql-part-8-the-where-operator/)
-- [Must Learn KQL Part 9: The Limit and Take Operators](https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/)
-- [Must Learn KQL Part 9: The Limit and Take Operators](https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/)
-- [Must Learn KQL Part 10: The Count Operator](https://azurecloudai.blog/2021/12/14/must-learn-kql-part-10-the-count-operator/)
-
+<b><h2>Table of Contents</h2></b>
+The following are links to the entire series so far:
+<br><br>
+* <a href="https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
+* <a href="https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
+* <a href="https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> - <i>Posted November 29, 2021</i> - <a href="https://youtu.be/uugHEu4v0bw" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> - <i>Posted December 2, 2021, Updated May 13, 2022</i> - <a href="https://youtu.be/h18G8s1biXA" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/07/must-learn-kql-part-7-schema-talk/" target="_blank">Must Learn KQL Part 7: Schema Talk</a> - <i>Posted December 7, 2021</i> - <a href="https://youtu.be/VdjVv63n3Vc" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/08/must-learn-kql-part-8-the-where-operator/" target="_blank">Must Learn KQL Part 8: The Where Operator</a> - <i>Posted December 8, 2021</i> - <a href="https://youtu.be/dBmCNXgpjWM" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> - <i>Posted December 13, 2021</i> - <a href="https://youtu.be/CJT-cR1Lfzo" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2021/12/14/must-learn-kql-part-10-the-count-operator/" target="_blank">Must Learn KQL Part 10: The Count Operator</a> - <i>Posted December 14, 2021</i> - <a href="https://youtu.be/Cc7CcTXok2s" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/05/must-learn-kql-part-11-the-summarize-operator/" target="_blank">Must Learn KQL Part 11: The Summarize Operator</a> - <i>Posted January 5, 2022</i> - <a href="https://youtu.be/J3GJ81KsjHQ" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/10/must-learn-kql-part-12-the-render-operator/" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i> - <a href="https://youtu.be/yY3IMWRwOmM" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/18/must-learn-kql-part-13-the-extend-operator/" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i> - <a href="https://youtu.be/W4v1u7enWHc" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/20/must-learn-kql-part-14-the-project-operator/" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i> - <a href="https://www.youtube.com/watch?v=KYxxW82FAyA" target="_blank">Video Edition</a><br>
+* <a href="https://azurecloudai.blog/2022/01/24/must-learn-kql-part-15-the-distinct-operator/" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/01/26/must-learn-kql-part-16-the-order-sort-and-top-operators/" target="_blank">Must Learn KQL Part 16: The Order/Sort and Top Operators</a> - <i>Posted January 26, 2022</i><br>
+* <a href="https://azurecloudai.blog/2022/02/01/must-learn-kql-part-17-the-let-statement/" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/07/must-learn-kql-part-18-the-union-operator/" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/14/must-learn-kql-part-19-the-join-operator/" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i><br> 
+* <a href="https://azurecloudai.blog/2022/02/17/must-learn-kql-part-20-building-your-first-microsoft-sentinel-analytics-rule/" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
+<br><br>
 
 ---
 
@@ -625,17 +692,15 @@ blog post series to educate about the simplicity and power of the Kusto Query La
 
 ---
 
-## What's new 
+## What's new
 
-Stay up to date about latest releases (fixes, new features etc.) 
-
+Stay up to date about latest releases (fixes, new features etc.)
 - [What’s new with Microsoft Cloud App Security?](https://docs.microsoft.com/en-us/cloud-app-security/release-notes)
 - [What’s new in Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new)
 - [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
 - [What’s new in Microsoft 365 Defender](https://docs.microsoft.com/en-us/microsoft-365/security/defender/whats-new?view=o365-worldwide)
 - [What’s new in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365?view=o365-worldwide)
 - [What’s new in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
-
 
 ## Microsoft 365 Defender and Azure Sentinel content on GitHub
 
@@ -673,4 +738,3 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 
 ---
-
