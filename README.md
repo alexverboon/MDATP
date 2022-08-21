@@ -26,7 +26,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > [Subscribe to the Weekly Microsoft Sentinel Newsletter from Rod Trent](https://www.getrevue.co/profile/AzureSentinelToday)
 
-> [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://azurecloudai.blog/2022/07/29/microsoft-defender-weekly-wrap-issue-36/MicrosoftDefenderNewsletter)
+> [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://www.getrevue.co/profile/MicrosoftDefender?via=twitter-card&client=DesktopWeb&element=publication-card)
 
 ---
 
