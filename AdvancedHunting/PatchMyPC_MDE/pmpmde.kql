@@ -1,0 +1,25 @@
+
+let patchmypcmdemap = (externaldata(softwarename: string, vendor: string, mdesoftwarename: string)
+    [@https://raw.githubusercontent.com/alexverboon/MDATP/master/AdvancedHunting/PatchMyPC_MDE/patchmypc_mde.csv] 
+    with (format="csv", ignoreFirstRecord=true))
+    | distinct mdesoftwarename;
+DeviceTvmSoftwareVulnerabilities
+| summarize make_list(VulnerabilitySeverityLevel), make_set(DeviceId), make_set(CveId), make_set(SoftwareVersion) 
+    , Critical = make_set_if(CveId, VulnerabilitySeverityLevel == 'Critical'),
+    High = make_set_if(CveId, VulnerabilitySeverityLevel == 'High'),
+    Medium = make_set_if(CveId, VulnerabilitySeverityLevel == 'Medium'),
+    Low = make_set_if(CveId, VulnerabilitySeverityLevel == 'Low')
+    by SoftwareName, SoftwareVendor
+| extend ExposedDevices = array_length(set_DeviceId)
+| extend TotalVulnerabilities = array_length(set_CveId)
+| extend VersionDistribution = array_length(set_SoftwareVersion)
+| extend Critical = array_length(Critical)
+| extend High = array_length(High)
+| extend Medium = array_length(Medium)
+| extend Low = array_length(Low)
+| project SoftwareVendor, SoftwareName, ExposedDevices, TotalVulnerabilities, Critical, High, Medium, Low
+| join kind= leftouter patchmypcmdemap
+    on $left.SoftwareName == $right.mdesoftwarename
+| extend PatchMyPC =  case(isnotempty(mdesoftwarename), "Yes", "No")
+| project-away mdesoftwarename
+// | summarize count() by PatchMyPC
