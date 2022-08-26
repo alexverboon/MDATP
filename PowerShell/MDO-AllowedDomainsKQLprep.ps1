@@ -1,7 +1,8 @@
 #Requires -Module ExchangeOnlineManagement
 <#
 .DESCRIPTION
-   This script checks if any accepted domains are whitelisted in anti-spam policy. 
+   This script checks if any accepted domains are whitelisted in anti-spam policy and prepares 
+   the KQL query for further analysis in Microsoft 365 Defender.
 .INPUTS
    None. You cannot pipe objects to the script.
 .OUTPUTS
