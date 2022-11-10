@@ -36,7 +36,7 @@ DeviceInfo
     JoinType, MachineGroup
 //| summarize count() by IsLtsc
 //| render piechart 
-```Kusto
+```
 
 
 ## See also
