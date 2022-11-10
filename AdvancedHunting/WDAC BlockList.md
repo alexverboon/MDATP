@@ -17,6 +17,15 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, FileName, InitiatingProcessFileName, InitiatingProcessParentFileName, ProcessCommandLine, InitiatingProcessCommandLine, AccountName, InitiatingProcessAccountName
 ```
 
+```kql
+// another approach shared by Kim Oppalfens - @TheWMIGuy
+let wdacblock = (externaldata(lolbin: string)
+    [@"https://raw.githubusercontent.com/MicrosoftDocs/windows-itpro-docs/public/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules.md"] 
+    with (format="txt", ignoreFirstRecord=true));
+wdacblock
+| where lolbin has '<Deny ID="ID_DENY_'
+| extend lolbinxml = parse_xml(lolbin)
+```
 
 
 ## Category
@@ -45,4 +54,4 @@ This query can be used to detect the following attack techniques and tactics ([s
 
 ## Contributor info
 
-**Contributor:** Alex Verboon
+**Contributor:** Alex Verboon, Kim Oppalfens - @TheWMIGuy
