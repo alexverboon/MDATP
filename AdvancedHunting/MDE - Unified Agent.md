@@ -7,24 +7,36 @@ Use the below queries to find information about the Microsoft Defender for Endpo
 ## Query
 
 ```Kusto
-// MMA - Unified Agent status
+// MMA - Unified Agent status by Agent
 DeviceInfo
 | where OnboardingStatus == "Onboarded"
 | where isnotempty(OSPlatform) and isnotempty(DeviceName)
 | where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016"
-| extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8045" or ClientVersion startswith "10.8046" or ClientVersion startswith "10.8047" or ClientVersion startswith "10.8048", "UnifiedClient","Other")
+| extend Agent = case(ClientVersion startswith "10.3720", "MMA", 
+ClientVersion startswith "10.8045" or
+ClientVersion startswith "10.8046" or
+ClientVersion startswith "10.8047" or 
+ClientVersion startswith "10.8049" or
+ClientVersion startswith "10.8210" or
+ClientVersion startswith "10.8048", "UnifiedClient","Other")
 | summarize by DeviceName, OSPlatform, OnboardingStatus,Agent, ClientVersion
 | sort by ClientVersion asc
-// | summarize count() by Agent
+| summarize count() by Agent
 ```
 
 ```Kusto
-// upgrade overview per OS
+// upgrade overview per Server OS
 DeviceInfo
 | where OnboardingStatus == "Onboarded"
 | where isnotempty(OSPlatform) and isnotempty(DeviceName)
 | where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016" 
-| extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8045" or ClientVersion startswith "10.8046" or ClientVersion startswith "10.8047" or ClientVersion startswith "10.8048", "UnifiedClient","Other")
+| extend Agent = case(ClientVersion startswith "10.3720", "MMA", 
+ClientVersion startswith "10.8045" or 
+ClientVersion startswith "10.8046" or 
+ClientVersion startswith "10.8047" or 
+ClientVersion startswith "10.8049" or
+ClientVersion startswith "10.8210" or
+ClientVersion startswith "10.8048", "UnifiedClient","Other")
 | summarize by DeviceName, OSPlatform, OnboardingStatus,Agent, ClientVersion
 | sort by ClientVersion asc
 | summarize TotalServers = count(),  MMA = make_set_if(DeviceName,Agent == "MMA"), 
@@ -35,6 +47,35 @@ Other = make_set_if(DeviceName, Agent == "Other") by OSPlatform
 | extend TotalOther = array_length(Other)
 | project OSPlatform, TotalServers, TotalMMA, TotalUnified, TotalOther
 ```
+
+```Kusto
+// MMA - Unified Agent status per Server
+DeviceInfo
+| where OnboardingStatus == "Onboarded"
+| where isnotempty(OSPlatform) and isnotempty(DeviceName)
+| where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016"
+| extend Agent = case(ClientVersion startswith "10.3720", "MMA", 
+ClientVersion startswith "10.8045" or 
+ClientVersion startswith "10.8046" or 
+ClientVersion startswith "10.8047" or 
+ClientVersion startswith "10.8049" or
+ClientVersion startswith "10.8210" or
+ClientVersion startswith "10.8048", "UnifiedClient","Other")
+| summarize by DeviceName, OSPlatform, OnboardingStatus,Agent, ClientVersion
+| sort by ClientVersion asc
+```
+
+```Kusto
+// Server OS version overview
+DeviceInfo
+| where OnboardingStatus == "Onboarded"
+| where isnotempty(OSPlatform) and isnotempty(DeviceName)
+| summarize arg_max(Timestamp,*) by DeviceId
+| project Timestamp, DeviceName, ClientVersion, OSPlatform
+| where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016"
+| summarize count() by ClientVersion,OSPlatform
+```
+
 
 
 ```Kusto
@@ -54,37 +95,6 @@ DeviceTvmSecureConfigurationAssessment
 | project OSPlatform, Configuration, Compliant, NonCompliant, TotalDevices, PctCompliant
 ```
 
-```Kusto
-// Total server OS inventory
-DeviceInfo
-| where OnboardingStatus == "Onboarded"
-| where isnotempty(OSPlatform)
-| summarize arg_max(Timestamp,30d) by DeviceName, OSPlatform, OnboardingStatus
-| where OSPlatform startswith "WindowsServer"
-| summarize count() by OSPlatform
-```
-
-## Category
-
-This query can be used to detect the following attack techniques and tactics ([see MITRE ATT&CK framework](https://attack.mitre.org/)) or security configuration states.
-
-| Technique, tactic, or state | Covered? (v=yes) | Notes |
-|-|-|-|
-| Initial access |  |  |
-| Execution |  |  |
-| Persistence |  |  |
-| Privilege escalation | |  |
-| Defense evasion |  |  |
-| Credential Access |  |  |
-| Discovery |  |  |
-| Lateral movement |  |  |
-| Collection |  |  |
-| Command and control |  |  |
-| Exfiltration |  |  |
-| Impact |  |  |
-| Vulnerability |  |  |
-| Misconfiguration |  |  |
-| Malware, component |  |  |
 
 ## See also
 
