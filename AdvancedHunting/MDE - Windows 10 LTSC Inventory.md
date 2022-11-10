@@ -41,8 +41,9 @@ DeviceInfo
 
 ## See also
 
-[DeviceTvmInfoGathering](https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-devicetvminfogathering-table?view=o365-worldwide)
-[Windows 10 Enterprise LTSC](https://learn.microsoft.com/en-us/windows/whats-new/ltsc/)
+- [DeviceTvmInfoGathering](https://learn.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-devicetvminfogathering-table?view=o365-worldwide)
+
+- [Windows 10 Enterprise LTSC](https://learn.microsoft.com/en-us/windows/whats-new/ltsc/)
 
 ## Contributor info
 
