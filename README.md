@@ -763,5 +763,7 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [Marco Gerber](https://github.com/gerbermarco/AzureKQL)
 - [Live Response Scripts from YongRhee](https://github.com/YongRhee-MDE/LiveResponse)
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
+- [BertJanCyber](https://github.com/Bert-JanP)
+- [Ugur Koc](https://github.com/ugurkocde/KQL_Intune)
 
 ---
