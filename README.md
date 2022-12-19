@@ -16,6 +16,8 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > [Become an Azure Sentinel Ninja](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
 
+> [Become a Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
+
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
@@ -58,6 +60,29 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2022
 
+
+- [Introducing the Microsoft Defender for Office 365 Security Operations Guide](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-security/ba-p/3638250)
+- [Email Protection Basics in Microsoft 365: Spoof and Impersonation](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938)
+- [Build custom email security reporting with Microsoft Defender for Office 365 and PowerBI](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reporting-with-microsoft-defender/ba-p/3666805)
+- [Getting started as a Security MVP (Most Valuable Professional)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/getting-started-as-a-security-mvp-most-valuable-professional/ba-p/3699265)
+- [New network-based detections and improved device discovery using Zeek](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-network-based-detections-and-improved-device-discovery-using/ba-p/3682111)
+- [Announcing new removable storage management features on Windows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-new-removable-storage-management-features-on-windows/ba-p/3678197)
+- [Use the new Microsoft 365 Defender API for all your alerts](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-microsoft-365-defender-api-for-all-your-alerts/ba-p/3674059)
+- [Detecting and remediating command and control attacks at the network layer](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/detecting-and-remediating-command-and-control-attacks-at-the/ba-p/3650607)
+- [Tamper protection will be turned on for all enterprise customers](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/tamper-protection-will-be-turned-on-for-all-enterprise-customers/ba-p/3616478)
+- [Microsoft Defender for Endpoint is now available on Android company-owned personally enabled devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-is-now-available-on-android/ba-p/3626100)
+- [Improving device discoverability and classification within MDE using Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/improving-device-discoverability-and-classification-within-mde/ba-p/3625559)
+- [Attack Surface Reduction (ASR) Rules Report 2.0 in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/attack-surface-reduction-asr-rules-report-2-0-in-microsoft-365/ba-p/3618641)
+- [Optimize your hunting performance with the new query resources report](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/optimize-your-hunting-performance-with-the-new-query-resources/ba-p/3689480)
+- [Protect apps that use non-standard ports with Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-apps-that-use-non-standard-ports-with-defender-for-cloud/ba-p/3685351)
+- [Investigate incidents more effectively with the new attack story view in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/investigate-incidents-more-effectively-with-the-new-attack-story/ba-p/3670478)
+- [Identity Protection alerts now available in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/identity-protection-alerts-now-available-in-microsoft-365/ba-p/3660997)
+- [Hunt in Microsoft 365 Defender without KQL!](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/hunt-in-microsoft-365-defender-without-kql/ba-p/3607989)
+- [Hunt for compromised Azure subscriptions using Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/hunt-for-compromised-azure-subscriptions-using-microsoft/ba-p/3607121)
+- [Leverage advanced hunting to better understand your discovered devices](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/leverage-advanced-hunting-to-better-understand-your-discovered/ba-p/3697752)
+- [Firmware assessments support now in public preview in Microsoft Defender Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/firmware-assessments-support-now-in-public-preview-in-microsoft/ba-p/3682748)
+- [Announcing Software Usage Insights in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/announcing-software-usage-insights-in-public-preview/ba-p/3671301)
+- [Reduce OpenSSL 3.0 vulnerabilities risks with Microsoft Defender Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/reduce-openssl-3-0-vulnerabilities-risks-with-microsoft-defender/ba-p/3668567)
 - [Support for Common Vulnerabilities and Exposures (CVEs) without a security update in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/support-for-common-vulnerabilities-and-exposures-cves-without-a/ba-p/3551400)
 - [Announcing Microsoft Defender Vulnerability Management in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/announcing-microsoft-defender-vulnerability-management-in-public/ba-p/3361003)
 - [Introducing new actions from the Email Entity page!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-new-actions-from-the-email-entity-page/ba-p/3597374)
@@ -477,6 +502,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+- [Microsoft Defender for Endpoint series – Defender Vulnerability Management – Part5](https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-defender-vulnerability-management-part5/)
 - [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
 - [Microsoft Defender for Endpoint Internals 0x02 — Audit Settings and Telemetry](https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27)
 - [Microsoft Defender for Endpoint Internals 0x03 — MDE telemetry unreliability and log augmentation](https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x03-mde-telemetry-unreliability-and-log-augmentation-ec6e7e5f406f)
@@ -678,6 +704,7 @@ The following are links to the entire series so far:
 - [@ashwinpatil](https://twitter.com/ashwinpatil)
 - [@reprise_99](https://twitter.com/reprise_99) Matt Zorich
 - [Sami Lamppu](https://twitter.com/samilamppu)
+- [Ru Campell](https://twitter.com/rucam365)
   
 ---
 
