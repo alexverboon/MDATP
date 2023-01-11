@@ -10,6 +10,8 @@ Use the below queries to find information about the Microsoft Defender for Endpo
 // MMA - Unified Agent status by Agent
 DeviceInfo
 | where OnboardingStatus == "Onboarded"
+| where isnotempty(OSPlatform) 
+| summarize arg_max(Timestamp,*) by DeviceName
 | where isnotempty(OSPlatform) and isnotempty(DeviceName)
 | where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016" 
 | extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8", "UnifiedClient","Other")
@@ -30,10 +32,10 @@ DeviceInfo
 // MMA - Unified Agent status per Server
 DeviceInfo
 | where OnboardingStatus == "Onboarded"
-| where isnotempty(OSPlatform) and isnotempty(DeviceName)
+| where isnotempty(OSPlatform) 
+| summarize arg_max(Timestamp,*) by DeviceName
 | where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016"
 | extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8", "UnifiedClient","Other")
-//| extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8045" or ClientVersion startswith "10.8046" or ClientVersion startswith "10.8047" or ClientVersion startswith "10.8048", "UnifiedClient","Other")
 | summarize by DeviceName, OSPlatform, OnboardingStatus,Agent, ClientVersion
 | sort by ClientVersion asc
 ```
@@ -71,7 +73,8 @@ DeviceTvmSoftwareVulnerabilities
 | extend TotalMissingKB = array_length(MissingKBs);
 DeviceInfo
 | where OnboardingStatus == "Onboarded"
-| where isnotempty(OSPlatform) and isnotempty(DeviceName)
+| where isnotempty(OSPlatform) 
+| summarize arg_max(Timestamp,*) by DeviceName
 | where OSPlatform contains "WindowsServer2012R2" or OSPlatform contains "WindowsServer2016"
 | extend Agent = case(ClientVersion startswith "10.3720", "MMA", ClientVersion startswith "10.8", "UnifiedClient","Other")
 | summarize by DeviceName, OSPlatform, OnboardingStatus,Agent, ClientVersion
