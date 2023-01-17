@@ -7,6 +7,7 @@ For more details see [ASR rule “Block Win32 API calls from Office macro” - F
 
 All the queries return the same information, just demonstrating different options or enriching the data with additional data
 
+
 ---
 
 ```Kusto
