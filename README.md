@@ -18,6 +18,10 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > [Become a Microsoft Defender Threat Intelligence Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 
+> [Become a Microsoft Defender External Attack Surface Management Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-external/become-a-microsoft-defender-external-attack-surface-management/ba-p/3743985)
+
+> [Become a Microsoft Defender for Cloud Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/become-a-microsoft-defender-for-cloud-ninja/ba-p/1608761)
+
 > [Security Community Webinars](https://techcommunity.microsoft.com/t5/microsoft-security-and/security-community-webinars/ba-p/927888)
 
 > [On-demand webcast series: “Tracking the adversary”](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/on-demand-webcast-series-tracking-the-adversary/ba-p/1579366)
@@ -35,6 +39,7 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 - [Microsoft 365 Defender - Resource Hub](#microsoft-365-defender---resource-hub)
   - [Microsoft Tech Community Blog posts](#microsoft-tech-community-blog-posts)
+    - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -58,9 +63,53 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ---
 
+### 2023
+
+- [Defender for Endpoint and disconnected environments. Cloud-centric networking decisions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-cloud/ba-p/3786540)
+- [Microsoft awarded Best Advanced Protection for Corporate and Consumer Users by AV-TEST](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-awarded-best-advanced-protection-for-corporate-and/ba-p/3765332)
+- [Defender for Endpoint and disconnected environments. Which proxy configuration wins?](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-which-proxy/ba-p/3738899)
+- [Push ASR rules with Security Settings Management on Microsoft Defender for Endpoint managed devices](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/push-asr-rules-with-security-settings-management-on-microsoft/ba-p/3635129)
+- [Announcing device isolation support for Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-device-isolation-support-for-linux/ba-p/3676400)
+- [Recovering from Attack Surface Reduction rule shortcut deletions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/recovering-from-attack-surface-reduction-rule-shortcut-deletions/ba-p/3716011)
+- [Introducing tamper protection for exclusions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-tamper-protection-for-exclusions/ba-p/3713761)
+- [Disconnected environments, proxies and Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/disconnected-environments-proxies-and-microsoft-defender-for/ba-p/3710502)
+- [Leverage authenticated scans to prevent attacks on your Windows devices](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/leverage-authenticated-scans-to-prevent-attacks-on-your-windows/ba-p/3723855)
+- [Mitigate risks with application block in Microsoft Defender Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/mitigate-risks-with-application-block-in-microsoft-defender/ba-p/3752337)
+- [Premium capabilities in Microsoft Defender Vulnerability Management are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/premium-capabilities-in-microsoft-defender-vulnerability/ba-p/3754990)
+- [What’s new in Microsoft Defender Vulnerability Management | April 2023 Update](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/what-s-new-in-microsoft-defender-vulnerability-management-april/ba-p/3781424)
+- [Attack Simulation Training: New insights into targeted user behavior](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-new-insights-into-targeted-user/ba-p/3673105)
+- [Automatic tenant Allow/Block list expiration management is now available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/automatic-tenant-allow-block-list-expiration-management-is-now/ba-p/3723447)
+- [Introducing the New Post-delivery Activities Report in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-new-post-delivery-activities-report-in-microsoft/ba-p/3738768)
+- [Enhanced threat detection with URL click alerts by Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/enhanced-threat-detection-with-url-click-alerts-by-microsoft/ba-p/3766110)
+- [Announcing Collaboration Security for Microsoft Teams](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/announcing-collaboration-security-for-microsoft-teams/ba-p/3780487)
+- [Protect your sensitive data against malicious apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/protect-your-sensitive-data-against-malicious-apps/ba-p/3708926)
+- [Centrally manage permissions with the Microsoft 365 Defender role-based access control (RBAC) model](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/centrally-manage-permissions-with-the-microsoft-365-defender/ba-p/3707825)
+- [Build custom incident response actions with Microsoft 365 Defender APIs](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/build-custom-incident-response-actions-with-microsoft-365/ba-p/3710552)
+- [Automate your alert response actions in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automate-your-alert-response-actions-in-microsoft-365-defender/ba-p/3732052)
+- [Improve your app posture and hygiene using Microsoft Defender for Cloud Apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/improve-your-app-posture-and-hygiene-using-microsoft-defender/ba-p/3742361)
+- [Microsoft Defender for Identity now detects suspicious certificate usage](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-defender-for-identity-now-detects-suspicious/ba-p/3743335)
+- [Automatic disruption of Ransomware and BEC attacks with Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatic-disruption-of-ransomware-and-bec-attacks-with/ba-p/3738294)
+- [XDR attack disruption in action – Defending against a recent BEC attack](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/xdr-attack-disruption-in-action-defending-against-a-recent-bec/ba-p/3749822)
+- [Respond to threats in near real-time with custom detections](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/respond-to-threats-in-near-real-time-with-custom-detections/ba-p/3761243)
+- [Simplifying SaaS Security: Deploying Microsoft Defender for Cloud Apps in 4 steps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/simplifying-saas-security-deploying-microsoft-defender-for-cloud/ba-p/3788360)
+- [Defender for Cloud and Defender for Threat Intelligence are Better Together](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/defender-for-cloud-and-defender-for-threat-intelligence-are/ba-p/3723047)
+- [Performing a Successful Proof of Concept (PoC)](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/performing-a-successful-proof-of-concept-poc/ba-p/3742412)
+- [Intel Profiles Deliver Crucial Information, Context About Threats](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-intel-profiles-deliver-crucial-information-context/ba-p/3780076)
+- [MDTI Microsoft Sentinel Playbooks](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-microsoft-sentinel-playbooks/ba-p/3780096)
+- [MDTI APIs in Microsoft Graph](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350)
+- [Identify Digital Assets Vulnerable to Subdomain Takeover](https://techcommunity.microsoft.com/t5/microsoft-defender-external/identify-digital-assets-vulnerable-to-subdomain-takeover/ba-p/3700773)
+- [Seeking Out Dead and Dying Servers](https://techcommunity.microsoft.com/t5/microsoft-defender-external/seeking-out-dead-and-dying-servers/ba-p/3715874)
+- [Latest Engineering Semester Enables Tighter Integrations, Ease of Use](https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-engineering-semester-enables-tighter-integrations-ease-of/ba-p/3728668)
+- [Uncovering Trackers Using the Defender EASM UI Pt. 1](https://techcommunity.microsoft.com/t5/microsoft-defender-external/uncovering-trackers-using-the-defender-easm-ui-pt-1/ba-p/3742726)
+- [Microsoft Defender External Attack Surface Overview, Concepts, and Vocabulary](https://techcommunity.microsoft.com/t5/microsoft-defender-external/microsoft-defender-external-attack-surface-overview-concepts-and/ba-p/3745749)
+- [Why is Defender EASM Discovery important?](https://techcommunity.microsoft.com/t5/microsoft-defender-external/why-is-defender-easm-discovery-important/ba-p/3745757)
+- [Data Connectors for Azure Log Analytics and Data Explorer Now in Public Preview](https://techcommunity.microsoft.com/t5/microsoft-defender-external/data-connectors-for-azure-log-analytics-and-data-explorer-now-in/ba-p/3776898)
+
+
+
 ### 2022
 
-
+- [Welcome to the Microsoft Defender External Attack Surface Management Tech Community](https://techcommunity.microsoft.com/t5/microsoft-defender-external/welcome-to-the-microsoft-defender-external-attack-surface/ba-p/3698416)
 - [Introducing the Microsoft Defender for Office 365 Security Operations Guide](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-microsoft-defender-for-office-365-security/ba-p/3638250)
 - [Email Protection Basics in Microsoft 365: Spoof and Impersonation](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-spoof-and-impersonation/ba-p/3562938)
 - [Build custom email security reporting with Microsoft Defender for Office 365 and PowerBI](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/build-custom-email-security-reporting-with-microsoft-defender/ba-p/3666805)
@@ -177,33 +226,19 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 - [Microsoft 365 Defender Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-ninja-training-august-2021-update/ba-p/2611831) 
 - [Take your security to the next level with professional security services](https://techcommunity.microsoft.com/t5/microsoft-365-defender/take-your-security-to-the-next-level-with-professional-security/ba-p/2528757) 
 - [Introducing Microsoft Defender for Endpoint Plan 1](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-microsoft-defender-for-endpoint-plan-1/ba-p/2636641) 
-- [Device Control Device Installation update]()
 - [Make sure Tamper Protection is turned on](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/make-sure-tamper-protection-is-turned-on/ba-p/2695568) 
-- [Device Control Device Installation update]()
 - [Announcing Apple M1 native support](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-apple-m1-native-support/ba-p/2685585) 
-- [Device Control Device Installation update]()
 - [Public Preview: Custom file IoC enhancements and API schema update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/public-preview-custom-file-ioc-enhancements-and-api-schema/ba-p/2676997) 
-- [Device Control Device Installation update]()
 - [Best practices for optimizing custom indicators](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/best-practices-for-optimizing-custom-indicators/ba-p/2670357) 
-- [Device Control Device Installation update]()
 - [Microsoft Defender for Endpoint Ninja Training: August 2021 update](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623) 
-- [Device Control Device Installation update]()
 - [DeepSurface integrates with Microsoft's vulnerability management capabilities](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/deepsurface-integrates-with-microsoft-s-vulnerability-management/ba-p/2544600) 
-- [Device Control Device Installation update]()
 - [Download quarantined files now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/download-quarantined-files-now-in-public-preview/ba-p/2581160) 
-- [Device Control Device Installation update]()
 - [Protect your removable storage and printers with Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/protect-your-removable-storage-and-printers-with-microsoft/ba-p/2324806) 
-- [Device Control Device Installation update]()
 - [Announcing live response API public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-live-response-api-public-preview/ba-p/2537833) 
-- [Device Control Device Installation update]()
 - [Evaluation lab updates: device renewal and new simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-updates-device-renewal-and-new-simulations/ba-p/2519691) 
-- [Device Control Device Installation update]()
 - [Simplifying the Quarantine Experience](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience/ba-p/2676388) 
-- [Device Control Device Installation update]()
 - [Microsoft Teams gets more Phishing Protection!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-teams-gets-more-phishing-protection/ba-p/2585559) 
-- [Device Control Device Installation update]()
 - [Making the SecOps Team More Efficient - Focused Email Actions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/making-the-secops-team-more-efficient-focused-email-actions/ba-p/2557387) 
-- [Device Control Device Installation update]()
 - [ICYMI: Announcing Microsoft 365 Defender Streaming API](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/icymi-announcing-microsoft-365-defender-streaming-api/ba-p/2414420) 
 - [Vulnerability management for Linux now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/vulnerability-management-for-linux-now-generally-available/ba-p/2451145) 
 - [Unmanaged device protection capabilities are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/unmanaged-device-protection-capabilities-are-now-generally/ba-p/2463796) 
@@ -285,192 +320,191 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2020
 
-- [Get email notifications on new incidents from Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/get-email-notifications-on-new-incidents-from-microsoft-365/ba-p/2012518) December 23,2020 
-- [Advanced hunting product name changes](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-product-name-changes/ba-p/2009233) December 22,2020
-- [New Threat analytics report shares the latest intelligence on recent nation-state cyber attacks](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-threat-analytics-report-shares-the-latest-intelligence-on/ba-p/2001095) December 18,2020 
-- [Azure Active Directory audit logs now available in Advanced Hunting (public preview)](https://techcommunity.microsoft.com/t5/microsoft-365-defender/azure-active-directory-audit-logs-now-available-in-advanced/ba-p/1999523) December 17,2020 
-- [Additional email data in advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/additional-email-data-in-advanced-hunting/ba-p/1985849) December 14,2020
--[Announcing EDR in block mode general availability](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-edr-in-block-mode-general-availability/ba-p/1972064) December 9,2020
--[Microsoft Defender for Endpoint on iOS is generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-on-ios-is-generally-available/ba-p/1962420) December 7,2020
-- [Microsoft Defender for Office 365 investigation improvements coming soon](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-defender-for-office-365-investigation-improvements/ba-p/1947236) December 1,2020
-- [EDR for Linux is now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-available-in-public-preview/ba-p/1890536) November 17,2020
-- [Hunt across cloud app activities with Microsoft 365 Defender advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/hunt-across-cloud-app-activities-with-microsoft-365-defender/ba-p/1893857) November 17,2020
-- [Microsoft 365 Defender connector now in Public Preview for Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-connector-now-in-public-preview-for-azure/ba-p/1879675) November 12,2020
-- [Improved incident queue in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/improved-incident-queue-in-microsoft-365-defender/ba-p/1872084) November 10,2020
-- [Introducing a new threat and vulnerability management report](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-a-new-threat-and-vulnerability-management-report/ba-p/1827448) October 28,2020
-- [Investigating Alerts in Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/investigating-alerts-in-defender-for-office-365/ba-p/1824188) October 28,2020
-- [ZeroLogon is now detected by Microsoft Defender for Identity CVE-2020-1472 exploitation](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034) October 1,2020
-- [Self-healing in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/self-healing-in-microsoft-365-defender/ba-p/1729527) September 30,2020
-- [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385) September 22,2020
-- [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813) September 22,2020
-- [Office 365 ATP is now Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/office-365-atp-is-now-microsoft-defender-for-office-365/ba-p/1696529) September 22, 2020
-- [Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824) September 22,2020
-- [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234) September 15,2020
-- [Microsoft Defender ATP for Mac is moving to system extensions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-atp-for-mac-is-moving-to-system-extensions/ba-p/1608736) August 31,2020
-- [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) August 28, 2020
-- [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) August 25, 2020
-- [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520) August 20,2020
-- [Hunt for threats using events captured by Azure ATP on your domain controller](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212) August 19,2020
-- [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) August 18,2020
-- [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) August 12,2020
-- [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320) August 10,2020
-- [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341) July 30,2020
-- [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178) July 28,2020
-- [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768) July 22,2020
-- [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) July 20,2020
-- [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) July 14,2020
-- [Announcing high value asset tagging in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459) July 14,2020
-- [SHA-2 signing enforcement on Windows 7 and Windows Server 2008 R2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/sha-2-signing-enforcement-on-windows-7-and-windows-server-2008/ba-p/1519584) July 13,2020
-- [Microsoft Defender ATP awarded a perfect 5-star rating by SC Media](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-awarded-a-perfect-5-star-rating-by-sc/ba-p/1511340) July 9,2020
-- [Introducing event timeline – an innovative, new way to manage your security exposure](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-event-timeline-an-innovative-new-way-to-manage-your/ba-p/1505208) July 6, 2020
-- [An update on Web Content Filtering](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445) July 6,2020
-- [Configuring Microsoft Defender Antivirus for non-persistent VDI machines](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/configuring-microsoft-defender-antivirus-for-non-persistent-vdi/ba-p/1489633) June 25,2020
-- [Improving defenses against Exchange server compromise](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/improving-defenses-against-exchange-server-compromise/ba-p/1487410) June 24,2020
-- [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401) June 22,2020
-- [Microsoft Defender ATP for Linux is now generally available!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344) June 23,2020
-- [Announcing Microsoft Defender ATP for Android](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-for-android/ba-p/1480787) June 23, 2020
-- [Microsoft Threat Protection leads in real-world detection in MITRE ATT&CK evaluation](https://www.microsoft.com/security/blog/2020/05/01/microsoft-threat-protection-leads-real-world-detection-mitre-attck-evaluation/) May 1, 2020
-- [A deeper dive into the APT29 MITRE ATT&CK evaluation](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-deeper-dive-into-the-apt29-mitre-att-amp-ck-evaluation/ba-p/1476134) June 19. 2020
-- [Microsoft Defender ATP has a new UEFI scanner](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-has-a-new-uefi-scanner/ba-p/1472290) June 17,2020
-- [New partnerships with innovative leaders helps you fight advanced threats!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-partnerships-with-innovative-leaders-helps-you-fight/ba-p/1467697) June 16,2020
-- [Say hello to the new alert page in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673) June 15,2020
-- [Migrate the old Power BI App to Microsoft Defender ATP Power BI templates!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/migrate-the-old-power-bi-app-to-microsoft-defender-atp-power-bi/ba-p/1439572) June 4, 2020
-- [Microsoft Defender ATP evaluation lab breach & attack simulators are now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088) May 25,2020
-- [Demystifying attack surface reduction rules - Part 4](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425) May 13,2020
-- [Defending networks against human-operated ransomware](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282) May 12, 2020
-- [Automate the boring for your SOC with automatic investigation and remediation!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038) May 11,2020
-- [Indicators enhancements: Allow/Block by certificates & more](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/indicators-enhancements-allow-block-by-certificates-amp-more/ba-p/1377586) May 10,2020
-- [Demystifying attack surface reduction rules - Part 3](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-3/ba-p/1360968) May 5,2020
-- [Onboarding and servicing non-persistent VDI machines with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/onboarding-and-servicing-non-persistent-vdi-machines-with/ba-p/1360721) May 5,2020
-- [Harden endpoint security for COVID-19 and working from home with Threat & Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/harden-endpoint-security-for-covid-19-and-working-from-home-with/ba-p/1343641) April 30, 2020
-- [Deploy Microsoft Defender ATP for Mac in just a few clicks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/deploy-microsoft-defender-atp-for-mac-in-just-a-few-clicks/ba-p/1341619) April 27, 2020
-- [MITRE ATT&CK evaluation results](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/mitre-att-amp-ck-evaluation-results/ba-p/1334208) April 24, 2020
-- [Demystifying attack surface reduction rules - Part 2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-2/ba-p/1326565) April 22, 2020
-- [Demystifying attack surface reduction rules - Part 1](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-1/ba-p/1306420) March 14,2020
-- [Threat & Vulnerability Management APIs are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/threat-amp-vulnerability-management-apis-are-now-generally/ba-p/1304615) March 14,2020
-- [Live response for earlier versions of Windows is now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/live-response-for-earlier-versions-of-windows-is-now-in-public/ba-p/1282156) April 6,2020
-- [Secure your remote workforce with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-your-remote-workforce-with-microsoft-defender-atp/ba-p/1271806) April 1st, 2020
-- [Secure Configuration Assessment (SCA) for Windows Server now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-configuration-assessment-sca-for-windows-server-now-in/ba-p/1243885) March 22,2020
-- [Microsoft Defender ATP service notification improvements](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-service-notification-improvements/ba-p/1244625) March 22,2020
-- [Connect the dots using a device network overview Power BI report](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/connect-the-dots-using-a-device-network-overview-power-bi-report/ba-p/1238287) March 19,2020
-- [Raw data export: Announcing Microsoft Defender ATP Streaming API GA](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/raw-data-export-announcing-microsoft-defender-atp-streaming-api/ba-p/1235500) March 18,2020
-- [Microsoft Defender ATP for Linux is coming! ...And a sneak peek into what’s next](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-coming-and-a-sneak-peek-into/ba-p/1192251) February 25,2020
-- [Enable tamper protection in Threat & Vulnerability Management to increase your security posture](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enable-tamper-protection-in-threat-amp-vulnerability-management/ba-p/1182920) February 19,2020
-- [Put regulation fears to rest when deploying Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/put-regulation-fears-to-rest-when-deploying-microsoft-defender/ba-p/1170187) February 13,2020
-- [Web content filtering with Microsoft Defender ATP now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) January 28, 2020
-- [Extending Microsoft Defender ATP network of partners](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/extending-microsoft-defender-atp-network-of-partners/ba-p/1130867) January 27, 2020
-- [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)January 22, 2020
-- [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358) January 01, 2020
+- [Get email notifications on new incidents from Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/get-email-notifications-on-new-incidents-from-microsoft-365/ba-p/2012518) 
+- [Advanced hunting product name changes](https://techcommunity.microsoft.com/t5/microsoft-365-defender/advanced-hunting-product-name-changes/ba-p/2009233)
+- [New Threat analytics report shares the latest intelligence on recent nation-state cyber attacks](https://techcommunity.microsoft.com/t5/microsoft-365-defender/new-threat-analytics-report-shares-the-latest-intelligence-on/ba-p/2001095) 
+- [Azure Active Directory audit logs now available in Advanced Hunting (public preview)](https://techcommunity.microsoft.com/t5/microsoft-365-defender/azure-active-directory-audit-logs-now-available-in-advanced/ba-p/1999523)
+- [Additional email data in advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/additional-email-data-in-advanced-hunting/ba-p/1985849)
+-[Announcing EDR in block mode general availability](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-edr-in-block-mode-general-availability/ba-p/1972064)
+-[Microsoft Defender for Endpoint on iOS is generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-on-ios-is-generally-available/ba-p/1962420)
+- [Microsoft Defender for Office 365 investigation improvements coming soon](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-defender-for-office-365-investigation-improvements/ba-p/1947236)
+- [EDR for Linux is now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/edr-for-linux-is-now-available-in-public-preview/ba-p/1890536)
+- [Hunt across cloud app activities with Microsoft 365 Defender advanced hunting](https://techcommunity.microsoft.com/t5/microsoft-365-defender/hunt-across-cloud-app-activities-with-microsoft-365-defender/ba-p/1893857)
+- [Microsoft 365 Defender connector now in Public Preview for Azure Sentinel](https://techcommunity.microsoft.com/t5/microsoft-365-defender/microsoft-365-defender-connector-now-in-public-preview-for-azure/ba-p/1879675)
+- [Improved incident queue in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/improved-incident-queue-in-microsoft-365-defender/ba-p/1872084)
+- [Introducing a new threat and vulnerability management report](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-a-new-threat-and-vulnerability-management-report/ba-p/1827448)
+- [Investigating Alerts in Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/investigating-alerts-in-defender-for-office-365/ba-p/1824188)
+- [ZeroLogon is now detected by Microsoft Defender for Identity CVE-2020-1472 exploitation](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034) 
+- [Self-healing in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender/self-healing-in-microsoft-365-defender/ba-p/1729527)
+- [Announcing Priority Account Protection in Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385) 
+- [Microsoft delivers unified SIEM and XDR to modernize security operations](https://www.microsoft.com/security/blog/?p=91813) 
+- [Office 365 ATP is now Microsoft Defender for Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/office-365-atp-is-now-microsoft-defender-for-office-365/ba-p/1696529) 
+- [Microsoft Defender for Endpoint adds depth and breadth to threat defense across platforms](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-adds-depth-and-breadth-to-threat/ba-p/1695824) 
+- [Say hello to the new Microsoft Threat Protection APIs!](https://techcommunity.microsoft.com/t5/microsoft-365-defender/say-hello-to-the-new-microsoft-threat-protection-apis/ba-p/1669234) 
+- [Microsoft Defender ATP for Mac is moving to system extensions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-atp-for-mac-is-moving-to-system-extensions/ba-p/1608736) 
+- [How behavioral blocking & containment stops post-exploitation tools like BloodHound, Kerberoasting](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/how-behavioral-blocking-amp-containment-stops-post-exploitation/ba-p/1619501) 
+- [A new look for threat analytics](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-new-look-for-threat-analytics/ba-p/1608945) 
+- [Microsoft Threat Protection now uses more descriptive incident names](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/microsoft-threat-protection-now-uses-more-descriptive-incident/ba-p/1601520) 
+- [Hunt for threats using events captured by Azure ATP on your domain controller](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212) 
+- [Introducing EDR in block mode: Stopping attacks in their tracks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-edr-in-block-mode-stopping-attacks-in-their-tracks/ba-p/1596617) 
+- [Introducing an improved timeline investigation with event flagging](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-an-improved-timeline-investigation-with-event/ba-p/1580569) 
+- [Pull in more intelligence and act fast while you hunt](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pull-in-more-intelligence-and-act-fast-while-you-hunt/ba-p/1578320) 
+- [See how consolidated incidents improve SOC efficiency through this attack sprawl simulation](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/see-how-consolidated-incidents-improve-soc-efficiency-through/ba-p/1557341) 
+- [The Action center in Microsoft Threat Protection – Your one-stop shop for remediation actions](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/the-action-center-in-microsoft-threat-protection-your-one-stop/ba-p/1550178) 
+- [Pivot fast and investigate freely with go hunt & other advanced hunting enhancements](https://techcommunity.microsoft.com/t5/microsoft-threat-protection/pivot-fast-and-investigate-freely-with-go-hunt-amp-other/ba-p/1535768) 
+- [Multi-tenant access for Managed Security Service Providers](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/multi-tenant-access-for-managed-security-service-providers/ba-p/1533440) 
+- [Changes in the support case submission experience](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/changes-in-the-support-case-submission-experience/ba-p/1521387) 
+- [Announcing high value asset tagging in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-high-value-asset-tagging-in-microsoft-defender-atp/ba-p/1521459) 
+- [SHA-2 signing enforcement on Windows 7 and Windows Server 2008 R2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/sha-2-signing-enforcement-on-windows-7-and-windows-server-2008/ba-p/1519584) 
+- [Microsoft Defender ATP awarded a perfect 5-star rating by SC Media](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-awarded-a-perfect-5-star-rating-by-sc/ba-p/1511340) 
+- [Introducing event timeline – an innovative, new way to manage your security exposure](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/introducing-event-timeline-an-innovative-new-way-to-manage-your/ba-p/1505208) 
+- [An update on Web Content Filtering](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/an-update-on-web-content-filtering/ba-p/1505445) 
+- [Configuring Microsoft Defender Antivirus for non-persistent VDI machines](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/configuring-microsoft-defender-antivirus-for-non-persistent-vdi/ba-p/1489633) 
+- [Improving defenses against Exchange server compromise](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/improving-defenses-against-exchange-server-compromise/ba-p/1487410) 
+- [Safe Documents is Generally Available](https://techcommunity.microsoft.com/t5/microsoft-365-blog/safe-documents-is-generally-available/ba-p/1480401) 
+- [Microsoft Defender ATP for Linux is now generally available!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-now-generally-available/ba-p/1482344) 
+- [Announcing Microsoft Defender ATP for Android](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/announcing-microsoft-defender-atp-for-android/ba-p/1480787) 
+- [Microsoft Threat Protection leads in real-world detection in MITRE ATT&CK evaluation](https://www.microsoft.com/security/blog/2020/05/01/microsoft-threat-protection-leads-real-world-detection-mitre-attck-evaluation/) 
+- [A deeper dive into the APT29 MITRE ATT&CK evaluation](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/a-deeper-dive-into-the-apt29-mitre-att-amp-ck-evaluation/ba-p/1476134) 
+- [Microsoft Defender ATP has a new UEFI scanner](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-has-a-new-uefi-scanner/ba-p/1472290) 
+- [New partnerships with innovative leaders helps you fight advanced threats!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/new-partnerships-with-innovative-leaders-helps-you-fight/ba-p/1467697) 
+- [Say hello to the new alert page in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/say-hello-to-the-new-alert-page-in-microsoft-defender-atp/ba-p/1463673) 
+- [Migrate the old Power BI App to Microsoft Defender ATP Power BI templates!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/migrate-the-old-power-bi-app-to-microsoft-defender-atp-power-bi/ba-p/1439572) 
+- [Microsoft Defender ATP evaluation lab breach & attack simulators are now available in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-evaluation-lab-breach-amp-attack/ba-p/1406088) 
+- [Demystifying attack surface reduction rules - Part 4](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-4/ba-p/1384425) 
+- [Defending networks against human-operated ransomware](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/defending-networks-against-human-operated-ransomware/ba-p/1384282) 
+- [Automate the boring for your SOC with automatic investigation and remediation!](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/automate-the-boring-for-your-soc-with-automatic-investigation/ba-p/1381038) 
+- [Indicators enhancements: Allow/Block by certificates & more](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/indicators-enhancements-allow-block-by-certificates-amp-more/ba-p/1377586) 
+- [Demystifying attack surface reduction rules - Part 3](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-3/ba-p/1360968) 
+- [Onboarding and servicing non-persistent VDI machines with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/onboarding-and-servicing-non-persistent-vdi-machines-with/ba-p/1360721) 
+- [Harden endpoint security for COVID-19 and working from home with Threat & Vulnerability Management](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/harden-endpoint-security-for-covid-19-and-working-from-home-with/ba-p/1343641) 
+- [Deploy Microsoft Defender ATP for Mac in just a few clicks](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/deploy-microsoft-defender-atp-for-mac-in-just-a-few-clicks/ba-p/1341619) 
+- [MITRE ATT&CK evaluation results](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/mitre-att-amp-ck-evaluation-results/ba-p/1334208) 
+- [Demystifying attack surface reduction rules - Part 2](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-2/ba-p/1326565) 
+- [Demystifying attack surface reduction rules - Part 1](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/demystifying-attack-surface-reduction-rules-part-1/ba-p/1306420) 
+- [Threat & Vulnerability Management APIs are now generally available](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/threat-amp-vulnerability-management-apis-are-now-generally/ba-p/1304615) 
+- [Live response for earlier versions of Windows is now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/live-response-for-earlier-versions-of-windows-is-now-in-public/ba-p/1282156) 
+- [Secure your remote workforce with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-your-remote-workforce-with-microsoft-defender-atp/ba-p/1271806) 
+- [Secure Configuration Assessment (SCA) for Windows Server now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/secure-configuration-assessment-sca-for-windows-server-now-in/ba-p/1243885) 
+- [Microsoft Defender ATP service notification improvements](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-service-notification-improvements/ba-p/1244625) 
+- [Connect the dots using a device network overview Power BI report](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/connect-the-dots-using-a-device-network-overview-power-bi-report/ba-p/1238287) 
+- [Raw data export: Announcing Microsoft Defender ATP Streaming API GA](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/raw-data-export-announcing-microsoft-defender-atp-streaming-api/ba-p/1235500) 
+- [Microsoft Defender ATP for Linux is coming! ...And a sneak peek into what’s next](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/microsoft-defender-atp-for-linux-is-coming-and-a-sneak-peek-into/ba-p/1192251) 
+- [Enable tamper protection in Threat & Vulnerability Management to increase your security posture](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enable-tamper-protection-in-threat-amp-vulnerability-management/ba-p/1182920) 
+- [Put regulation fears to rest when deploying Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/put-regulation-fears-to-rest-when-deploying-microsoft-defender/ba-p/1170187) 
+- [Web content filtering with Microsoft Defender ATP now in public preview](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/web-content-filtering-with-microsoft-defender-atp-now-in-public/ba-p/1132287) 
+- [Extending Microsoft Defender ATP network of partners](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/extending-microsoft-defender-atp-network-of-partners/ba-p/1130867) 
+- [Block Access to Unsanctioned Apps using Microsoft Defender ATP & Microsoft Cloud App Security](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/block-access-to-unsanctioned-apps-using-microsoft-defender-atp/ba-p/1122354)
+- [Enforcement of TLS 1.2 for connections to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/enforcement-of-tls-1-2-for-connections-to-microsoft-defender-atp/ba-p/1085358) 
 
 ---
 
 ### 2019
 
-- [EDR capabilities for macOS have now arrived](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/edr-capabilities-for-macos-have-now-arrived/ba-p/1047801) December 04,2019
-- [Advanced hunting data schema changes](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/advanced-hunting-data-schema-changes/ba-p/1043914) December 03,2019
-- [Short & sweet educational videos for Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Short-amp-sweet-educational-videos-for-Microsoft-Defender-ATP/ba-p/1021978) November 20, 2019
-- [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Create-custom-reports-using-Microsoft-Defender-ATP-APIs-and/ba-p/1007684) November 14, 2019
-- [Recordings now online: Microsoft Defender ATP sessions from #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Recordings-now-online-Microsoft-Defender-ATP-sessions-from/ba-p/1003687) November 12, 2019
-- [Microsoft Defender ATP for Mac - EDR in Public Preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-for-Mac-EDR-in-Public-Preview/ba-p/985879) November 6, 2019
-- [How insights from system attestation and advanced hunting can improve enterprise security](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252) November 6, 2019
-- [Reducing risk with new Threat & Vulnerability Management capabilities](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Reducing-risk-with-new-Threat-amp-Vulnerability-Management/ba-p/978145) November 4, 2019
-- [Experts on demand: now generally available](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Experts-on-demand-now-generally-available/ba-p/960557) October 28,2019
-- [Microsoft Defender ATP sessions at #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836) October 16,2019
-- [Tamper protection now generally available for Microsoft Defender ATP customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) October 14, 2019
-- [Manage Windows Defender Firewall with Microsoft Defender ATP and Intune](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Manage-Windows-Defender-Firewall-with-Microsoft-Defender-ATP-and/ba-p/894414) October 4,2019
-- [Forrester names Microsoft a Leader in 2019 Endpoint Security Suites Wave](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Forrester-names-Microsoft-a-Leader-in-2019-Endpoint-Security/ba-p/874462) October 1, 2019
-- [Enhanced visibility into web threats with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhanced-visibility-into-web-threats-with-Microsoft-Defender-ATP/ba-p/882978) September 30,2019
-- [Microsoft Defender ATP EDR support for Windows Server 2008 R2 now generally available](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-EDR-support-for-Windows-Server-2008-R2/ba-p/876819) September 26,2019
-- [New! API Explorer and Connected applications](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/New-API-Explorer-and-Connected-applications/ba-p/860562) September 18,2019
-- [MITRE ATT&CK technique info in Microsoft Defender ATP alerts](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MITRE-ATT-amp-CK-technique-info-in-Microsoft-Defender-ATP-alerts/ba-p/856835) September, 16, 2019
-- [Microsoft Defender ATP supports custom IOCs for URLs, IP addresses, and domains](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-supports-custom-IOCs-for-URLs-IP/ba-p/847007) September 13,2019
-- [Enhance your SOC with Microsoft Defender ATP Automatic Investigation and Remediation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhance-your-SOC-with-Microsoft-Defender-ATP-Automatic/ba-p/848946) September 11,2019
-- [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) September 11,2019
-- [Hunting for reconnaissance activities using LDAP search filters](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Hunting-for-reconnaissance-activities-using-LDAP-search-filters/ba-p/824726) August 28,2019
-- [Advanced hunting updates: USB events, machine-level actions, and schema changes](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152) August 27,2019
-- [Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426) August 23,2019
-- [Microsoft Defender ATP 'Ask Me Anything' August 2019 - Summary](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Ask-Me-Anything-August-2019-Summary/ba-p/807446) August 15,2019
-- [Migrate your custom Threat Intelligence (TI) to indicators!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Migrate-your-custom-Threat-Intelligence-TI-to-indicators/ba-p/790048) August 6,2019
-- [Microsoft Defender Advanced Threat Protection is now available as an offer to US GCC High customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-Advanced-Threat-Protection-is-now-available/ba-p/784880) August 2, 2019
-- [The Golden Hour remake - Defining metrics for a successful security operations](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/The-Golden-Hour-remake-Defining-metrics-for-a-successful/ba-p/782014) July 31,2019
-- [Download files for in-depth investigation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Download-files-for-in-depth-investigation/ba-p/782078) July 31,2019
-- [MDATP Streaming API - Public Preview - DIY example](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MDATP-Streaming-API-Public-Preview-DIY-example/ba-p/769427) July 23,2019
-- [Microsoft Defender ATP Evaluation lab is now available in public preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Evaluation-lab-is-now-available-in-public/ba-p/770271?_lrsc=c4534f64-d451-4314-9b28-8925fb70f2b8) 23 July, 2019
-- [Microsoft’s Threat & Vulnerability Management now helps thousands of customers to discover, prioritize, and remediate vulnerabilities in real time](https://www.microsoft.com/security/blog/2019/07/02/microsofts-threat-vulnerability-management-now-helps-thousands-of-customers-to-discover-prioritize-and-remediate-vulnerabilities-in-real-time/) July 2, 2019
-- [Microsoft Defender ATP alert categories are now aligned with MITRE ATT&CK!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-alert-categories-are-now-aligned-with/ba-p/732748) July 1, 2019
-- [Microsoft Defender ATP automation & cloud app discovery now available in previous Windows 10 builds!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-automation-amp-cloud-app-discovery-now/ba-p/722590) June 26,2019
-- [Inside out: Get to know the advanced technologies at the core of Microsoft Defender ATP next generation protection](https://www.microsoft.com/security/blog/2019/06/24/inside-out-get-to-know-the-advanced-technologies-at-the-core-of-microsoft-defender-atp-next-generation-protection/) June 24,2019
-- [MDATP Python automation - Automate machine isolation with Python script](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077) June 3,2019
-- [Microsoft Defender ATP unified indicators of compromise (IoCs) experience](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415) May 29,2019
-- [Microsoft Defender ATP for Mac now in open public preview](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603) May 22,2019
-- [Incident response at your fingertips with Microsoft Defender ATP live response](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Incident-response-at-your-fingertips-with-Microsoft-Defender-ATP/ba-p/614894) May 20,2019
-- [Microsoft Defender ATP and Malware Information Sharing Platform integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M92) May 16,2019
-- [Updates to attack surface reduction rules for Office apps](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Updates-to-attack-surface-reduction-rules-for-Office-apps/ba-p/568951) May 15,2019
-- [Pushing custom Indicator of Compromise (IoCs) to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Pushing-custom-Indicator-of-Compromise-IoCs-to-Microsoft/m-p/532203#M81) May 5,2019
-- [Microsoft Defender ATP third-party solution integrations](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-third-party-solution-integrations/ba-p/532042) May 5,2019
-- [Microsoft Threat Experts reaches general availability](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Threat-Experts-reaches-general-availability/ba-p/502493) April 30,2019
-- [Protecting disconnected devices with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-disconnected-devices-with-Microsoft-Defender-ATP/ba-p/500341) April 29,2019
-- [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977) April 16,2019
-- [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-amp-Cloud-App-Security-Integration/m-p/450731#M42) April 15,2019
-- [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845) March 21,2019
-- [Tamper protection in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Tamper-protection-in-Microsoft-Defender-ATP/ba-p/389571) March 27,2019
-- [Announcing Microsoft Defender ATP for Mac](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-Microsoft-Defender-ATP-for-Mac/ba-p/378010) March 21,2019
-- [Palo Alto Networks and WDATP ad-hoc integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15) March 17,2019
-- [MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831) March 15,2019
-- [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8) March 7,2019
-- [Windows 10: Windows Defender Exploit Guard-Attack Surface Reduction rules](https://blogs.technet.microsoft.com/yongrhee/2019/02/24/windows-10-windows-defender-exploit-guard-attack-surface-reduction-rules/) February 24,2019
-- [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) February 17,2019
-- [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) February 15,2019
-- [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) January 28,2019
-- [Microsoft Defender ATP integrates with Microsoft Information Protection to discover, protect, and monitor sensitive data on Windows devices](https://www.microsoft.com/security/blog/2019/01/17/windows-defender-atp-integrates-with-microsoft-information-protection-to-discover-protect-and-monitor-sensitive-data-on-windows-devices/) January 17,2019
-- [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088) January 4,2019
+- [EDR capabilities for macOS have now arrived](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/edr-capabilities-for-macos-have-now-arrived/ba-p/1047801) 
+- [Advanced hunting data schema changes](https://techcommunity.microsoft.com/t5/microsoft-defender-atp/advanced-hunting-data-schema-changes/ba-p/1043914) 
+- [Short & sweet educational videos for Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Short-amp-sweet-educational-videos-for-Microsoft-Defender-ATP/ba-p/1021978) 
+- [Create custom reports using Microsoft Defender ATP APIs and Power BI](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Create-custom-reports-using-Microsoft-Defender-ATP-APIs-and/ba-p/1007684) 
+- [Recordings now online: Microsoft Defender ATP sessions from #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Recordings-now-online-Microsoft-Defender-ATP-sessions-from/ba-p/1003687) 
+- [Microsoft Defender ATP for Mac - EDR in Public Preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-for-Mac-EDR-in-Public-Preview/ba-p/985879) 
+- [How insights from system attestation and advanced hunting can improve enterprise security](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/How-insights-from-system-attestation-and-advanced-hunting-can/ba-p/969252) 
+- [Reducing risk with new Threat & Vulnerability Management capabilities](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Reducing-risk-with-new-Threat-amp-Vulnerability-Management/ba-p/978145) 
+- [Experts on demand: now generally available](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Experts-on-demand-now-generally-available/ba-p/960557) 
+- [Microsoft Defender ATP sessions at #MSIgnite 2019](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-sessions-at-MSIgnite-2019/ba-p/916836) 
+- [Tamper protection now generally available for Microsoft Defender ATP customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Tamper-protection-now-generally-available-for-Microsoft-Defender/ba-p/911482) 
+- [Manage Windows Defender Firewall with Microsoft Defender ATP and Intune](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Manage-Windows-Defender-Firewall-with-Microsoft-Defender-ATP-and/ba-p/894414) 
+- [Forrester names Microsoft a Leader in 2019 Endpoint Security Suites Wave](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Forrester-names-Microsoft-a-Leader-in-2019-Endpoint-Security/ba-p/874462) 
+- [Enhanced visibility into web threats with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhanced-visibility-into-web-threats-with-Microsoft-Defender-ATP/ba-p/882978) 
+- [Microsoft Defender ATP EDR support for Windows Server 2008 R2 now generally available](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-EDR-support-for-Windows-Server-2008-R2/ba-p/876819) 
+- [New! API Explorer and Connected applications](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/New-API-Explorer-and-Connected-applications/ba-p/860562) 
+- [MITRE ATT&CK technique info in Microsoft Defender ATP alerts](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MITRE-ATT-amp-CK-technique-info-in-Microsoft-Defender-ATP-alerts/ba-p/856835) 
+- [Microsoft Defender ATP supports custom IOCs for URLs, IP addresses, and domains](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-supports-custom-IOCs-for-URLs-IP/ba-p/847007) 
+- [Enhance your SOC with Microsoft Defender ATP Automatic Investigation and Remediation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Enhance-your-SOC-with-Microsoft-Defender-ATP-Automatic/ba-p/848946) 
+- [Test security products the right way and find new protection features with MDATP evaluation lab](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Test-security-products-the-right-way-and-find-new-protection/ba-p/848857) 
+- [Hunting for reconnaissance activities using LDAP search filters](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Hunting-for-reconnaissance-activities-using-LDAP-search-filters/ba-p/824726) 
+- [Advanced hunting updates: USB events, machine-level actions, and schema changes](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Advanced-hunting-updates-USB-events-machine-level-actions-and/ba-p/824152) 
+- [Gartner names Microsoft a Leader in 2019 Endpoint Protection Platforms Magic Quadrant](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Gartner-names-Microsoft-a-Leader-in-2019-Endpoint-Protection/ba-p/820426) 
+- [Microsoft Defender ATP 'Ask Me Anything' August 2019 - Summary](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Ask-Me-Anything-August-2019-Summary/ba-p/807446) 
+- [Migrate your custom Threat Intelligence (TI) to indicators!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Migrate-your-custom-Threat-Intelligence-TI-to-indicators/ba-p/790048) 
+- [Microsoft Defender Advanced Threat Protection is now available as an offer to US GCC High customers](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-Advanced-Threat-Protection-is-now-available/ba-p/784880) 
+- [The Golden Hour remake - Defining metrics for a successful security operations](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/The-Golden-Hour-remake-Defining-metrics-for-a-successful/ba-p/782014) 
+- [Download files for in-depth investigation](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Download-files-for-in-depth-investigation/ba-p/782078) 
+- [MDATP Streaming API - Public Preview - DIY example](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/MDATP-Streaming-API-Public-Preview-DIY-example/ba-p/769427) 
+- [Microsoft Defender ATP Evaluation lab is now available in public preview](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-Evaluation-lab-is-now-available-in-public/ba-p/770271?_lrsc=c4534f64-d451-4314-9b28-8925fb70f2b8) 
+- [Microsoft’s Threat & Vulnerability Management now helps thousands of customers to discover, prioritize, and remediate vulnerabilities in real time](https://www.microsoft.com/security/blog/2019/07/02/microsofts-threat-vulnerability-management-now-helps-thousands-of-customers-to-discover-prioritize-and-remediate-vulnerabilities-in-real-time/) 
+- [Microsoft Defender ATP alert categories are now aligned with MITRE ATT&CK!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-alert-categories-are-now-aligned-with/ba-p/732748) 
+- [Microsoft Defender ATP automation & cloud app discovery now available in previous Windows 10 builds!](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-automation-amp-cloud-app-discovery-now/ba-p/722590) 
+- [Inside out: Get to know the advanced technologies at the core of Microsoft Defender ATP next generation protection](https://www.microsoft.com/security/blog/2019/06/24/inside-out-get-to-know-the-advanced-technologies-at-the-core-of-microsoft-defender-atp-next-generation-protection/) 
+- [MDATP Python automation - Automate machine isolation with Python script](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Python-automation-Automate-machine-isolation-with-Python/ba-p/664077) 
+- [Microsoft Defender ATP unified indicators of compromise (IoCs) experience](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-unified-indicators-of-compromise-IoCs/ba-p/656415) 
+- [Microsoft Defender ATP for Mac now in open public preview](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-for-Mac-now-in-open-public-preview/ba-p/634603) 
+- [Incident response at your fingertips with Microsoft Defender ATP live response](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Incident-response-at-your-fingertips-with-Microsoft-Defender-ATP/ba-p/614894) 
+- [Microsoft Defender ATP and Malware Information Sharing Platform integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M92) 
+- [Updates to attack surface reduction rules for Office apps](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Updates-to-attack-surface-reduction-rules-for-Office-apps/ba-p/568951) 
+- [Pushing custom Indicator of Compromise (IoCs) to Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Pushing-custom-Indicator-of-Compromise-IoCs-to-Microsoft/m-p/532203#M81) 
+- [Microsoft Defender ATP third-party solution integrations](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-third-party-solution-integrations/ba-p/532042) 
+- [Microsoft Threat Experts reaches general availability](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Threat-Experts-reaches-general-availability/ba-p/502493) 
+- [Protecting disconnected devices with Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Protecting-disconnected-devices-with-Microsoft-Defender-ATP/ba-p/500341) 
+- [MDATP Threat & Vulnerability Management now publicly available!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-Threat-amp-Vulnerability-Management-now-publicly-available/ba-p/460977) 
+- [Native support for the discovery of Shadow IT](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MDATP-amp-Cloud-App-Security-Integration/m-p/450731#M42) 
+- [Introducing a risk-based approach to threat and vulnerability management](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Introducing-a-risk-based-approach-to-threat-and-vulnerability/ba-p/377845) 
+- [Tamper protection in Microsoft Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Tamper-protection-in-Microsoft-Defender-ATP/ba-p/389571) 
+- [Announcing Microsoft Defender ATP for Mac](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Announcing-Microsoft-Defender-ATP-for-Mac/ba-p/378010) 
+- [Palo Alto Networks and WDATP ad-hoc integration](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Palo-Alto-Networks-and-WDATP-ad-hoc-integration/m-p/375077#M15) 
+- [MITRE evaluation highlights industry-leading EDR capabilities in Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/MITRE-evaluation-highlights-industry-leading-EDR-capabilities-in/ba-p/369831) 
+- [Automate Windows Defender ATP response action: Machine isolation](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automate-Windows-Defender-ATP-response-action-Machine-isolation/m-p/362701#M8) 
+- [Windows 10: Windows Defender Exploit Guard-Attack Surface Reduction rules](https://blogs.technet.microsoft.com/yongrhee/2019/02/24/windows-10-windows-defender-exploit-guard-attack-surface-reduction-rules/) 
+- [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191) 
+- [Help protect the exec – go with the Flow!](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Help-protect-the-exec-go-with-the-Flow/ba-p/345597) 
+- [WDATP API “Hello World” (or using a simple PowerShell script to pull alerts via WDATP APIs)](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813) 
+- [Microsoft Defender ATP integrates with Microsoft Information Protection to discover, protect, and monitor sensitive data on Windows devices](https://www.microsoft.com/security/blog/2019/01/17/windows-defender-atp-integrates-with-microsoft-information-protection-to-discover-protect-and-monitor-sensitive-data-on-windows-devices/) 
+- [Microsoft Defender ATP built-in threat summary and health reports](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Microsoft-Defender-ATP-built-in-threat-summary-and-health/ba-p/392088) 
 
 ---
 
 ### 2018
 
-- [What’s new in Windows Defender ATP, November 2018](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-Windows-Defender-ATP-November-2018/ba-p/289112) November 19,2018
-- [New! Windows Defender ATP Incidents narrate the end-to-end attack story](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666) November 5,2018
-- [Automating investigation and response for memory-based attacks](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354) October 22,2018
-- [SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925) October 16,2019
-- [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265) September 27,2018
-- [WDATP September 2018 preview features are out](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254) September 5,2018)
-- [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594) August 29,2018
-- [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208) August 16,2018
-- [Interpreting Exploit Guard ASR audit alerts](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Interpreting-Exploit-Guard-ASR-audit-alerts/ba-p/228366) August 14,2018
-- [Improve your defensive posture with Exploit Guard ASR](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Improve-your-defensive-posture-with-Exploit-Guard-ASR/ba-p/224947) August 6,2018
-- [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) August 5,2018
-- [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454) July 31,2018
-- [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) July 15,2018
-- [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898) June 29,2018
-- [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) June 5,2018
+- [What’s new in Windows Defender ATP, November 2018](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-Windows-Defender-ATP-November-2018/ba-p/289112) 
+- [New! Windows Defender ATP Incidents narrate the end-to-end attack story](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/New-Windows-Defender-ATP-Incidents-narrate-the-end-to-end-attack/ba-p/282666) 
+- [Automating investigation and response for memory-based attacks](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Automating-investigation-and-response-for-memory-based-attacks/ba-p/276354) 
+- [SecOps is more effective thanks to Microsoft Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/SecOps-is-more-effective-thanks-to-Microsoft-Windows-Defender/ba-p/272925) 
+- [Microsoft Cloud App Security and Windows Defender ATP - better together](https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/Microsoft-Cloud-App-Security-and-Windows-Defender-ATP-better/ba-p/263265) 
+- [WDATP September 2018 preview features are out](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/WDATP-September-2018-preview-features-are-out/ba-p/242254) 
+- [Hunting tip of the month: Downloads originating from email links](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Downloads-originating-from-email-links/ba-p/239594) 
+- [Optimized reporting latency and expedite mode](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Optimized-reporting-latency-and-expedite-mode/ba-p/229208) 
+- [Interpreting Exploit Guard ASR audit alerts](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Interpreting-Exploit-Guard-ASR-audit-alerts/ba-p/228366) 
+- [Improve your defensive posture with Exploit Guard ASR](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Improve-your-defensive-posture-with-Exploit-Guard-ASR/ba-p/224947) 
+- [Advanced hunting now includes network adapters information](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Advanced-hunting-now-includes-network-adapters-information/ba-p/224402) 
+- [Hunting tip of the month: Browser downloads](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-Browser-downloads/ba-p/220454) 
+- [Getting Started with Windows Defender ATP Advanced Hunting](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Getting-Started-with-Windows-Defender-ATP-Advanced-Hunting/ba-p/215835) 
+- [Hunting tip of the month: PowerShell commands](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/Hunting-tip-of-the-month-PowerShell-commands/ba-p/210898) 
+- [What’s new in the WDATP Portal?](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/What-s-new-in-the-WDATP-Portal/ba-p/200828) 
 - [Protecting Windows Server with Windows Defender ATP](https://techcommunity.microsoft.com/t5/Windows-Defender-ATP/)
-- [Enhancing conditional access with machine-risk data from Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/microsoft-security-and/enhancing-conditional-access-with-machine-risk-data-from-windows/ba-p/250559#:~:text=Conditional%20access%20uses%20a%20combination,automated%20action%20to%20remediate%20attacks.)f April 18,2018
-- Protecting-Windows-Server-with-Windows-Defender-ATP/ba-p/267114) April 18,2018
-- [New demo: Advanced Threat Protection across Windows 10 and Office](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039) March 31,2018
-- [Exploit Guard - Network Protection](https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624) February 20, 2018
-- [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) February 12, 2018
+- [Enhancing conditional access with machine-risk data from Windows Defender Advanced Threat Protection](https://techcommunity.microsoft.com/t5/microsoft-security-and/enhancing-conditional-access-with-machine-risk-data-from-windows/ba-p/250559#:~:text=Conditional%20access%20uses%20a%20combination,automated%20action%20to%20remediate%20attacks)
+- [New demo: Advanced Threat Protection across Windows 10 and Office](https://techcommunity.microsoft.com/t5/Windows-Blog-Archive/New-demo-Advanced-Threat-Protection-across-Windows-10-and-Office/ba-p/167039) 
+- [Exploit Guard - Network Protection](https://techcommunity.microsoft.com/t5/Windows-10-security/Exploit-Guard-Network-Protection/m-p/161624) 
+- [Announcing: Windows Defender ATP support for Windows 7 and Windows 8.1](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/announcing-windows-defender-atp-support-for-windows-7-and-windows-8-1/) 
 
 ---
 
 ### 2017
 
-- [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/) December 4,2017
-- [Microsoft partners extend Windows Defender ATP across platforms](https://www.microsoft.com/en-us/microsoft-365/blog/2017/11/08/microsoft-partners-extend-windows-defender-atp-across-platforms/) November 8,2017
-- [Windows Defender ATP helps analysts investigate and respond to threats](https://www.microsoft.com/en-us/itshowcase/windows-defender-atp-helps-analysts-investigate-and-respond-to-threats) September 21,2017
-- [Windows Defender ATP Windows 10 Fall Creators Update now open for public preview](https://blogs.windows.com/windowsexperience/2017/09/07/windows-defender-atp-windows-10-fall-creators-update-now-open-public-preview/#rco1WMWZ8mUM1GiW.97) September 7, 2017
-- [Windows Defender ATP machine learning: Detecting new and unusual breach activity](https://www.microsoft.com/security/blog/2017/08/03/windows-defender-atp-machine-learning-detecting-new-and-unusual-breach-activity/) August 3, 2017
-- [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) June 27,2017
-- [Microsoft signs agreement to acquire Hexadite](https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/) June 8, 2017
-- [Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack](https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/) May 4,2017
-- [The Story of Windows Defender](https://community.windows.com/en-us/stories/the-story-of-windows-defender) April 17,2017
+- [Windows Defender ATP machine learning and AMSI: Unearthing script-based attacks that ‘live off the land’](https://www.microsoft.com/security/blog/2017/12/04/windows-defender-atp-machine-learning-and-amsi-unearthing-script-based-attacks-that-live-off-the-land/) 
+- [Microsoft partners extend Windows Defender ATP across platforms](https://www.microsoft.com/en-us/microsoft-365/blog/2017/11/08/microsoft-partners-extend-windows-defender-atp-across-platforms/) 
+- [Windows Defender ATP helps analysts investigate and respond to threats](https://www.microsoft.com/en-us/itshowcase/windows-defender-atp-helps-analysts-investigate-and-respond-to-threats) 
+- [Windows Defender ATP Windows 10 Fall Creators Update now open for public preview](https://blogs.windows.com/windowsexperience/2017/09/07/windows-defender-atp-windows-10-fall-creators-update-now-open-public-preview/#rco1WMWZ8mUM1GiW.97) 
+- [Windows Defender ATP machine learning: Detecting new and unusual breach activity](https://www.microsoft.com/security/blog/2017/08/03/windows-defender-atp-machine-learning-detecting-new-and-unusual-breach-activity/) 
+- [Windows Defender ATP Fall Creators Update](https://www.microsoft.com/security/blog/2017/06/27/whats-new-in-windows-defender-atp-fall-creators-update/) 
+- [Microsoft signs agreement to acquire Hexadite](https://news.microsoft.com/2017/06/08/microsoft-signs-agreement-to-acquire-hexadite/) 
+- [Windows Defender ATP thwarts Operation WilySupply software supply chain cyberattack](https://www.microsoft.com/security/blog/2017/05/04/windows-defender-atp-thwarts-operation-wilysupply-software-supply-chain-cyberattack/) 
+- [The Story of Windows Defender](https://community.windows.com/en-us/stories/the-story-of-windows-defender) 
 
 ---
 
 ### 2016
 
-- [Windows Defender Advanced Threat Protection Preview Expands](https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/16/windows-defender-advanced-threat-protection-preview-expands/) May 16,2016
-- [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97) March 1, 2016
+- [Windows Defender Advanced Threat Protection Preview Expands](https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/16/windows-defender-advanced-threat-protection-preview-expands/) 
+- [Announcing Windows Defender Advanced Threat Protection](https://blogs.windows.com/windowsexperience/2016/03/01/announcing-windows-defender-advanced-threat-protection/#ck2Ox6uLppsRGMQF.97) 
 
 ---
 
@@ -484,11 +518,11 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
-- [What’s in a name?? A lot!! Announcing Windows Defender!](https://blogs.technet.microsoft.com/antimalware/2005/11/04/whats-in-a-name-a-lot-announcing-windows-defender/) November 4, 2005
+- [What’s in a name?? A lot!! Announcing Windows Defender!](https://blogs.technet.microsoft.com/antimalware/2005/11/04/whats-in-a-name-a-lot-announcing-windows-defender/)
 
 ---
 
-## Podcasts
+## Podcasts 
 
 - [Talking Security hosted by Frans Oudendorp](https://talkingsecurity.nl/)
 - [Security Unlocked hosted by Natalia Godyla and Nic Fillingham](https://techcommunity.microsoft.com/t5/security-compliance-identity/security-unlocked-a-new-podcast-on-the-technology-and-people/ba-p/1878709)
@@ -502,6 +536,9 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+- [Defender for Endpoint - FalconForce](https://medium.com/falconforce/tagged/defender-for-endpoint)
+- [[Feb 2023] Ultimate Comparison of Defender for Endpoint Features by OS](https://campbell.scot/mde-comparison-feb-2023/)
+- [Microsoft Defender for Endpoint blog Series](https://jeffreyappel.nl/tag/mde-series/)
 - [Microsoft Defender for Endpoint series – Defender Vulnerability Management – Part5](https://jeffreyappel.nl/microsoft-defender-for-endpoint-series-defender-vulnerability-management-part5/)
 - [Assessment and Control of Browser Extensions](https://www.verboon.info/2022/06/assessment-and-control-of-browser-extensions/)
 - [Microsoft Defender for Endpoint Internals 0x02 — Audit Settings and Telemetry](https://medium.com/falconforce/microsoft-defender-for-endpoint-internals-0x02-audit-settings-and-telemetry-1d0af3ebfb27)
@@ -596,6 +633,9 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Webinars and Videos
 
+- [Microsoft Sentinel from the field](https://www.youtube.com/playlist?list=PL3ZTgFEc7LyvY90VTpKVFf70DXM7--47u)
+- [All Things M365 Compliance](https://www.youtube.com/@allthingsm365compliance)
+- [KQL Cafe](www.kqlcafe.com)
 - [Introduction into KQL/](https://github.com/alexverboon/SessionPresentations/tree/main/Introduction%20into%20KQL)
 - [057 - EN - Defender for Office 365 with Pawel Partyka](https://anchor.fm/hairlessinthecloud/episodes/057---EN---Defender-for-Office-365-with-Pawel-Partyka-elffhi)
 - [The NEW Attack Simulator in M365 w/ End User Training](https://mattsoseman.wordpress.com/2020/11/01/the-new-attack-simulator-in-m365-w-end-user-training/)
@@ -626,6 +666,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Advanced Hunting / KQL
 
+- [Kusto Detective Agency](https://detective.kusto.io/)
 - [Exploring Anomalies with Log Analytics using KQL](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/exploring-anomalies-with-log-analytics-using-kql/ba-p/2252477) 
 - [Kusto King blog](https://www.kustoking.com/)
 - [Become a KQL Ninja](https://getshitsecured.com/2020/08/07/become-a-kql-ninja/)
@@ -692,6 +733,7 @@ The following are links to the entire series so far:
 - [@thijslecomte](@thijslecomte)
 - [@YongRheeMSFT](https://twitter.com/yongrheemsft)
 - [@castello_johnny](https://twitter.com/castello_johnny)
+- [Alex Verboon](https://twitter.com/alexverboon)
 - [Matt Soseman](https://twitter.com/SosemanMatt)
 - [Frans Oudendorp](https://twitter.com/oudendorp)
 - [Corina Feuerstein](https://twitter.com/corinaf)
@@ -705,6 +747,8 @@ The following are links to the entire series so far:
 - [@reprise_99](https://twitter.com/reprise_99) Matt Zorich
 - [Sami Lamppu](https://twitter.com/samilamppu)
 - [Ru Campell](https://twitter.com/rucam365)
+- [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
+- [BertJanCyber](https://twitter.com/BertJanCyber)
   
 ---
 
@@ -715,7 +759,7 @@ The following are links to the entire series so far:
 - [Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/)
 - [Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide)
 - [Microsoft Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/)
-- [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/)
+- [Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/)
 
 ---
 
@@ -727,7 +771,7 @@ Stay up to date about latest releases (fixes, new features etc.)
 - [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
 - [What’s new in Microsoft 365 Defender](https://docs.microsoft.com/en-us/microsoft-365/security/defender/whats-new?view=o365-worldwide)
 - [What’s new in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365?view=o365-worldwide)
-- [What’s new in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
+- [What’s new in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
 
 ## Microsoft 365 Defender and Azure Sentinel content on GitHub
 
