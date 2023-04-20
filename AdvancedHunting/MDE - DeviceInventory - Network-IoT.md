@@ -20,7 +20,8 @@ DeviceInfo
     | summarize arg_max(Timestamp, *) by DeviceId
     )
     on $left.DeviceId == $right.DeviceId
-| project Timestamp, DeviceId, DeviceName, DeviceType, DeviceSubtype, IPAddress, MacAddress, Model, Vendor, OSPlatform, OSVersion, OSDistribution
+| project Timestamp, DeviceId, DeviceName, DeviceType, DeviceSubtype, IPAddress, MacAddress, Model, Vendor, OSPlatform, OSVersion, OSDistribution, ExposureLevel
+//| summarize count() by DeviceType, DeviceSubtype
 ```
 
 ### Network Device Inventory
