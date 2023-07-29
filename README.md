@@ -34,6 +34,8 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 > [Subscribe to the Weekly Microsoft Defender Newsletter from Rod Trent](https://www.getrevue.co/profile/MicrosoftDefender?via=twitter-card&client=DesktopWeb&element=publication-card)
 
+> [Share your feedback on Microsoft 365 Defender via the new feedback portal](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/share-your-feedback-on-microsoft-365-defender-via-the-new/ba-p/3845896)
+
 ---
 
 
@@ -65,6 +67,41 @@ Welcome to the Microsoft 365 Defender Resource Hub.
 
 ### 2023
 
+- [Update on Defender Vulnerability Management capabilities in Defender for Servers Plan-2](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/update-on-defender-vulnerability-management-capabilities-in/ba-p/3882311)
+- [Microsoft Defender Vulnerability Management – Firmware Security Advisories](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/microsoft-defender-vulnerability-management-firmware-security/ba-p/3884569)
+- [Unleash the Power of Threat Intel: Introducing the MDTI GitHub](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/unleash-the-power-of-threat-intel-introducing-the-mdti-github/ba-p/3884452)
+- [New Threat Actor Intel Profiles Added to Defender TI](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/new-threat-actor-intel-profiles-added-to-defender-ti/ba-p/3841181)
+- [What's New: Defender TI Intel Reporting Dashboard and Workbook](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-defender-ti-intel-reporting-dashboard-and-workbook/ba-p/3812899)
+- [What’s New: MDTI Interoperability with Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-mdti-interoperability-with-microsoft-365-defender/ba-p/3799846)
+- [What's New: Hash and URL Search Intelligence](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-hash-and-url-search-intelligence/ba-p/3781430)
+- [Microsoft Defender for IoT moves to site-based licensing for protecting OT environments](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-moves-to-site-based-licensing-for/ba-p/3843302)
+- [Latest Enhancements Boost Usability, Enhance Your Tools and Workflows](https://techcommunity.microsoft.com/t5/microsoft-defender-external/latest-enhancements-boost-usability-enhance-your-tools-and/ba-p/3818055)
+- [Part 2: Uncovering Trackers Using the Defender EASM API](https://techcommunity.microsoft.com/t5/microsoft-defender-external/part-2-uncovering-trackers-using-the-defender-easm-api/ba-p/3806494)
+- [Seeking Dead and Dying Servers with the MDEASM APIs](https://dtechcommunity.microsoft.com/t5/microsoft-defender-external/seeking-dead-and-dying-servers-with-the-mdeasm-apis/ba-p/3741412)
+- [SANS training content now available within Attack Simulation Training!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/sans-training-content-now-available-within-attack-simulation/ba-p/3827366)
+- [Threat Explorer: UX enhancements, URL clicks tab and customizable export](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/threat-explorer-ux-enhancements-url-clicks-tab-and-customizable/ba-p/3834717)
+- [Responding to targeted mail attacks with Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/responding-to-targeted-mail-attacks-with-microsoft-365-defender/ba-p/3819185)
+- [Introducing the release of Attack Simulation Training Write API functionality (available in beta)](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/introducing-the-release-of-attack-simulation-training-write-api/ba-p/3812297)
+- [Training only campaign is now available with an expanded training module library](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/training-only-campaign-is-now-available-with-an-expanded/ba-p/3795237)
+- [Attack Simulation Training: Using machine learning to drive more effective simulations](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/attack-simulation-training-using-machine-learning-to-drive-more/ba-p/3791023)
+- [Email Protection Basics in Microsoft 365: Anti-malware, Safe Attachments, and Quarantine](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/email-protection-basics-in-microsoft-365-anti-malware-safe/ba-p/3791516)
+- [Investigate URLs and domains more efficiently with the new URL page](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/investigate-urls-and-domains-more-efficiently-with-the-new-url/ba-p/3813657)
+- [Microsoft empowers partners to securely build their own connector on its Open App Connector Platform](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/microsoft-empowers-partners-to-securely-build-their-own/ba-p/3876496)
+- [New file analysis and pivoting capabilities in Microsoft 365 Defender](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/new-file-analysis-and-pivoting-capabilities-in-microsoft-365/ba-p/3853313)
+- [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
+- [Leveraging the convergence of Microsoft Defender for Identity in Microsoft 365 Defender Portal](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/leveraging-the-convergence-of-microsoft-defender-for-identity-in/ba-p/3856321)
+- [Prevent repeat attacks with threat-informed security posture recommendations](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/prevent-repeat-attacks-with-threat-informed-security-posture/ba-p/3824920)
+- [Safeguarding your OAuth apps with App Governance](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/safeguarding-your-oauth-apps-with-app-governance/ba-p/3837343)
+- [Transform the way you investigate by using Behaviors & new detections in XDR, starting w/SaaS apps](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/transform-the-way-you-investigate-by-using-behaviors-amp-new/ba-p/3825154)
+- [Boost your detection and response workflows with alert tuning](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/boost-your-detection-and-response-workflows-with-alert-tuning/ba-p/3824712)
+- [Automatically disrupt adversary-in-the-middle (AiTM) attacks with XDR](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/automatically-disrupt-adversary-in-the-middle-aitm-attacks-with/ba-p/3821751)
+- [RSA News: Taking XDR for SaaS apps to the next level - App Governance is now included in E5 Security](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/rsa-news-taking-xdr-for-saas-apps-to-the-next-level-app/ba-p/3804722)
+- [Use the new eBPF-based sensor for Defender for Endpoint on Linux](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/use-the-new-ebpf-based-sensor-for-defender-for-endpoint-on-linux/ba-p/3873720)
+- [Now in Public Preview: Device isolation and AV scanning for Linux and macOS](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/now-in-public-preview-device-isolation-and-av-scanning-for-linux/ba-p/3869646)
+- [Manage security settings for Windows, macOS, and Linux natively in Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/manage-security-settings-for-windows-macos-and-linux-natively-in/ba-p/3870617)
+- [Announcing the monthly security summary report for Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/announcing-the-monthly-security-summary-report-for-microsoft/ba-p/3840628)
+- [Discovering internet-facing devices using Microsoft Defender for Endpoint](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/discovering-internet-facing-devices-using-microsoft-defender-for/ba-p/3778975)
+- [Enrich your advanced hunting experience using network layer signals from Zeek](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/enrich-your-advanced-hunting-experience-using-network-layer/ba-p/3794693)
 - [Defender for Endpoint and disconnected environments. Cloud-centric networking decisions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-cloud/ba-p/3786540)
 - [Microsoft awarded Best Advanced Protection for Corporate and Consumer Users by AV-TEST](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-awarded-best-advanced-protection-for-corporate-and/ba-p/3765332)
 - [Defender for Endpoint and disconnected environments. Which proxy configuration wins?](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defender-for-endpoint-and-disconnected-environments-which-proxy/ba-p/3738899)
@@ -579,7 +616,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 - [How to Use Microsoft Teams as a Frontend to Azure Sentinel](https://azurecloudai.blog/2021/04/14/how-to-use-microsoft-teams-as-a-frontend-to-azure-sentinel/) 
 - [How to Find the Enhanced Functions Capabilities in the Azure Sentinel Console](https://azurecloudai.blog/2021/04/19/how-to-find-the-enhanced-functions-capabilities-in-the-azure-sentinel-console/) 
 - [Start Having Visibility In Service Accounts With Defender For Identity](https://m365internals.com/2021/03/27/start-having-visibility-in-service-accounts-with-defender-for-identity/) 
-- [Gundog](https://emptydc.com/2021/02/25/gundog/) 
+- [Gundog](https://emptydc.com/2021/02/25/gundog/)
 - [Microsoft Defender — Detect Hidden Windows Run](https://medium.com/@theoraclewrites/microsoft-defender-detect-hidden-windows-runs-1c8094e072c7)
 - [Detecting SolarWinds SUNBURST IOC, from Microsoft Defender for Endpoint and Azure Sentinel](https://www.kustoking.com/detecting-solarwinds-sunburst-ioc-from-microsoft-defender-for-endpoint-and-azure-sentinel/)
 - [Using Active Directory Replication Metadata for hunting purposes](https://security-tzu.com/2020/11/09/active-directory-replication-metadata-for-forensics-purposes/)
@@ -766,6 +803,7 @@ The following are links to the entire series so far:
 ## What's new
 
 Stay up to date about latest releases (fixes, new features etc.)
+
 - [What’s new with Microsoft Cloud App Security?](https://docs.microsoft.com/en-us/cloud-app-security/release-notes)
 - [What’s new in Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new)
 - [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
@@ -775,6 +813,7 @@ Stay up to date about latest releases (fixes, new features etc.)
 
 ## Microsoft 365 Defender and Azure Sentinel content on GitHub
 
+- [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
 - [MTP - Advanced Hunting](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)
 - [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
 - [WindowsDefenderATP-Hunting-Queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
