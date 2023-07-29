@@ -559,8 +559,12 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ---
 
-## Podcasts 
+## Podcasts
 
+- [Afternoon Cyber Tea](https://podcasts.apple.com/us/podcast/cybersecurity-becomes-a-business-imperative/id1484676119?i=1000492796621)
+- [Uncovering Hidden Risks](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/welcome-to-our-podcast-series-on-uncovering-hidden-risks/ba-p/1726690)
+- [Azure Security Podcast](https://azsecuritypodcast.azurewebsites.net/)
+- [BlueHat Podcast](https://podcasts.apple.com/us/podcast/the-bluehat-podcast/id1688087915)
 - [Talking Security hosted by Frans Oudendorp](https://talkingsecurity.nl/)
 - [Security Unlocked hosted by Natalia Godyla and Nic Fillingham](https://techcommunity.microsoft.com/t5/security-compliance-identity/security-unlocked-a-new-podcast-on-the-technology-and-people/ba-p/1878709)
 - [Security Insiders hosted by Maarten Goet](https://podcasts.apple.com/us/podcast/security-insiders/id1513525644)
@@ -670,6 +674,7 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Webinars and Videos
 
+- [Ten Minute KQL](https://www.youtube.com/@TenMinuteKQL)
 - [Microsoft Sentinel from the field](https://www.youtube.com/playlist?list=PL3ZTgFEc7LyvY90VTpKVFf70DXM7--47u)
 - [All Things M365 Compliance](https://www.youtube.com/@allthingsm365compliance)
 - [KQL Cafe](www.kqlcafe.com)
@@ -786,6 +791,9 @@ The following are links to the entire series so far:
 - [Ru Campell](https://twitter.com/rucam365)
 - [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
 - [BertJanCyber](https://twitter.com/BertJanCyber)
+- [Martin Schvartzman](https://twitter.com/martin77s)
+- [Gerson Levitz](https://twitter.com/gman4626)
+- [Daniel Naim](https://twitter.com/naimious)
   
 ---
 
