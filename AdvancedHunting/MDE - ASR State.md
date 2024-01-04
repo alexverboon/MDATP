@@ -6,6 +6,9 @@ Use the below query to retrieve information about the state of the individual At
 
 ## Query
 
+
+
+
 ```Kusto
 
 DeviceInfo
@@ -25,6 +28,9 @@ DeviceInfo
     | project-away DeviceName1
 
 ```
+
+
+
 
 
 ----

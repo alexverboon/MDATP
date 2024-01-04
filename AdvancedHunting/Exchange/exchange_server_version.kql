@@ -34,3 +34,24 @@ DeviceTvmSoftwareInventory
 | join kind=leftouter  exchangeserverioninfo
 on $left.SoftwareVersion == $right. Build_short
 | project DeviceName, OSPlatform, OSVersion, OSArchitecture, SoftwareName, SoftwareVersion, ProductName, ReleaseDate, Build_short
+
+
+
+
+
+not very precise but can help when you have unidentified versions. 
+
+let pattern = @"^(.*)(\.\d+)$";
+let exchangeserverioninfo = (externaldata (ProductName:string, ReleaseDate:string, Build_short:string, Build_long:string)
+[@"https://raw.githubusercontent.com/alexverboon/MDATP/master/AdvancedHunting/Exchange/exchnage_versions.csv"]
+with(format="csv",ignoreFirstRecord=true))
+| where ProductName !startswith "#"
+| extend Build_long_main =  extract(pattern,1, Build_long)
+| project ProductName,ReleaseDate, Build_long, Build_long_main,Build_short;
+DeviceProcessEvents
+| where FolderPath contains "Exchange Server"
+| extend ProcessVersionInfoProductVersion_main =  extract(pattern,1,ProcessVersionInfoProductVersion)
+| distinct DeviceName, FileName, FolderPath, ProcessVersionInfoProductVersion, ProcessVersionInfoProductVersion_main
+| join kind=leftouter  exchangeserverioninfo
+on $left.ProcessVersionInfoProductVersion_main  == $right.Build_long_main
+| project DeviceName, FileName, ProcessVersionInfoProductVersion, Build_long, Build_short, ProductName, ReleaseDate
