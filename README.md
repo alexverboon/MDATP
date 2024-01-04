@@ -1,7 +1,7 @@
 # Microsoft Defender XDR - Resource Hub
 
 <p align="center">
-    <img src="./Images/DefenderXDR.png" alt="Defender XDR" >
+    <img src="./Images/DefenderXDR.png" alt="small_Defender XDR" >
 </p>
 
 Welcome to the Microsoft Defender XDR Resource Hub.
