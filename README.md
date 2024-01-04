@@ -611,6 +611,8 @@ Yes no typo , it was around 2005 when 'Windows Defender' appeared
 
 ## Other Blog Posts
 
+- [Microsoft Defender for Endpoint on AWS: Part 3](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-3)
+- [Microsoft Defender for Endpoint on AWS: Part 2](https://blog.lightspin.io/microsoft-defender-for-endpoint-on-aws-part-2)
 - [Detecting RMM tools using Microsoft Defender for Endpoint](https://www.michalos.net/2023/11/27/detecting-rmm-tools-using-microsoft-defender-for-endpoint/)
 - [Detecting Ransonware with Defender for Cloud Apps](https://cyberdom.blog/2023/08/27/detecting-ransomware-with-defender-for-cloud-apps/)
 - [Unmasking the shadows the art of threat hunting in Defender for Identity](https://cyberdom.blog/2023/12/09/unmasking-the-shadows-the-art-of-threat-hunting-in-defender-for-identity/)
