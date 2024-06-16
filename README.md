@@ -1,11 +1,8 @@
 # Microsoft Defender XDR - Resource Hub
 
-<p align="center">
-    <img src="./Images/DefenderXDR.png" alt="small_Defender XDR" >
-</p>
+The content has moved here: [Defender Resource Hub]( https://alexverboon.github.io/DefenderResourceHub/)
 
-Welcome to the Microsoft Defender XDR Resource Hub.
-
+---
 > [Become a Microsoft Defender for Endpoint Ninja](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-for-endpoint-ninja-training-august-2021/ba-p/2611623)
 
 > [Become a Microsoft Defender for Office 365 Ninja!](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-ninja-training-september-2021/ba-p/2685081)
@@ -70,6 +67,10 @@ Welcome to the Microsoft Defender XDR Resource Hub.
 ---
 
 ### 2024
+
+
+
+
 
 ### 2023
 
@@ -776,142 +777,3 @@ microsoft-defender-for-endpoint-internals-0x03-mde-telemetry-unreliability-and-l
 - [Advanced Hunting Cheat Sheet](https://github.com/MiladMSFT/AdvHuntingCheatSheet) by @PowershellPoet, @maarten_goet, @Pawp81, @Bakk3rM and @MicrosoftMT
 - [SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)
 
-### Must Learn KQL Series
-
-blog post series to educate about the simplicity and power of the Kusto Query Language (KQL) by [@rodtrent](https://twitter.com/rodtrent)
-
-<b><h2>Table of Contents</h2></b>
-The following are links to the entire series so far:
-<br><br>
-* <a href="https://azurecloudai.blog/2021/11/17/must-learn-kql-part-1-tools-and-resources/" target="_blank">Must Learn KQL Part 1: Tools and Resources</a> - <i>Posted November 17, 2021</i> - <a href="https://youtu.be/rcy2uSMLyqo" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/11/18/must-learn-kql-part-2-just-above-sea-level/" target="_blank">Must Learn KQL Part 2: Just Above Sea Level</a> - <i>Posted November 18, 2021</i><br>
-* <a href="https://azurecloudai.blog/2021/11/19/must-learn-kql-part-3-workflow/" target="_blank">Must Learn KQL Part 3: Workflow</a> - <i>Posted November 19, 2021</i> - <a href="https://youtu.be/Ga9ZABXtYWM" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/11/22/must-learn-kql-part-4-search-for-fun-and-profit/" target="_blank">Must Learn KQL Part 4: Search for Fun and Profit</a> - <i>Posted November 22, 2021</i><br>
-* <a href="https://azurecloudai.blog/2021/11/29/must-learn-kql-part-5-turn-search-into-workflow/" target="_blank">Must Learn KQL Part 5: Turn Search into Workflow</a> - <i>Posted November 29, 2021</i> - <a href="https://youtu.be/uugHEu4v0bw" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/12/02/must-learn-kql-part-6-interface-intimacy/" target="_blank">Must Learn KQL Part 6: Interface Intimacy</a> - <i>Posted December 2, 2021, Updated May 13, 2022</i> - <a href="https://youtu.be/h18G8s1biXA" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/12/07/must-learn-kql-part-7-schema-talk/" target="_blank">Must Learn KQL Part 7: Schema Talk</a> - <i>Posted December 7, 2021</i> - <a href="https://youtu.be/VdjVv63n3Vc" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/12/08/must-learn-kql-part-8-the-where-operator/" target="_blank">Must Learn KQL Part 8: The Where Operator</a> - <i>Posted December 8, 2021</i> - <a href="https://youtu.be/dBmCNXgpjWM" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/12/13/must-learn-kql-part-9-the-limit-and-take-operators/" target="_blank">Must Learn KQL Part 9: The Limit/Take Operators</a> - <i>Posted December 13, 2021</i> - <a href="https://youtu.be/CJT-cR1Lfzo" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2021/12/14/must-learn-kql-part-10-the-count-operator/" target="_blank">Must Learn KQL Part 10: The Count Operator</a> - <i>Posted December 14, 2021</i> - <a href="https://youtu.be/Cc7CcTXok2s" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2022/01/05/must-learn-kql-part-11-the-summarize-operator/" target="_blank">Must Learn KQL Part 11: The Summarize Operator</a> - <i>Posted January 5, 2022</i> - <a href="https://youtu.be/J3GJ81KsjHQ" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2022/01/10/must-learn-kql-part-12-the-render-operator/" target="_blank">Must Learn KQL Part 12: The Render Operator (with Bin and Time)</a> - <i>Posted January 10, 2022</i> - <a href="https://youtu.be/yY3IMWRwOmM" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2022/01/18/must-learn-kql-part-13-the-extend-operator/" target="_blank">Must Learn KQL Part 13: The Extend Operator</a> - <i>Posted January 18, 2022</i> - <a href="https://youtu.be/W4v1u7enWHc" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2022/01/20/must-learn-kql-part-14-the-project-operator/" target="_blank">Must Learn KQL Part 14: The Project Operator</a> - <i>Posted January 20, 2022</i> - <a href="https://www.youtube.com/watch?v=KYxxW82FAyA" target="_blank">Video Edition</a><br>
-* <a href="https://azurecloudai.blog/2022/01/24/must-learn-kql-part-15-the-distinct-operator/" target="_blank">Must Learn KQL Part 15: The Distinct Operator</a> - <i>Posted January 24, 2022</i><br>
-* <a href="https://azurecloudai.blog/2022/01/26/must-learn-kql-part-16-the-order-sort-and-top-operators/" target="_blank">Must Learn KQL Part 16: The Order/Sort and Top Operators</a> - <i>Posted January 26, 2022</i><br>
-* <a href="https://azurecloudai.blog/2022/02/01/must-learn-kql-part-17-the-let-statement/" target="_blank">Must Learn KQL Part 17: The Let Statement</a> - <i>Posted February 1, 2022</i><br> 
-* <a href="https://azurecloudai.blog/2022/02/07/must-learn-kql-part-18-the-union-operator/" target="_blank">Must Learn KQL Part 18: The Union Operator</a> - <i>Posted February 7, 2022</i><br> 
-* <a href="https://azurecloudai.blog/2022/02/14/must-learn-kql-part-19-the-join-operator/" target="_blank">Must Learn KQL Part 19: The Join Operator</a> - <i>Posted February 14, 2022</i><br> 
-* <a href="https://azurecloudai.blog/2022/02/17/must-learn-kql-part-20-building-your-first-microsoft-sentinel-analytics-rule/" target="_blank">Must Learn KQL Part 20: Building your first Microsoft Sentinel Analytics Rule</a> - <i>Posted February 17, 2022</i><br>
-<br><br>
-
----
-
-## Microsoft Security on Twitter
-
-- [Eshlomo - Advanced Hunting Queries](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
-- [NotNinjaCat @RavivTamir](https://twitter.com/RavivTamir)
-- [Microsoft Defender ATP @WindowsATP](https://twitter.com/WindowsATP)
-- [Microsoft Threat Protection @MicrosoftMTP](https://twitter.com/MicrosoftMTP)
-- [Dan Michelson](https://twitter.com/danm332)
-- [Hadar Feldman](https://twitter.com/HadarFeldman)
-- [Tomer Teller](https://twitter.com/djteller)
-- [Heike Ritter](https://twitter.com/HeikeRitter)
-- [Christian H. Müller](https://twitter.com/chrishmueller)
-- [Alex Benoit](https://twitter.com/ITPirate)
-- [Jan Geisbauer](https://twitter.com/janvonkirchheim)
-- [Matias Borg](https://twitter.com/MattiasBorg82)
-- [Oliver Kieselbach](https://twitter.com/okieselb)
-- [Amar Hasayen](https://twitter.com/ammarhasayen)
-- [Maarten Goet](https://twitter.com/maarten_goet)
-- [Eric Soldierer](https://twitter.com/EricSoldierer)
-- [Christian H. Mueller](https://twitter.com/chrisonsecurity)
-- [Huy](https://twitter.com/DebugPrivilege)
-- [@thijslecomte](@thijslecomte)
-- [@YongRheeMSFT](https://twitter.com/yongrheemsft)
-- [@castello_johnny](https://twitter.com/castello_johnny)
-- [Alex Verboon](https://twitter.com/alexverboon)
-- [Matt Soseman](https://twitter.com/SosemanMatt)
-- [Frans Oudendorp](https://twitter.com/oudendorp)
-- [Corina Feuerstein](https://twitter.com/corinaf)
-- [Daniel Naim](https://twitter.com/danielmy1Daniel)
-- [Pawel Partyka](https://twitter.com/Pawp81)
-- [Olaf Hartong](https://twitter.com/olafhartong)
-- [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
-- [@BlueVoyant](https://twitter.com/BlueVoyant)
-- [@Sec_GroundZero](https://twitter.com/Sec_GroundZero)
-- [@ashwinpatil](https://twitter.com/ashwinpatil)
-- [@reprise_99](https://twitter.com/reprise_99) Matt Zorich
-- [Sami Lamppu](https://twitter.com/samilamppu)
-- [Ru Campell](https://twitter.com/rucam365)
-- [Jeffrey Appel](https://twitter.com/JeffreyAppel7)
-- [BertJanCyber](https://twitter.com/BertJanCyber)
-- [Martin Schvartzman](https://twitter.com/martin77s)
-- [Gerson Levitz](https://twitter.com/gman4626)
-- [Daniel Naim](https://twitter.com/naimious)
-- [Michalis Michalos](https://twitter.com/cyb3rmik3)
-- [Mehmet Ergene](https://twitter.com/Cyb3rMonk)
-  
----
-
-## Microsoft Docs
-
-- [Microsoft Defender XDR](https://docs.microsoft.com/en-us/microsoft-365/security/mtp/microsoft-threat-protection?view=o365-worldwide)
-- [Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/windows/security/threat-protection/)
-- [Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/)
-- [Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide)
-- [Microsoft Cloud App Security](https://docs.microsoft.com/en-us/cloud-app-security/)
-- [Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/)
-
----
-
-## What's new
-
-Stay up to date about latest releases (fixes, new features etc.)
-
-- [What’s new in Microsoft Defender XDR](https://learn.microsoft.com/en-us/microsoft-365/security/defender/whats-new?view=o365-worldwide)
-- [What’s new with Microsoft Cloud App Security?](https://docs.microsoft.com/en-us/cloud-app-security/release-notes)
-- [What’s new in Microsoft Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new)
-- [What’s new in Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/whats-new-in-microsoft-defender-atp?view=o365-worldwide)
-- [What’s new in Microsoft Defender for Office 365](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365?view=o365-worldwide)
-- [What’s new in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/whats-new)
-
-## Microsoft Defender XDR and Microsoft Sentinel content on GitHub
-
-- [MDTI Solutions](https://github.com/Azure/MDTI-Solutions)
-- [MTP - Advanced Hunting](https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries)
-- [Microsoft Defender Advanced Threat Protection PowerShell Module](https://github.com/alexverboon/PSMDATP)
-- [WindowsDefenderATP-Hunting-Queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
-- [MicrosoftDefenderATP-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderATP-API-PowerShell)
-- [defender-atp-manageability](https://github.com/microsoft/microsoft-defender-atp-manageability)
-- [MDATP PowerBI](https://github.com/microsoft/MDATP-PowerBI-Templates/blob/master/README.md)
-- [Github - Power BI Report templates powered by Microsoft Defender Advanced Threat Protection Advance Hunting Queries](https://github.com/microsoft/MDATP-PowerBI-Templates)
-- [MDATP PowerBI](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
-- [CGCFAD WDATP-Advanced-Hunting](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
-- [richlilly2004 MDATP hunting queries](https://github.com/richlilly2004/Microsoft-Defender-ATP)
-- [Huy - DebugPrivilege](https://github.com/DebugPrivilege/KQL-Queries)
-- [AndyFul - ConfigureDefender](https://github.com/AndyFul/ConfigureDefender)
-- [David Sass - DefenderASR](https://github.com/sassdawe/HardenWindows/tree/master/WindowsDefender/DefenderASR)
-- [CGCFAD Hunting Queries](https://github.com/CGCFAD/WDATP-Advanced-Hunting)
-- [Eli Shlomo](https://github.com/eshlomo1/WindowsDefenderATP_Advanced_Hunting_Samples_Queries)
-- [KQL Tools](https://github.com/microsoft/KqlTools)
-- [GunDog](https://github.com/jangeisbauer/gundog/blob/main/gundog.ps1)
-- [mdatp pwsh](https://github.com/Smalls1652/mdatp-pwsh)
-- [blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
-- [Threat hunting and detection by Cyb3r-Monk](https://github.com/Cyb3r-Monk/Threat-Hunting-and-Detection)
-- [Microsoft Defender 365 raw data schema - Overview](https://github.com/Iveco/xknow_infosec/blob/main/M365D_tables.md)
-- [Azure Sentinel KQL Queries by reprise99](https://github.com/reprise99/Sentinel-Queries)
-- [KQL Reference Manual by SecGroundZero](https://github.com/secgroundzero/KQL_Reference_Manual)  
-- [Blue teaming with KQL by Ashwin Patil](https://github.com/ashwin-patil/blue-teaming-with-kql)
-- [Sentinel Queries](https://github.com/reprise99/Sentinel-Queries)
-- [SecGroundZero KQL Reference Material](https://github.com/secgroundzero/KQL_Reference_Manual)
-- [ashwin-patil - Blue Teaming with KQL](https://github.com/ashwin-patil/blue-teaming-with-kql)
-- [Linux - iOS](https://github.com/microsoft/mdatp-xplat)
-- [Adarsh Pandey](https://github.com/AdarshPandey-dev/Kusto-Query-Language-KQL-)
-- [Marco Gerber](https://github.com/gerbermarco/AzureKQL)
-- [Live Response Scripts from YongRhee](https://github.com/YongRhee-MDE/LiveResponse)
-- [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
-- [BertJanCyber](https://github.com/Bert-JanP)
-- [Ugur Koc](https://github.com/ugurkocde/KQL_Intune)
-
----
